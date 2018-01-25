@@ -1,3 +1,3 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Vinayakumar R is a Computer Science Ph.D. student at Amrita Vishwa Vidyapeetham 
+with research interests in machine learning and Cybersecurity.
+He obtained a MCA from Amrita Vishwa Vidyapeetham in May 2014.
