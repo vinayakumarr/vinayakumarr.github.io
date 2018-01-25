@@ -1,6 +1,6 @@
- I am a fourth-year Computer Science Ph.D. student at Carnegie Mellon University and am supported by an NSF graduate research fellowship. I spent the first two years of my Ph.D. working on mobile systems and now work with [Zico Kolter](http://zicokolter.com/) on machine learning and optimization. I am particularly interested in improving our understanding of important modeling problems in computer vision, language, and reinforcement learning through the use of deep learning, optimization (sometimes convex), theory, and statistics. As examples, see our [input-convex neural network](https://arxiv.org/abs/1609.07152) and [OptNet](https://arxiv.org/abs/1703.00443) papers. 
+I am a third-year Ph.D. student at Computational Engineering and Networking (CEN) department at Amrita Vishwa Vidyapeetham. I am working in the area of Artificial intelligence, Machine learning, Data mining and Deep learning for Cyber Security. I spent the first two years of my Ph.D. working on machine learning for use-cases of Cyber Security and now I am working on deep learning for network traffic analysis and ransomware detection. I am particularly interested in improving the malicious detection rate through the use of Artificial Intelligence (AI), including machine learning, data mining, deep learning and natural language processing.
 
-I strongly believe in open science and reproducible research and actively publish code on [my Github profile](https://github.com/bamos). I am also the author of [OpenFace](https://cmusatyalab.github.io/openface/), which is an open source face recognition project that uses deep learning.<br><br>
+[my Github profile](https://github.com/vinayakumarr/).<br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
