@@ -15,6 +15,35 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 </tr>
 </table>
 
+## <i class="fa fa-chevron-right"></i> Under-Review
++ Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-URL: A Deep Dive to Catch Malicious URLs using Deep learning with Character Embeddings", DLS 2018
+
++ Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-DGA-Detect: Applying Deep Learning to DGA based Malware Detection at Scale", DLS 2018
+Harikrishnan Nb, Vinayakumar R and Soman Kp, "Deep Learning based Phishing URL Detection", DLS 2018
+
++ Anu Vazhayil, Vinayakumar R and Soman Kp, "Comparative study of the detection of malicious URLs using Shallow and Deep Networks", DLS 2018
+
++ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", BioSTAR 2018
+
++ Vinayakumar R, Shaunak Sanjay Ganorkar, Vipin Pavithran, Pradeep Menon, K.K.Senthil Velan and Soman Kp, "Deep-Ransomware-Detect: Detecting Ransomware using Deep Neural Network", BioSTAR 2018
+
++ Vinayakumar R, Barathi Ganesh Hb, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases", BioSTAR 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "Digital storytelling using Scratch: Engaging children towards digital storytelling", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "CT-Blocks Analyser: Analysing CT-Blocks projects", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "CT-Blocks: Learning Computational thinking by snapping blocks", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "Alg-Design: facilitates to learn Algorithmic thinking for beginners", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "Map-Blocks: Playing with online data: infuse to think in a computational way", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "Enhancing Computational thinking with MIT Scratch: Fractals Geometry", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "Building-Blocks: Generating 3D design by snapping blocks", ICALT 2018
+
++ Vinayakumar R, Soman Kp and Pradeep Menon, "DB-Learn: Studying Relational Algebra concepts by Snapping Blocks", ICALT 2018
 
 ## <i class="fa fa-chevron-right"></i> Education
 
