@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Brandon Amos
+title: Vinayakumar R
 ---
 
 ---
