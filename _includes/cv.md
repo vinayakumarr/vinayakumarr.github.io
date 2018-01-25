@@ -51,7 +51,7 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 <tr>
   <td class='col-md-3'>Aug 2015 - Present</td>
   <td>
-    <strong>Amrita Vishwa Vidyapeetham</strong>, Prof. Soman KP <br>
+    <strong>Research Associate</strong>, Prof. Soman KP <br>
     Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
   </td>
 </tr>
