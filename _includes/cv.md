@@ -263,137 +263,53 @@ biology problems is given.
 
 </table>
 
-
-## <i class="fa fa-chevron-right"></i> Teaching Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-1'>S2017</td>
-  <td><strong>Graduate AI</strong> (CMU 15-780), TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2016</td>
-  <td><strong>Distributed Systems</strong> (CMU 15-440/640), TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2013</td>
-  <td><strong>Software Design and Data Structures</strong> (VT CS 2114), TA</td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Industry Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'>May 2014 - Aug 2014</td>
-  <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
-</tr>
-<tr>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> CMU Graduate Coursework
-+ Statistical Machine Learning (10-702, Au), L. Wasserman, S2017
-+ Deep Reinforcement Learning (10-703, Au), R. Salakhutdinov and A. Fragkiadaki, S2017
-+ Intermediate Statistics (10-705, Au), L. Wasserman, F2016
-+ Topics in Deep Learning (10-807), R. Salakhutdinov, F2016
-+ Convex Optimization (10-725), R. J. Tibshirani, F2015
-+ Algorithms in the Real World (15-853), G. Blelloch and A. Gupta, F2015
-+ Semantics of Programming Languages (15-812), A. Platzer, S2015
-+ Optimizing Compilers for Modern Architecture (15-745), T. Mowry, S2015
-+ Advanced Operating and Distributed Systems (15-712), D. Andersen, F2014
-+ Mobile and Pervasive Computing (15-812), M. Satyanarayanan and D. Siewiorek, F2014
-
-
-## <i class="fa fa-chevron-right"></i> Honors & Awards
-<table class="table table-hover">
-<tr>
-  <td class='col-md-2'>2016 - 2019</td>
-  <td>
-    NSF Graduate Research Fellowship
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2014</td>
-  <td>
-    1st Place Undergraduate Senior Capstone Award, Virginia Tech Computer Science
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2014</td>
-  <td>
-    David Heilman Research Award, Virginia Tech Computer Science
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2014</td>
-  <td>
-    Senior Scholar Award, Virginia Tech Computer Science
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2014</td>
-  <td>
-    Honorable Mention, CRA Outstanding Undergraduate Researcher Award
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2011 - 2014</td>
-  <td>
-    Awarded eight undergraduate merit scholarships
-    <!--  -->
-  </td>
-</tr>
-</table>
-
+## <i class="fa fa-chevron-right"></i> PhD Coursework
++ MA607 - Linear Algebra
++ CN613 - Computational optimization theory- linear and non-linear methods
++ CY603 - Pattern Recognition and Machine Learning
++ CN624 - Scientific Computing
++ CN703 - Computational Methods for Cryptography
++ CN733 - Neural network & Deep learning
++ CY800 - Research Methodology
++ Foundation Mathematics
++ Computational Thinking
 
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-C, C++, Fortran, Haskell, Java, Lua, Make, *Mathematica*, Python, R, Scala
+C, C++, Java, Scala, Python, Introduction to R, Introduction to Julia, Weka, Matlab
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Web development</td>
+  <td markdown="1">
+Html, CSS, JavaScript, JSON, JQuery, Php, Bootstrap, XML, Jsp
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Educational Platforms</td>
+  <td markdown="1">
+MIT Scratch, Snap Berkley, BYOB, Scribble, Beetle Blocks
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-Akka, NumPy, Pandas, PyTorch, SciPy, TensorFlow, Torch7
+Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop and Apache Spark
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Systems</td>
+  <td class='col-md-2'>Database</td>
   <td markdown="1">
-Linux, OSX
+MySQL, Introduction to Oracle, Apache Cassandra
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Documentation Tool</td>
+  <td markdown="1">
+LibreOffice, Microsoft Office, and Latex
   </td>
 </tr>
 </table>
