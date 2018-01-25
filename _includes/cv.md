@@ -20,7 +20,7 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-DGA-Detect: Applying Deep Learning to DGA based Malware Detection at Scale", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
 
-+Harikrishnan Nb, Vinayakumar R and Soman Kp, "Deep Learning based Phishing URL Detection", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
++ Harikrishnan Nb, Vinayakumar R and Soman Kp, "Deep Learning based Phishing URL Detection", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
 
 + Anu Vazhayil, Vinayakumar R and Soman Kp, "Comparative study of the detection of malicious URLs using Shallow and Deep Networks", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
 
