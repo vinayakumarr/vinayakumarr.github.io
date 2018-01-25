@@ -1,21 +1,17 @@
 I am a third-year Ph.D. student at Computational Engineering and Networking (CEN) department at Amrita Vishwa Vidyapeetham. I am working in the area of Artificial intelligence, Machine learning, Data mining and Deep learning for Cyber Security. I spent the first two years of my Ph.D. working on machine learning for use-cases of Cyber Security and now I am working on deep learning for network traffic analysis and ransomware detection. I am particularly interested in improving the malicious detection rate through the use of Artificial Intelligence (AI), including machine learning, data mining, deep learning and natural language processing.
 
-[my Github profile](https://github.com/vinayakumarr/).<br><br>
+[My Github profile](https://github.com/vinayakumarr/).<br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov 2017</td>
-  <td>I will be at NIPS 2017 this year. Come see our <a href='https://papers.nips.cc/paper/7132-task-based-end-to-end-model-learning-in-stochastic-optimization'>Task-based End-to-end Model Learning in Stochastic Optimization</a> work at the main conference and our (unpublished) End-to-end Model Predictive Control work at the deep reinforcement learning symposium. </td>
+  <td>Our book chapter "Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis" got accepted and appear in Big data in Engineering Applications. </td>
 </tr>
 <tr>
   <td class='col-md-3'>June 2017</td>
-  <td>Our ICNN and OptNet papers have been accepted to ICML and the camera-ready versions are available on arXiv.</td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2017</td>
-  <td>I am interning at Google DeepMind in London this summer with Nando de Freitas.</td>
+  <td>Our paper titled "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" has accepted in Special Issue On Big Data Searching, Mining, Optimization & Securing (BSMOS) Peer to Peer Cloud Based Networks in IJISMD.</td>
 </tr>
 </table>
 
@@ -24,34 +20,27 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2014 - Present</td>
+    <td class="col-md-3">Aug 2015 - Present</td>
     <td>
         <strong>Ph.D. in Computer Science</strong>
         <br>
-      Carnegie Mellon University
+      Amrita Vishwa Vidyapeetham, Coimbatore
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2016</td>
+    <td class="col-md-3">June 2011 - May 2014</td>
     <td>
-        <strong>M.S. in Computer Science</strong>
+        <strong>Masters of Computer Application</strong>
         <br>
-      Carnegie Mellon University
+      Amrita Vishwa Vidyapeetham, Mysore
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2011 - May 2014</td>
+    <td class="col-md-3">June 2008 - May 2011</td>
     <td>
-        <strong>B.S. in Computer Science</strong>
-          (3.99/4.00)
+        <strong>Bachelor of Computer Application</strong>
         <br>
-      Virginia Tech
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">May 2011</td>
-    <td>
-      Northside High School (Roanoke, Virginia)
+      JSS College, Mysore
     </td>
   </tr>
 </table>
@@ -60,45 +49,17 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 ## <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Apr 2016 - Present</td>
+  <td class='col-md-3'>Aug 2015 - Present</td>
   <td>
-    <strong>Carnegie Mellon University</strong>, Prof. Zico Kolter <br>
-    Machine learning and optimization
+    <strong>Amrita Vishwa Vidyapeetham</strong>, Prof. Soman KP <br>
+    Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
   </td>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
+  <td class='col-md-3'>Jun 2014 - Jul 2015</td>
   <td>
-    <strong>Google DeepMind</strong>, Prof. Nando de Freitas <br>
-    Machine and reinforcement learning
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Aug 2014 - Apr 2016</td>
-  <td>
-    <strong>Carnegie Mellon University</strong>, Prof. Mahadev Satyanarayanan <br>
-    Applied machine learning and mobile systems
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - May 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Jules White <br>
-    Mobile systems, cyber-physical systems, and security
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2013 - May 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Layne Watson <br>
-    Scientific computing, global/stochastic optimization, and bioinformatics
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Nov 2012 - Mar 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Binoy Ravindran <br>
-    Heterogeneous compilers
+    <strong>Research Assistant</strong>, Prof. Soman KP <br>
+    Block-based programming development for Indian K-12 Schools
   </td>
 </tr>
 </table>
