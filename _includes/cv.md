@@ -114,7 +114,7 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-C, C++, Java, Scala, Python, Introduction to R, Introduction to Julia, Weka, Matlab
+C, C++, Java, Scala, Python, Basics of R, Basics of Julia
   </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ MIT Scratch, Snap Berkley, BYOB, Scribble, Beetle Blocks
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop and Apache Spark
+Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop, Apache Spark, Weka and Matlab
   </td>
 </tr>
 <tr>
