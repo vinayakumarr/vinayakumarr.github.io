@@ -208,11 +208,7 @@ LibreOffice, Microsoft Office, and Latex
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
-<strong>Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis</strong><br> 
-<strong>Vinayakumar R</strong>, Prabaharan Poornachandran and Soman KP<br>
-Big data in Engineering Applications Springer<br>
-[under print]
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+
 
 ### Preprints and Tech Reports 
 
@@ -220,30 +216,11 @@ Big data in Engineering Applications Springer<br>
 
 <tr>
 <td>
-    <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
-    <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
-    CMU 2016<br>
-    [P1] 
-[<a href='javascript: none'
-    onclick='$("#abs_amos2016openfaceP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2016openfaceP" style="text-align: justify; display: none" markdown="1">
-Cameras are becoming ubiquitous in the Internet of Things (IoT) and
-can use face recognition technology to improve context. There is a
-large accuracy gap between today's publicly available face recognition
-systems and the state-of-the-art private face recognition
-systems. This paper presents our OpenFace face recognition library
-that bridges this accuracy gap. We show that OpenFace provides
-near-human accuracy on the LFW benchmark and present a new
-classification benchmark for mobile scenarios. This paper is intended
-for non-experts interested in using OpenFace and provides a light
-introduction to the deep neural network techniques we use.
-
-We released OpenFace in October 2015 as an open source library under
-the Apache 2.0 license. It is available at:
-<http://cmusatyalab.github.io/openface/>
-</div>
-
+    <strong>Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis</strong><br> 
+<strong>Vinayakumar R</strong>, Prabaharan Poornachandran and Soman KP<br>
+Big data in Engineering Applications Springer<br>
+[under print]
+[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
 </td>
 </tr>
 
