@@ -167,6 +167,17 @@ LibreOffice, Microsoft Office, and Latex
 
 + 2nd Social Media Mining for Health Applications Shared Task at AMIA 2017.
 
+## <i class="fa fa-chevron-right"></i> Co-organized the following events in the department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
+
+Saturday, October 28, 2017 - <a href='http://nlp.amrita.edu/AISec2017/AISec2017.html' target='_blank'>AISec 2017</a>: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security.
+
+Saturday, December 16, 2017 - <a href='http://nlp.amrita.edu/DeepBlockchain2017/DeepBlockchain2017.html' target='_blank'>Blockchain 2017</a>: Blockchain and Machine Learning.
+
+Saturday, November 11, 2017 - <a href='http://nlp.amrita.edu/DeepSci2017/DeepSci2017.html' target='_blank'>DeepSci 2017</a>: Deep Learning for Healthcare and Financial Data Analytics.
+
+December 22-24, 2017 - <a href='http://nlp.amrita.edu/DeepChem2017/DeepChem.html' target='_blank'>DeepChem 2017</a>: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials.
+
+November 25-27, 2017 - <a href='http://nlp.amrita.edu/MSP-2017/MSP-2017.html' target='_blank'> A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification</a>
 
 ## <i class="fa fa-chevron-right"></i> All Publications <a href="https://github.com/bamos/cv/blob/master/publications/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
