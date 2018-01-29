@@ -210,7 +210,7 @@ LibreOffice, Microsoft Office, and Latex
 
 
 
-### Preprints and Tech Reports 
+### Book Chapter 
 
 <table class="table table-hover">
 
@@ -222,85 +222,6 @@ Big data in Engineering Applications Springer<br>
 [<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
 </td>
 </tr>
-
-
-<tr>
-<td>
-    <strong>Are Cloudlets Necessary?</strong><br>
-    Y. Gao, W. Hu, K. Ha, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
-    CMU 2015<br>
-    [P2] 
-[<a href='javascript: none'
-    onclick='$("#abs_gao2015cloudletsP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2015/CMU-CS-15-139.pdf' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_gao2015cloudletsP" style="text-align: justify; display: none" markdown="1">
-We present experimental results from Wi-Fi and 4G LTE networks to validate the
-intuition that low end-to-end latency of cloud services improves application
-response time and reduces energy consumption on mobile devices. We focus
-specifically on computational offloading as a cloud service. Using a wide
-range of applications, and exploring both pre-partitioned and dynamically
-partitioned approaches, we demonstrate the importance of low latency for
-cloud offload services. We show the best performance is achieved by
-offloading to cloudlets, which are small-scale edge-located data centers. Our
-results show that cloudlets can improve response times 51% and reduce energy
-consumption in a mobile device by up to 42% compared to cloud offload.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Adaptive VM handoff across cloudlets</strong><br>
-    K. Ha, Y. Abe, Z. Chen, W. Hu, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
-    CMU 2015<br>
-    [P3] 
-[<a href='javascript: none'
-    onclick='$("#abs_ha2015adaptiveP").toggle()'>abs</a>] [<a href='http://ra.adm.cs.cmu.edu/anon/2015/CMU-CS-15-113.pdf' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_ha2015adaptiveP" style="text-align: justify; display: none" markdown="1">
-Cloudlet offload is a valuable technique for ensuring low end-to-end latency of
-resource-intensive cloud processing for many emerging mobile applications.
-This paper examines the impact of user mobility on cloudlet offload, and
-shows that even modest user mobility can result in significant network
-degradation. We propose VM handoff as a technique for seamlessly transferring
-VMencapsulated execution to a more optimal offload site as users move. Our
-approach can perform handoff in roughly a minute even over limited WANs by
-adaptively reducing data transferred. We present experimental results to
-validate our implementation and to demonstrate effectiveness of adaptation to
-changing network conditions and processing capacity
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
-    <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
-    VT 2014<br>
-    [P4] 
-[<a href='javascript: none'
-    onclick='$("#abs_amos2014QNSTOPP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_amos2014QNSTOPP" style="text-align: justify; display: none" markdown="1">
-QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
-quasi-Newton stochastic optimization method of Castle and Trosset. For
-stochastic problems, convergence theory exists for the particular
-algorithmic choices and parameter values used in QNSTOP. Both the parallel
-driver subroutine, which offers several parallel decomposition strategies, and the serial driver subroutine can be used for stochastic optimization or
-deterministic global optimization, based on an input switch. QNSTOP is
-particularly effective for “noisy” deterministic problems, using only
-objective function values. Some performance data for computational systems
-biology problems is given.
-</div>
-
-</td>
-</tr>
-
-
 </table>
 
 ### Conference Proceedings <a href="https://github.com/bamos/cv/blob/master/publications/conference.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
