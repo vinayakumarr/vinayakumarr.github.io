@@ -234,7 +234,7 @@ Big data in Engineering Applications Springer<br>
     <strong>Detecting Android Malware using Long Short-term Memory-LSTM</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+[under print]  [code] <br>
 </td>
 </tr>
 
@@ -243,7 +243,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+[under print]  [code] <br>
 </td>
 </tr>
 
@@ -253,7 +253,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+[under print]  [code] <br>
 </td>
 </tr>
 
