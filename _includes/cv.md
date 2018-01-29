@@ -262,7 +262,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+[under print]  [code] <br>
 </td>
 </tr>
 
