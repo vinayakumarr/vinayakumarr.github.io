@@ -202,14 +202,14 @@ LibreOffice, Microsoft Office, and Latex
 + Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018. [<a href='https://github.com/vinayakumarr/ICMR' target='_blank'> Tutorial</a>]
 
 
-## <i class="fa fa-chevron-right"></i> All Publications <a href="https://github.com/bamos/cv/blob/master/publications/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> All Publications
 
-<a href="https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao" class="btn btn-primary" style="padding: 0.3em;">
+<a href="https://scholar.google.com/citations?user=oIYw0LQAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
 
-### Preprints and Tech Reports <a href="https://github.com/bamos/cv/blob/master/publications/tech-reports.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+### Preprints and Tech Reports 
 
 <table class="table table-hover">
 
