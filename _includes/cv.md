@@ -45,6 +45,11 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 + Vinayakumar R, Soman Kp and Pradeep Menon, "Building-Blocks: Generating 3D design by snapping blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a>
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "DB-Learn: Studying Relational Algebra concepts by Snapping Blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a>
+
++ Harikrishnan NB, Vinayakumar R and Soman KP, "Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system", <a href='http://iccids2018.ncuindia.edu/' target='_blank'>ICCIDS 2018</a>
+
++ Harikrishnan NB, Vinayakumar R and Soman KP, "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
