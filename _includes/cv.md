@@ -219,7 +219,6 @@ LibreOffice, Microsoft Office, and Latex
     <strong>Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis</strong><br> 
 <strong>Vinayakumar R</strong>, Prabaharan Poornachandran and Soman KP<br>
 Big data in Engineering Applications Springer<br>
-[under print]
 [<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
 </td>
 </tr>
