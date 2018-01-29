@@ -149,6 +149,24 @@ LibreOffice, Microsoft Office, and Latex
 </tr>
 </table>
 
+## <i class="fa fa-chevron-right"></i> Participation in NLP and Cyber Security Shared Tasks
+
++ Named Entity rEcognition and Linking (#Micropost2015 NEEL): Named Entity Recognition and Linking.
+
++ International Cybersecurity Data Mining Competition CDMC 2016.
+
++ VarDial 2017 - Fourth Workshop on NLP for Similar Languages, Varieties, and Dialects.
+
++ Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017.
+
++ WASSA-2017 Emotion Intensity Task.
+
++ DEFT 2017 Text Search @ TALN / RECITAL 2017 Opinion analysis and figurative language in tweets in French.
+
++ International Cybersecurity Data Mining Competition CDMC 2017.
+
++ 2nd Social Media Mining for Health Applications Shared Task at AMIA 2017.
+
 
 ## <i class="fa fa-chevron-right"></i> All Publications <a href="https://github.com/bamos/cv/blob/master/publications/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
