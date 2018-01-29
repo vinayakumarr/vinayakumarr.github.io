@@ -267,3 +267,178 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
 </tr>
 
 </table>
+
+
+
+### Conference Papers 
+
+<table class="table table-hover">
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Networks for Secure Shell (SSH) Traffic Analysis</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125851&tag=1' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/1.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126018' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/2.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Android Malware Detection and Classification</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126084' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Long Short-Term Memory based Operation Log Anomaly Detection</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125846' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Encrypted Text Categorization</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125868' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/5.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Applying Convolutional Neural Network for Network Intrusion Detection</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126009' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/6.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and Deep networks</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126143' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/7.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Applying Deep Learning Approaches for Network Traffic Prediction</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126198' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/8.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Networks for Ransomware Detection and Classification</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP, K.K.Senthil Velan and Shaunak Ganorkar<br>
+IEEE Xplore<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125850' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/9.pdf' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Instantaneous Heart Rate as a Robust Feature for Sleep Apnea Severity Detection using Deep Learning</strong><br>
+Rahul K. Pathinarupothi, <strong>Vinaykumar R</strong>, Ekanath Rangan, Gopalakrishnan E., and Soman K. P.<br>
+IEEE Xplore <br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7897263' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Single Sensor Techniques for Sleep Apnea Diagnosis using Deep Learning</strong><br>
+Rahul K. Pathinarupothi, Dhara Prathap J., Ekanath Rangan, Gopalakrishnan E., <strong>Vinaykumar R</strong>, and Soman K. P.<br>
+IEEE Xplore <br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8031206' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Real-time Detection of Atrial Fibrillation from Short time single lead ECG traces using Recurrent neural networks</strong><br>
+Sujadevi VG., Soman KP., and <strong>Vinayakumar R</strong><br>
+Intelligent Systems Technologies and Applications (ISTA'17), Springer<br>
+[<a href='https://link.springer.com/chapter/10.1007/978-3-319-68385-0_18' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Anomaly detection in Phonocardiogram employing Deep learning</strong><br>
+Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
+4th International Conference on Computational Intelligence in Data Mining (ICCIDM-2017), Springer <br>
+[<a href='' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep models for Phonocardiography (PCG) classification</strong><br>
+Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
+IEEE Xplore <br>
+[<a href='' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model</strong><br>
+Sreelekshmy Selvin., <strong>Vinayakumar R</strong>, Gopalakrishnan E., Vijay Krishna Menon., Soman K.P.,<br>
+6th International Conference on Advances in Computing, Communications and Informatics (ICACCI2017)<br>
+IEEE Xplore <br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126078' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>AMRITA-CEN@SAIL2015: Sentiment analysis in Indian languages</strong><br>
+Shriya Se, <strong>Vinayakumar</strong>, R., Anand Kumar M., and Soman K.P. <br>
+MIKE 2015 Proceedings of the Third International Conference on Mining Intelligence and Knowledge Exploration, Springer <br>
+[<a href='https://rd.springer.com/chapter/10.1007/978-3-319-26832-3_67' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Predicting the Sentimental Reviews in Tamil Movie using Machine Learning Algorithms</strong> v
+Shriya Se, <strong>Vinayakumar R</strong>, Anand Kumar M., and Soman K.P. <br>
+Indian Journal of Science and Technology (IJST) <br>
+[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification</strong> <br>
+Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
+TAP Energy 2017. <br>
+[<a href='' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] [<a href='' target='_blank'>code</a>]<br>
+</td>
+</tr>
+
+</table>
