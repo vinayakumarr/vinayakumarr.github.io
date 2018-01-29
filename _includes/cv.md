@@ -224,6 +224,50 @@ Big data in Engineering Applications Springer<br>
 </tr>
 </table>
 
+
+### Journal Papers 
+
+<table class="table table-hover">
+
+<tr>
+<td>
+    <strong>Detecting Android Malware using Long Short-term Memory-LSTM</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+</td>
+</tr>
+
+</table>
+
 ### Conference Proceedings <a href="https://github.com/bamos/cv/blob/master/publications/conference.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <table class="table table-hover">
