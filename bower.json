@@ -1,9 +1,9 @@
 {
-    "name": "bamos.github.io",
+    "name": "vinayakumarr.github.io",
     "version": "0.0.0",
-    "homepage": "https://github.com/bamos/bamos.github.io",
+    "homepage": "https://github.com/vinayakumarr/vinayakumarr.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Vinayakumar R <vinayakumarr77@gmail.com>"
     ],
     "license": "Apache",
     "ignore": [
