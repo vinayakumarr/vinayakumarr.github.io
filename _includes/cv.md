@@ -85,14 +85,14 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 <tr>
   <td class='col-md-3'>Aug 2015 - Present</td>
   <td>
-    <strong>Research Associate</strong>, Prof. Soman KP <br>
+    <strong>Research Associate</strong>, <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a><br>
     Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
   </td>
 </tr>
 <tr>
   <td class='col-md-3'>Jun 2014 - Jul 2015</td>
   <td>
-    <strong>Research Assistant</strong>, Prof. Soman KP <br>
+    <strong>Research Assistant</strong>, <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> <br>
     Block-based programming development for Indian K-12 Schools
   </td>
 </tr>
