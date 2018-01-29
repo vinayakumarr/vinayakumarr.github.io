@@ -179,6 +179,27 @@ December 22-24, 2017 - <a href='http://nlp.amrita.edu/DeepChem2017/DeepChem.html
 
 November 25-27, 2017 - <a href='http://nlp.amrita.edu/MSP-2017/MSP-2017.html' target='_blank'> A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification</a>
 
+
+## <i class="fa fa-chevron-right"></i> Invited Talks
+
++ Demo on LSTM based Android Malware classification in TEQIP II sponsored research workshop on deep learning, PSG Tech, Coimbatore. [<a href='https://github.com/vinayakumarr/TEQIP-II---PSG' target='_blank'> Tutorial</a>]
+
++ Title: Deep learning for Cyber Security In Deep learning Workshop organized by Amrita University, Coimbatore. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Cyber Security use cases in AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, October 28, 2017. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Blockchain in Blockchain 2017 Workshop: Blockchain and Machine Learning, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/Blockchain-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep learning for Healthcare and financial data analytics in DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/DeepSci-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Chemistry in DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, December 22-24, 2017. [<a href='https://github.com/vinayakumarr/DeepChem-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17. [<a href='' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Bio-medical Applications in TEQUIP sponsored Faculty Development Program (FDP) at TKM College of Engineering, Kollam, 14 December 2017. [<a href='https://github.com/vinayakumarr/TEQUIP-FDP-TKM-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018. [<a href='https://github.com/vinayakumarr/ICMR' target='_blank'> Tutorial</a>]
+
 ## <i class="fa fa-chevron-right"></i> All Publications <a href="https://github.com/bamos/cv/blob/master/publications/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <a href="https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao" class="btn btn-primary" style="padding: 0.3em;">
