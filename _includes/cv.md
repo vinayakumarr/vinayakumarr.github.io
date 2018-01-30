@@ -13,6 +13,11 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
   <td class='col-md-3'>Nov 2017</td>
   <td>Our paper titled "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" has accepted in Special Issue On Big Data Searching, Mining, Optimization & Securing (BSMOS) Peer to Peer Cloud Based Networks in IJISMD.</td>
 </tr>
+
+<tr>
+  <td class='col-md-3'>Jan 2017</td>
+  <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
+</tr>
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
