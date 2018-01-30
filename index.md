@@ -22,17 +22,17 @@ title: Vinayakumar R
 <h4><a href="/blog">View all</a></h4>
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
-+ <a href="http://github.com/vinayakumarr" target="_blank"> Alg-Design</a>: facilitates to learn Algorithmic thinking for beginners
++ <a href="http://nlp.amrita.edu/Alg-Design/" target="_blank"> Alg-Design</a>: facilitates to learn Algorithmic thinking for beginners
 
-+ <a href="http://github.com/vinayakumarr" target="_blank"> Building-Blocks</a>: Generating 3D design by snapping blocks
++ <a href="http://nlp.amrita.edu/Building-Blocks/" target="_blank"> Building-Blocks</a>: Generating 3D design by snapping blocks
 
-+ <a href="http://github.com/vinayakumarr" target="_blank"> CT-Blocks</a>: Learning Computational thinking by snapping blocks
++ <a href="http://nlp.amrita.edu/CT-Blocks/" target="_blank"> CT-Blocks</a>: Learning Computational thinking by snapping blocks
 
-+ <a href="http://github.com/vinayakumarr" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
++ <a href="http://nlp.amrita.edu/CT-Blocks/" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
 
 + <a href="http://github.com/vinayakumarr" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
 
-+ <a href="http://github.com/vinayakumarr" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
++ <a href="http://nlp.amrita.edu/DB-Learn/" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
 
 ---
 
