@@ -22,39 +22,17 @@ title: Vinayakumar R
 <h4><a href="/blog">View all</a></h4>
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
-+ [CS conference tracker](https://github.com/bamos/conference-tracker).
-+ [SnowGlobe](https://github.com/bamos/snowglobe):
-  Haskell-driven, small-scale web analytics with minimal configuration.
-+ [My reading list](http://bamos.github.io/reading-list/):
-  YAML data and hosted on GitHub pages.
-+ [dotfiles](https://github.com/bamos/dotfiles):
-  &hearts;
-  [Arch Linux](https://www.archlinux.org/),
-  OSX,
-  [mutt](http://www.mutt.org/),
-  [xmonad](http://xmonad.org/),
-  [i3](https://i3wm.org/),
-  [vim](http://www.vim.org/),
-  [emacs](https://www.gnu.org/software/emacs/),
-  [zsh](http://www.zsh.org/),
-  [mpv](http://mpv.io/),
-  [cmus](https://cmus.github.io/).
-+ [girl](https://github.com/bamos/girl):
-  Scala program to find broken links in GitHub projects.
-+ [zsh-history-analysis](https://github.com/bamos/zsh-history-analysis):
-  Analyze shell usage patterns with Python and R.
-+ [python-scripts](https://github.com/bamos/python-scripts):
-  Short and fun Python scripts.
-+ [This website](https://github.com/bamos/bamos.github.io):
-  Built with Jekyll and hosted on GitHub pages.
-+ [cv](https://github.com/bamos/cv):
-  Python-driven resume-curriculum vitae with Jinja templates.
-+ [yaml-mailer](https://github.com/bamos/yaml-mailer):
-  Email many people different messages.
-+ [latex-templates](https://github.com/bamos/latex-templates)
-  and [beamer-snippets](https://github.com/bamos/beamer-snippets):
-  Personal collection and previewing of LaTeX and Beamer snippets.
-  Admittedly, I now use Keynote for presentations.
++ <a href="http://github.com/vinayakumarr" target="_blank"> Alg-Design</a>: facilitates to learn Algorithmic thinking for beginners
+
++ <a href="http://github.com/vinayakumarr" target="_blank"> Building-Blocks</a>: Generating 3D design by snapping blocks
+
++ <a href="http://github.com/vinayakumarr" target="_blank"> CT-Blocks</a>: Learning Computational thinking by snapping blocks
+
++ <a href="http://github.com/vinayakumarr" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
+
++ <a href="http://github.com/vinayakumarr" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
+
++ <a href="http://github.com/vinayakumarr" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
 
 ---
 
