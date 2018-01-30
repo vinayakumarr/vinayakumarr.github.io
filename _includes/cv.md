@@ -201,6 +201,40 @@ LibreOffice, Microsoft Office, and Latex
 
 + Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018. [<a href='https://github.com/vinayakumarr/ICMR' target='_blank'> Tutorial</a>]
 
+## <i class="fa fa-chevron-right"></i> Certifications acquired from Online Coursework
++ Neural Networks and Deep Learning, Coursera, Aug. 2017 [certificate]
++ Deep Learning with Tensorflow, Big Data University, Dec. 2016 [certificate]
++ Deep Learning Prerequisites: The Numpy Stack in Python [certificate]
++ Big Data, Big Data University, Jul. 2016 [certificate]
++ Big Data Foundations, IBM, Jul. 2016[certificate]
++ Functional Programming Principles in Scala, Coursera,  Jul. 2016 [certificate]
++ Hadoop, Big Data University, Jul. 2016 [certificate]
++ Spark Fundamentals, Big Data University, Jul. 2016 [certificate]
++ HTML and CSS, Udemy, Jan. 2015 [certificate]
+
+
+## <i class="fa fa-chevron-right"></i> Certificates acquired from paper presentation in conference
+
++ Detecting Android Malware using Long Short-term Memory-LSTM
++ Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale
++ Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs
++ Detecting Malicious Domain Names using Deep Learning Approaches at Scale
++ Evaluating Shallow and Deep networks for SSH Traffic Analysis using Flow-based mechanisms
++ Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System
++ Deep Android Malware Detection and Classification
++ Long Short-Term Memory based Operation Log Anomaly Detection
++ Deep Encrypted Text Categorization
++ Applying Convolutional Neural Network for Network Intrusion Detection
++ Secure Shell (SSH) Traffic Analysis with Flow-based Features Using Shallow and Deep networks
++ Applying Deep Learning Approaches for Network Traffic Prediction
++ Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
++ Real-time Detection of Atrial Fibrillation from Short time single lead ECG traces using Recurrent neural networks
+
+## <i class="fa fa-chevron-right"></i> Certificates acquired from participating in workshops
+
++ Web Application And Mobile Data Security
++ Data mining for Healthcare
++ Software Testing
 
 ## <i class="fa fa-chevron-right"></i> All Publications
 
