@@ -55,6 +55,10 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Harikrishnan NB, Vinayakumar R and Soman KP, "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
++ Swapna G, Soman KP and Vinayakumar R, "Automated detection of Atrial Fibrillation using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
