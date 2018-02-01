@@ -20,6 +20,21 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 </tr>
 </table>
 
+## <i class="fa fa-chevron-right"></i> Team names in <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> Shared Task 
+
++ CEN-Security@IWSPA 2018- Authors: Harikrishnan Nb, Vinayakumar R, Soman KP and Pradeep Menon
+
++ CEN-AISecurity@IWSPA-2018- Authors: Vinayakumar R, Barathi Ganesh HB, Prabaharan Poornachandran, Anand Kumar M andSoman KP
+
++ NLP_CEN_AMRITA @ IWSPA 2018- Authors: Barathi Ganesh HB, Vinayakumar R, Anand Kumar M and Soman KP
+
++ CENSec@Amrita- Authors: Anu Vazhayil, Vinayakumar R and Soman KP
+
++ Security-CEN@Amrita- Authors: Akarsh	S, Harikrishnan	NB, Vinayakumar	R and Soman	KP
+
++ CEN-DeepSpam- Authors: Hiransha M, Vinayakumar R and Soman KP
+
+
 ## <i class="fa fa-chevron-right"></i> Under-Review
 + Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-URL: A Deep Dive to Catch Malicious URLs using Deep learning with Character Embeddings", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
 
