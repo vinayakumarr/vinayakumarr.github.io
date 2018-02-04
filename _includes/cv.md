@@ -32,7 +32,7 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Security-CEN@Amrita- Authors: Akarsh	S, Harikrishnan	NB, Vinayakumar	R and Soman	KP
 
-+ CEN-DeepSpam- Authors: Hiransha M, Vinayakumar R and Soman KP
++ CEN-DeepSpam- Authors: Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman KP
 
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
