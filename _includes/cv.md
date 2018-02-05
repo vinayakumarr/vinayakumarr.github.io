@@ -209,23 +209,25 @@ LibreOffice, Microsoft Office, and Latex
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
 
-+ Demo on LSTM based Android Malware classification in TEQIP II sponsored research workshop on deep learning, PSG Tech, Coimbatore. [<a href='https://github.com/vinayakumarr/TEQIP-II---PSG' target='_blank'> Tutorial</a>]
++ Title: Deep Learning in IEEE (3451) at Kalasalingam Academy of Research and Education, Virudhunagar, Saturday, 3 February 2018. [<a href='https://github.com/vinayakumarr/Kalasalingam' target='_blank'> Tutorial</a>]
 
-+ Title: Deep learning for Cyber Security In Deep learning Workshop organized by Amrita University, Coimbatore. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
-
-+ Title: Deep Learning for Cyber Security use cases in AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, October 28, 2017. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
-
-+ Title: Deep Learning for Blockchain in Blockchain 2017 Workshop: Blockchain and Machine Learning, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/Blockchain-2017' target='_blank'> Tutorial</a>]
-
-+ Title: Deep learning for Healthcare and financial data analytics in DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/DeepSci-2017' target='_blank'> Tutorial</a>]
-
-+ Title: Deep Learning for Chemistry in DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, December 22-24, 2017. [<a href='https://github.com/vinayakumarr/DeepChem-2017' target='_blank'> Tutorial</a>]
-
-+ Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17. [<a href='' target='_blank'> Tutorial</a>]
++ Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018. [<a href='https://github.com/vinayakumarr/ICMR' target='_blank'> Tutorial</a>]
 
 + Title: Deep Learning for Bio-medical Applications in TEQUIP sponsored Faculty Development Program (FDP) at TKM College of Engineering, Kollam, 14 December 2017. [<a href='https://github.com/vinayakumarr/TEQUIP-FDP-TKM-2017' target='_blank'> Tutorial</a>]
 
-+ Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018. [<a href='https://github.com/vinayakumarr/ICMR' target='_blank'> Tutorial</a>]
++ Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17. [<a href='' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Chemistry in DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, December 22-24, 2017. [<a href='https://github.com/vinayakumarr/DeepChem-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep learning for Healthcare and financial data analytics in DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/DeepSci-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Blockchain in Blockchain 2017 Workshop: Blockchain and Machine Learning, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017. [<a href='https://github.com/vinayakumarr/Blockchain-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep Learning for Cyber Security use cases in AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, October 28, 2017. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
+
++ Title: Deep learning for Cyber Security In Deep learning Workshop organized by Amrita University, Coimbatore. [<a href='https://github.com/vinayakumarr/AISec-2017' target='_blank'> Tutorial</a>]
+
++ Demo on LSTM based Android Malware classification in TEQIP II sponsored research workshop on deep learning, PSG Tech, Coimbatore. [<a href='https://github.com/vinayakumarr/TEQIP-II---PSG' target='_blank'> Tutorial</a>]
 
 ## <i class="fa fa-chevron-right"></i> Certifications acquired from Online Coursework
 + Neural Networks and Deep Learning, Coursera, Aug. 2017 [certificate]
