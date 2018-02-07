@@ -76,6 +76,8 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Swapna G, Soman KP and Vinayakumar R, "Automated detection of Atrial Fibrillation using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Swapna G, Soman KP and Vinayakumar R, "DeepDiabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
