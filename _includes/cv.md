@@ -36,6 +36,8 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Crypt Coyotes- Authors: Vysakh Mohan, Vinayakumar R and Soman KP
 
++ CEN-SecureNLP- Authors: Sai Sundarakrishna, Vinayakumar R and Soman KP
+
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
 + Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-URL: A Deep Dive to Catch Malicious URLs using Deep learning with Character Embeddings", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
