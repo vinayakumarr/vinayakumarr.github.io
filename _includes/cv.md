@@ -80,6 +80,8 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
