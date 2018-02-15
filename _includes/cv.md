@@ -86,6 +86,8 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Vigneshwari Vaithilingam, Naren Babu R, Vinayakumar R and Soman Kp, "RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Anu Vazhayil, Vinayakumar R and Soman Kp, "DeepProteomics: Protein family classification using Shallow and Deep Networks", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
