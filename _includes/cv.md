@@ -82,6 +82,8 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
