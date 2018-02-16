@@ -84,7 +84,7 @@ I am a third-year Ph.D. student at Computational Engineering and Networking (CEN
 
 + Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Anu Vazhayil, Vinayakumar R and Soman Kp, "DeepProteomics: Protein family classification using Shallow and Deep Networks", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
+
 
 ## <i class="fa fa-chevron-right"></i> Education
 
