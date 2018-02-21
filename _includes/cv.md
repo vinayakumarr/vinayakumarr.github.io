@@ -18,6 +18,11 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
   <td class='col-md-3'>Jan 2017</td>
   <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
 </tr>
+
+<tr>
+  <td class='col-md-3'>Jan 2017</td>
+  <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
+</tr>
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Team names in <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> Shared Task 
