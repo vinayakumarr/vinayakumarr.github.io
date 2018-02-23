@@ -20,7 +20,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 </tr>
 
 <tr>
-  <td class='col-md-3'>Jan 2017</td>
+  <td class='col-md-3'>Feb 2017</td>
   <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
 </tr>
 </table>
