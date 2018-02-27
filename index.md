@@ -30,9 +30,9 @@ title: Vinayakumar R
 
 + <a href="http://nlp.amrita.edu/CT-Blocks/" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
 
-+ <a href="http://github.com/vinayakumarr" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
++ <a href="http://nlp.amrita.edu/DB-Learn/" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
 
-+ <a href="http://nlp.amrita.edu/DB-Learn/" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
++ <a href="http://nlp.amrita.edu/Digital-storytelling/" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
 
 ---
 
