@@ -85,6 +85,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
++ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCIDS 2018</a>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
