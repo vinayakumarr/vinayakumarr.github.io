@@ -45,14 +45,6 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
-+ Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-URL: A Deep Dive to Catch Malicious URLs using Deep learning with Character Embeddings", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
-
-+ Vinayakumar R, Prabaharan Poornachandran, Soman Kp, Prem Sankar Au and Manu R Krishnan, "Deep-DGA-Detect: Applying Deep Learning to DGA based Malware Detection at Scale", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
-
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp, "Deep Learning based Phishing URL Detection", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
-
-+ Anu Vazhayil, Vinayakumar R and Soman Kp, "Comparative study of the detection of malicious URLs using Shallow and Deep Networks", <a href='https://www.ieee-security.org/TC/SPW2018/DLS/' target='_blank'>DLS 2018</a>
-
 + Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "Digital storytelling using Scratch: Engaging children towards digital storytelling", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a>
