@@ -63,21 +63,19 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "DB-Learn: Studying Relational Algebra concepts by Snapping Blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a>
 
-+ Harikrishnan NB, Vinayakumar R and Soman KP, "Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system", <a href='http://iccids2018.ncuindia.edu/' target='_blank'>ICCIDS 2018</a>
++ Harikrishnan NB, Vinayakumar R and Soman KP, "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
-+ Harikrishnan NB, Vinayakumar R and Soman KP, "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
-
-+ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
++ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
 + Swapna G, Soman KP and Vinayakumar R, "Automated detection of Atrial Fibrillation using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
 + Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
++ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> RCDDS 2018</a>
 
-+ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
++ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
-+ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a>
++ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a> (Accepted)
 
 
 ## <i class="fa fa-chevron-right"></i> Education
