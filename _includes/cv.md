@@ -69,7 +69,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Swapna G, Soman KP and Vinayakumar R, "Automated detection of Atrial Fibrillation using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
++ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
 + Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> RCDDS 2018</a>
 
@@ -77,6 +77,9 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a> (Accepted)
 
++ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
+
++ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
