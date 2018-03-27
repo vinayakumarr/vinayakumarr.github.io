@@ -69,8 +69,6 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
-+ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> RCDDS 2018</a>
-
 + Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
 + Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a> (Accepted)
