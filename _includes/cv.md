@@ -75,7 +75,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
++ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
 + Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
