@@ -61,11 +61,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "DB-Learn: Studying Relational Algebra concepts by Snapping Blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
 
-+ Harikrishnan NB, Vinayakumar R and Soman KP, "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
-
 + Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
-
-+ Swapna G, Soman KP and Vinayakumar R, "Automated detection of Atrial Fibrillation using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
 + Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
