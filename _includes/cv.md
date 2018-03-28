@@ -77,19 +77,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
-+ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp "Deep Learning based Phishing URL Detection", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp "Deep-Net: Deep Neural Network for Cyber Security Use Cases", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Anu Vazhayil, Vinayakumar R and Soman Kp "Comparative study of the detection of malicious URLs using Shallow and Deep Networks", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Vinayakumar R, Shaunak Ganorkar, Vipin Pavithran, Pradeep Menon and Soman Kp "Deep-Ransomware-Detect: Detecting Ransomware using Deep Neural Network", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp "Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp "Shallow and Deep Neural Network Intrusion Detection System", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
++ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
 ## <i class="fa fa-chevron-right"></i> Education
 
