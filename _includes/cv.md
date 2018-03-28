@@ -25,26 +25,23 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Team names in <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> Shared Task 
-
-+ CEN-Security@IWSPA 2018- Authors: Harikrishnan Nb, Vinayakumar R, Soman KP and Pradeep Menon
-
-+ CEN-AISecurity@IWSPA-2018- Authors: Vinayakumar R, Barathi Ganesh HB, Prabaharan Poornachandran, Anand Kumar M andSoman KP
-
-+ NLP_CEN_AMRITA @ IWSPA 2018- Authors: Barathi Ganesh HB, Vinayakumar R, Anand Kumar M and Soman KP
-
-+ CENSec@Amrita- Authors: Anu Vazhayil, Vinayakumar R and Soman KP
-
-+ Security-CEN@Amrita- Authors: Akarsh	S, Harikrishnan	NB, Vinayakumar	R and Soman	KP
-
-+ CEN-DeepSpam- Authors: Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman KP
-
-+ Crypt Coyotes- Authors: Vysakh Mohan, Vinayakumar R and Soman KP
-
-+ CEN-SecureNLP- Authors: Sai Sundarakrishna, Vinayakumar R and Soman KP
-
-
 ## <i class="fa fa-chevron-right"></i> Under-Review
+
++ Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, "Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Anu Vazhayil, Vinayakumar R and Soman Kp, "CENSec@Amrita: Spam Detection using classical Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, "Security-CEN@Amrita Machine learning based Spam E-mail detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, "A.R.E.S: Automatic Rogue Email Spotter" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, "CEN-SecureNLP Detecting E-mail spam using Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 + Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "Digital storytelling using Scratch: Engaging children towards digital storytelling", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
