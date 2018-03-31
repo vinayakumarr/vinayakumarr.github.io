@@ -79,7 +79,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 + Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> 
 
 + Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, "Shallow and Deep Neural Network Intrusion Detection System",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
+.
 + Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, "Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
 + Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
