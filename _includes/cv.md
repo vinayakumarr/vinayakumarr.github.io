@@ -6,6 +6,19 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>MAr 2018</td>
+  <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (under-review)</td>
+</tr>
+
+<tr>
+  <td class='col-md-3'>Feb 2018</td>
+  <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
+</tr>
+<tr>
+  <td class='col-md-3'>Jan 2018</td>
+  <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>Nov 2017</td>
   <td>Our book chapter "Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis" got accepted and appear in Big data in Engineering Applications. </td>
 </tr>
@@ -14,15 +27,8 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
   <td>Our paper titled "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" has accepted in Special Issue On Big Data Searching, Mining, Optimization & Securing (BSMOS) Peer to Peer Cloud Based Networks in IJISMD.</td>
 </tr>
 
-<tr>
-  <td class='col-md-3'>Jan 2017</td>
-  <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
-</tr>
 
-<tr>
-  <td class='col-md-3'>Feb 2017</td>
-  <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
-</tr>
+
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
