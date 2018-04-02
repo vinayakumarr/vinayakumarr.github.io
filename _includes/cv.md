@@ -6,7 +6,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>MAr 2018</td>
+  <td class='col-md-3'>Mar 2018</td>
   <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (under-review)</td>
 </tr>
 
@@ -48,6 +48,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 + Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
 + Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, "CEN-SecureNLP Detecting E-mail spam using Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
 + Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
 
 + Vinayakumar R, Soman Kp and Pradeep Menon, "Digital storytelling using Scratch: Engaging children towards digital storytelling", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
