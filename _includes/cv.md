@@ -91,6 +91,8 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 
 + Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
++ Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images"
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
