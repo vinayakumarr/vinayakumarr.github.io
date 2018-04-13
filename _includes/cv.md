@@ -81,16 +81,6 @@ I strongly believe in open science and reproducible research and actively publis
 
 + Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp, "Deep Learning based Phishing URL Detection",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
-
-+ Anu Vazhayil, Vinayakumar R and Soman Kp, "Comparative study of the detection of malicious URLs using Shallow and Deep Networks",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>  (Accepted)
-
-+ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
-
-+ Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, "Shallow and Deep Neural Network Intrusion Detection System",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
-.
-+ Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, "Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
-
 + Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
 
 + Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images"
