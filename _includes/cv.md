@@ -24,10 +24,7 @@ I strongly believe in open science and reproducible research and actively publis
   <td class='col-md-3'>Nov 2017</td>
   <td>Our book chapter "Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis" got accepted and appear in Big data in Engineering Applications. </td>
 </tr>
-<tr>
-  <td class='col-md-3'>Nov 2017</td>
-  <td>Our paper titled "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" has accepted in Special Issue On Big Data Searching, Mining, Optimization & Securing (BSMOS) Peer to Peer Cloud Based Networks in IJISMD.</td>
-</tr>
+
 
 
 
