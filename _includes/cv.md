@@ -50,20 +50,6 @@ I strongly believe in open science and reproducible research and actively publis
 
 + Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
 
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "Digital storytelling using Scratch: Engaging children towards digital storytelling", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "CT-Blocks Analyser: Analysing CT-Blocks projects", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "Alg-Design: facilitates to learn Algorithmic thinking for beginners", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "Map-Blocks: Playing with online data: infuse to think in a computational way", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "Enhancing Computational thinking with MIT Scratch: Fractals Geometry", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "Building-Blocks: Generating 3D design by snapping blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
-+ Vinayakumar R, Soman Kp and Pradeep Menon, "DB-Learn: Studying Relational Algebra concepts by Snapping Blocks", <a href='http://www.et.iitb.ac.in/icalt2018/tcc.html' target='_blank'>ICALT 2018</a> (Accepted)
-
 + Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
 
 + Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
