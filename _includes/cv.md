@@ -9,7 +9,7 @@ I strongly believe in open science and reproducible research and actively publis
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Mar 2018</td>
-  <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (under-review)</td>
+  <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (InPress)</td>
 </tr>
 
 <tr>
