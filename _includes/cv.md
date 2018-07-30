@@ -32,39 +32,84 @@ I strongly believe in open science and reproducible research and actively publis
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
 
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, " BigCogNet: Big data based Cognitive Security System for an Organization" Deep Learning Applications for Cyber Security, Springer
 
-+ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, "Deep-Hybrid-IDS-Alert (DHIA): Big data based Intrusion Detection System for an Organization" Deep Learning Applications for Cyber Security, Springer
 
-+ Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, "Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Machine Learning Based Cyber Security" Deep Learning Applications for Cyber Security, Springer
 
-+ Anu Vazhayil, Vinayakumar R and Soman Kp, "CENSec@Amrita: Spam Detection using classical Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
 
-+ Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, "Security-CEN@Amrita Machine learning based Spam E-mail detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R and Soman Kp, "A Comparative study of shallow and deep models for windows malware detection" ICT-Express
 
-+ Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, "A.R.E.S: Automatic Rogue Email Spotter" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R and Soman Kp, "Windows Brain Droid (WBD): A Comparative Study of State-of-the-art Approaches for Static PE Malware Detection" ICT-Express
 
-+ Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R and Soman Kp, "Evaluating the performance of deep learning methods on traffic identification" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DGANet: Applying traditional machine learning and deep learning models to detect and categorize DGA" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepImageMalDetect (DIMD): Categorizing malware using deep learning techniques" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepEmailNet: Applying Shallow and Deep networks for Email Spam Detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Deep-Droid-Net (DDN): Applying deep learning approaches for Android malware detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
+
++ Sreelakshmi, Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
+
++ Mohamad Harun Babu, Vinayakumar R and Soman Kp, "Deep learning Applications for Cyber security" ICT-Express
+
++ Naveen Kumar, Vinayakumar R and Soman Kp, "Protein family classification using Deep Learning" ICT-Express
+
++ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "DeepImageSpam: Deep Learning based Image Spam Detection" ICT-Express
+
++ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "A Brief Survey on Autonomous Vehicle Possible Attacks,Exploits and
+Vulnerabilities" ICT-Express
+
++ Swapna G, Vinayakumar R and Soman Kp, "Diabetes detection using deep learning algorithms" ICT-Express
+
++ Rahul Vigneswaran K, Vinayakumar R and Soman Kp, "A Detailed Survey on Neural Networks and Deep learning methods for Intrusion Detection System" ICT-Express
+
++ Vysakh S Mohan, Vinayakumar R and Sowmya V "Deep Rectified System for High-speed Tracking in Images" ISTA-2018
+
+## <i class="fa fa-chevron-right"></i> Inpress
+
++ Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, "Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> 
+
++ Anu Vazhayil, Vinayakumar R and Soman Kp, "CENSec@Amrita: Spam Detection using classical Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, "Security-CEN@Amrita Machine learning based Spam E-mail detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, "A.R.E.S: Automatic Rogue Email Spotter" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
+
++ Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
 + Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, "CEN-SecureNLP Detecting E-mail spam using Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
++ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a>
 
-+ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a> (Accepted)
++ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a>
 
-+ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
 + Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images"
 
