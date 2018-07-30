@@ -32,6 +32,51 @@ I strongly believe in open science and reproducible research and actively publis
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
 
++ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, " BigCogNet: Big data based Cognitive Security System for an Organization" Deep Learning Applications for Cyber Security, Springer
+
++ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, "Deep-Hybrid-IDS-Alert (DHIA): Big data based Intrusion Detection System for an Organization" Deep Learning Applications for Cyber Security, Springer
+
++ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Machine Learning Based Cyber Security" Deep Learning Applications for Cyber Security, Springer
+
++ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
+
++ Vinayakumar R and Soman Kp, "A Comparative study of shallow and deep models for windows malware detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Windows Brain Droid (WBD): A Comparative Study of State-of-the-art Approaches for Static PE Malware Detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Evaluating the performance of deep learning methods on traffic identification" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DGANet: Applying traditional machine learning and deep learning models to detect and categorize DGA" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepImageMalDetect (DIMD): Categorizing malware using deep learning techniques" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepEmailNet: Applying Shallow and Deep networks for Email Spam Detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "Deep-Droid-Net (DDN): Applying deep learning approaches for Android malware detection" ICT-Express
+
++ Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
+
++ Sreelakshmi, Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
+
++ Mohamad Harun Babu, Vinayakumar R and Soman Kp, "Deep learning Applications for Cyber security" ICT-Express
+
++ Naveen Kumar, Vinayakumar R and Soman Kp, "Protein family classification using Deep Learning" ICT-Express
+
++ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "DeepImageSpam: Deep Learning based Image Spam Detection" ICT-Express
+
++ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "A Brief Survey on Autonomous Vehicle Possible Attacks,Exploits and
+Vulnerabilities" ICT-Express
+
++ Swapna G, Vinayakumar R and Soman Kp, "Diabetes detection using deep learning algorithms" ICT-Express
+
++ Rahul Vigneswaran K, Vinayakumar R and Soman Kp, "A Detailed Survey on Neural Networks and Deep learning methods for Intrusion Detection System" ICT-Express
+
++ Vysakh S Mohan, Vinayakumar R and Sowmya V "Deep Rectified System for High-speed Tracking in Images" ISTA-2018
+
+## <i class="fa fa-chevron-right"></i> InPress
+
 + Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
 
 + Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
