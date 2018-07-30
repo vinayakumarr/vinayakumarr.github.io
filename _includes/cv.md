@@ -30,7 +30,7 @@ I strongly believe in open science and reproducible research and actively publis
 
 </table>
 
-## <i class="fa fa-chevron-right"></i> Under-Review
+## <i class="fa fa-chevron-right"></i> Under-Preprint
 
 + Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
 
