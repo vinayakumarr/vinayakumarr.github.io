@@ -77,39 +77,39 @@ Vulnerabilities" ICT-Express
 
 ## <i class="fa fa-chevron-right"></i> InPress
 
-+ Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Harikrishnan Nb, Vinayakumar R and Soman Kp, "CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, "DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, "Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, "Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Anu Vazhayil, Vinayakumar R and Soman Kp, "CENSec@Amrita: Spam Detection using classical Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Anu Vazhayil, Vinayakumar R and Soman Kp, "CENSec@Amrita: Spam Detection using classical Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
 + Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, "Security-CEN@Amrita Machine learning based Spam E-mail detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
 
-+ Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, "A.R.E.S: Automatic Rogue Email Spotter" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, "A.R.E.S: Automatic Rogue Email Spotter" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a> (Accepted)
++ Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, "CEN-DeepSpam: Deep learning based spam detection" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
 + Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, "CEN-SecureNLP Detecting E-mail spam using Machine learning techniques" <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA-AP</a>
 
-+ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a> (Accepted)
++ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, "S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors", <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a>
 
-+ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Swapna G, Soman KP and Vinayakumar R, "Automated detection of cardiac arrhythmia using deep learning techniques", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>)
 
-+ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Swapna G, Soman KP and Vinayakumar R, "Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a> (Accepted)
++ Athira V, Geetha P, Soman Kp and Vinayakumar R, "DeepAirNet: Applying Recurrent networks for Air Quality Prediction", <a href='http://iccids2018.ncuindia.edu/' target='_blank'> ICCIDS 2018</a>
 
-+ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a> (Accepted)
++ Aswin S, Geetha P and Vinayakumar R, "Deep Learning Models for the Prediction of Rainfall", <a href='https://www.iccsp-apec.com/' target='_blank'> ICCSP 2018</a>
 
-+ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
-+ Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a> (Accepted)
++ Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
 + Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images"
 
