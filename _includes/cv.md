@@ -40,10 +40,6 @@ I strongly believe in open science and reproducible research and actively publis
 
 + Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
 
-+ Vinayakumar R and Soman Kp, "A Comparative study of shallow and deep models for windows malware detection" ICT-Express
-
-+ Vinayakumar R and Soman Kp, "Windows Brain Droid (WBD): A Comparative Study of State-of-the-art Approaches for Static PE Malware Detection" ICT-Express
-
 + Vinayakumar R and Soman Kp, "Evaluating the performance of deep learning methods on traffic identification" ICT-Express
 
 + Vinayakumar R and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases" ICT-Express
