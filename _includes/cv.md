@@ -3,7 +3,7 @@ I am a third-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computation
 Cybersecurity group at CEN is organizing a shared task in Cybersecurity domain. More details avilable at [DMD2018](http://nlp.amrita.edu/DMD2018/)
 
 I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/).<br><br>
-<b>I am on the job market!!</b>
+<b>I am on the job market for an industry machine learning research position.</b>
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
