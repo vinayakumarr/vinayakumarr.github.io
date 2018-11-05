@@ -1,9 +1,10 @@
 I am a fourth-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computational Engineering and Networking (CEN). I am  with the <a href='https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/' target='_blank'> Cybersecurity-Lab-at-CEN </a> and <a href='https://vinayakumarr.github.io/ComputationalThinking-Lab-at-CEN/' target='_blank'> Computational Thinking-Lab-at-CEN </a>, advised by <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> on Artificial intelligence and most specifically, Machine Learning, Data mining and Deep learning, Big Data Analytics, Natural language processing and Signal and Image processing for Cyber Security. I spent the first two years of my Ph.D. working on traditional machine learning for various use-cases of Cyber Security and later on working towards application of deep learning for cyber security use-cases. I am particularly interested in improving the malicious detection rate through the use of Artificial Intelligence (AI), including machine learning, data mining, deep learning and natural language processing.
 
 I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/).<br><br>
-<b>I am on the job market for an industry machine learning research position.</b>
 
 I have organized a shared task in Cyber security domain. More details avilable at [DMD2018](https://vinayakumarr.github.io/)
+
+<b>I am on the job market for an industry machine learning research or PostDoc position.</b>
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
