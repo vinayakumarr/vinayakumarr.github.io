@@ -4,7 +4,7 @@ I strongly believe in open science and reproducible research and actively publis
 
 I have organized a shared task in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/)
 
-<b>I am on the job market for an industry machine learning research position.</b>
+
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
