@@ -10,7 +10,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov 2018</td>
-  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
+  <td>Paper accepted in <a href="http://iccscs.org/home", target='_blank'>ICCSCS2018</a>, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
 </tr>
 
 <tr>
