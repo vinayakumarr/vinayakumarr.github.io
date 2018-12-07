@@ -507,6 +507,7 @@ TAP Energy 2017. <br>
 </td>
 </tr>
 
+<tr>
 <td>
 <strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
 Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
@@ -574,7 +575,94 @@ ICCCNT 2018. <br>
 </tr>
 
 
+<tr>
+<td>
+<strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]
+</td>
+</tr>
 
+
+<tr>
+<td>
+<strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Building-Blocks: Generating 3D Design by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494036' target='_blank'>paper</a>]
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
+Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R<strong>, Lakshmi Nambiar
+ICCCNT 2018. <br>
+[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
+</td>
+</tr>
 
 
 
