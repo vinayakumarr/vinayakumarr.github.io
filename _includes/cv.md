@@ -10,36 +10,33 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov 2018</td>
-  <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (InPress)</td>
+  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
 </tr>
 
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei</a></td>
 </tr>
 <tr>
-  <td class='col-md-3'>Jan 2018</td>
-  <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
+  <td class='col-md-3'>Dec 2018</td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Using Convolutional and Recurrent Neural Network to Detect Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman</td>
+</tr>
+
+<tr>
+  <td class='col-md-3'>Dec 2018</td>
+  <td>Handling a workshop on Application of machine learning for cyber security. More details avilable [MLC18](http://www.iiitmk.ac.in/mlc18/)</td>
+</tr>
+
+<tr>
+  <td class='col-md-3'>Dec 2018</td>
+  <td>AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable [AI in CS](http://www.jit.ac.in/announcement/FDP_Brochure.pdf)</td>
 </tr>
 
 </table>
 
-## <i class="fa fa-chevron-right"></i> Under-Review
-
-
-
-
-
-
+## <i class="fa fa-chevron-right"></i> Accepted
 
 + Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
-
-
-
-
-
-
-
 
 + Naveen Kumar, Vinayakumar R and Soman Kp, "Protein family classification using Deep Learning" ICT-Express
 
@@ -49,7 +46,6 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 Vulnerabilities" ICT-Express
 
 + Swapna G, Vinayakumar R and Soman Kp, "Diabetes detection using deep learning algorithms" ICT-Express
-
 
 + Vysakh S Mohan, Vinayakumar R and Sowmya V "Deep Rectified System for High-speed Tracking in Images" ISTA-2018
 
