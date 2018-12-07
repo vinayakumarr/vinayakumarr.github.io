@@ -24,12 +24,12 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Handling a workshop on Application of machine learning for cyber security. More details avilable <a href='http://www.iiitmk.ac.in/mlc18/' target='_blank'> MLC18</td>
+  <td>Handling a workshop on Application of machine learning for cyber security. More details avilable <a href='http://www.iiitmk.ac.in/mlc18/' target='_blank'> MLC18</a></td>
 </tr>
 
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </td>
+  <td>AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </a> </td>
 </tr>
 
 </table>
