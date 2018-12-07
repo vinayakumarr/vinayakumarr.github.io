@@ -782,7 +782,7 @@ Anu Vazhayil, NB Harikrishnan, <strong>R Vinayakumar</strong>, KP Soman<br>
 <tr>
 <td>
 <strong>A Machine Learning approach towards Phishing Email Detection</strong> <br>
-NB Harikrishnan, <strong>R Vinayakumar<strong>, KP Soman<br>
+NB Harikrishnan, <strong>R Vinayakumar</strong>, KP Soman<br>
 [<a href='http://ceur-ws.org/Vol-2124/paper_7.pdf' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -798,6 +798,90 @@ M Hiransha, Nidhin A Unnithan, <strong>R Vinayakumar</strong>, KP Soman<br>
 
 
 
+
+
+
+<tr>
+<td>
+<strong>Machine Learning Based Phishing E-mail detection</strong> <br>
+Nidhin A Unnithan, NB Harikrishnan, S Akarsh, <strong>R Vinayakumar</strong>, KP Soman<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_12.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Detecting Phishing E-mail using Machine learning techniques</strong> <br>
+Nidhin A Unnithan, NB Harikrishnan, <strong>R Vinayakumar</strong>, KP Soman, Sai Sundarakrishna<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_17.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>NLP CEN AMRITA@ SMM4H: Health Care Text Classification through Class Embeddings</strong> <br>
+Barathi Ganesh Hullathy Balakrishnan, Anand Kumar Madasamy <strong>Vinayakumar</strong>, Soman Kotti Padannayil<br>
+[<a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>NLP CEN AMRITA@ SMM4H: Health Care Text Classification through Class Embeddings</strong> <br>
+Barathi Ganesh Hullathy Balakrishnan, Anand Kumar Madasamy <strong>Vinayakumar</strong>, Soman Kotti Padannayil<br>
+[<a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Amrita-cen@ neel: Identification and linking of twitter entities</strong> <br>
+HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP Soman<br>
+[<a href='http://eprints.lancs.ac.uk/76450/1/microposts2015_proceedings.pdf#page=72' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>deepCybErNet at EmoInt-2017: Deep Emotion Intensities in Tweets</strong> <br>
+<strong> Vinayakumar R</strong> and Premjith B and Sachin Kumar S and Soman K P<br>
+[<a href='http://www.aclweb.org/anthology/W17-5237' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>Deep Stance and Gender Detection in Tweets on Catalan Independence@ Ibereval 2017</strong> <br>
+<strong> Vinayakumar R</strong>, Sachin Kumar S, Premjith B, Prabaharan P, and Soman KP<br>
+[<a href='http://ceur-ws.org/Vol-1881/StanceCat2017_paper_8.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>DEFT 2017-Texts Search@ TALN/RECITAL 2017: Deep Analysis of Opinion and Figurative language on Tweets in French</strong> <br>
+<strong> R Vinayakumar</strong>, Sachin Kumar, B Premjith, P Prabaharan, KP Soman<br>
+[<a href='https://deft.limsi.fr/2017/actes_DEFT_2017.pdf#page=107' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+  
+  
 </table>
+
+
+
+  
+
+
+
+
 
 
