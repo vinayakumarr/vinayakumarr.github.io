@@ -491,7 +491,7 @@ MIKE 2015 Proceedings of the Third International Conference on Mining Intelligen
 
 <tr>
 <td>
-<strong>Predicting the Sentimental Reviews in Tamil Movie using Machine Learning Algorithms</strong> v
+<strong>Predicting the Sentimental Reviews in Tamil Movie using Machine Learning Algorithms</strong> <br>
 Shriya Se, <strong>Vinayakumar R</strong>, Anand Kumar M., and Soman K.P. <br>
 Indian Journal of Science and Technology (IJST) <br>
 [<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]
