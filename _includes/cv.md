@@ -655,17 +655,6 @@ ICCCNT 2018. <br>
 </tr>
 
 
-<tr>
-<td>
-<strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
-Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R<strong>, Lakshmi Nambiar
-ICCCNT 2018. <br>
-[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
-</td>
-</tr>
-
-
-
 
 
 
