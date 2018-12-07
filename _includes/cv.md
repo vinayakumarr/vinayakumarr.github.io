@@ -1,63 +1,45 @@
-I am a fourth-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computational Engineering and Networking (CEN). I am  with the <a href='https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/' target='_blank'> Cybersecurity-Lab-at-CEN </a> and <a href='https://vinayakumarr.github.io/ComputationalThinking-Lab-at-CEN/' target='_blank'> Computational Thinking-Lab-at-CEN </a>, advised by <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> on Artificial intelligence and most specifically, Machine Learning, Data mining and Deep learning, Big Data Analytics, Natural language processing and Signal and Image processing for Cyber Security. I spent the first two years of my Ph.D. working on traditional machine learning for various use-cases of Cyber Security and later on working towards application of deep learning for cyber security use-cases. I am particularly interested in improving the malicious detection rate through the use of Artificial Intelligence (AI), including machine learning, data mining, deep learning and natural language processing.
+I am a fourth-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computational Engineering and Networking (CEN). I am  with the <a href='https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/' target='_blank'> Cybersecurity-Lab-at-CEN </a> and <a href='https://vinayakumarr.github.io/ComputationalThinking-Lab-at-CEN/' target='_blank'> Computational Thinking-Lab-at-CEN </a>, advised by <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> on Artificial intelligence and most specifically, Machine Learning, Data mining and Deep learning, Big Data Analytics, Natural language processing and Signal and Image processing for Cyber Security. I spent the first two years of my Ph.D. working on classical machine learning for various use-cases of Cyber Security and later on worked towards application of deep learning for Cyber Security. I am particularly interested in improving the malicious detection rate through the use of Artificial Intelligence (AI), including machine learning, data mining, deep learning, natural language processing and image processing. I am finishing a Ph.D. at Amrita Vishwa Vidyapeetham. I am practicing research in multidiciplinary areas, involved as a non-primary co-author on several papers and my detailed publications avilable on my [Google Scholar](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao) page
 
 I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/).<br><br>
 
-I have organized a shared task in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/)
+I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/)
 
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Mar 2018</td>
+  <td class='col-md-3'>Nov 2018</td>
   <td>Book chapter - "A deep-dive on Machine learning for Cybersecurity use cases" MLCCS 2018 (InPress)</td>
 </tr>
 
 <tr>
-  <td class='col-md-3'>Feb 2018</td>
+  <td class='col-md-3'>Dec 2018</td>
   <td>Our paper titled S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors has accepted in <a href='http://biostar.cybersecurity.bio/' target='_blank'>BioSTAR 2018</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2018</td>
   <td>Registered for IWSPA-AP Shared Task at <a href='https://dasavisha.github.io/IWSPA-sharedtask/#cfp' target='_blank'>IWSPA 2018</a>.</td>
 </tr>
-<tr>
-  <td class='col-md-3'>Nov 2017</td>
-  <td>Our book chapter "Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis" got accepted and appear in Big data in Engineering Applications. </td>
-</tr>
-
-
-
 
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Under-Review
 
-+ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, " BigCogNet: Big data based Cognitive Security System for an Organization" Deep Learning Applications for Cyber Security, Springer
 
-+ Vinayakumar R, Soman Kp, and Prabaharan Poornachandran, "Deep-Hybrid-IDS-Alert (DHIA): Big data based Intrusion Detection System for an Organization" Deep Learning Applications for Cyber Security, Springer
 
-+ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Machine Learning Based Cyber Security" Deep Learning Applications for Cyber Security, Springer
+
+
+
 
 + Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
 
-+ Vinayakumar R and Soman Kp, "Evaluating the performance of deep learning methods on traffic identification" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "Deep-Net: Deep Neural Network for Cyber Security Use Cases" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "DGANet: Applying traditional machine learning and deep learning models to detect and categorize DGA" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "DeepImageMalDetect (DIMD): Categorizing malware using deep learning techniques" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "DeepEmailNet: Applying Shallow and Deep networks for Email Spam Detection" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "Deep-Droid-Net (DDN): Applying deep learning approaches for Android malware detection" ICT-Express
 
-+ Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
-
-+ Sreelakshmi, Vinayakumar R and Soman Kp, "DeepMalNet: Evaluating shallow and deep networks for static malware detection" ICT-Express
-
-+ Mohamad Harun Babu, Vinayakumar R and Soman Kp, "Deep learning Applications for Cyber security" ICT-Express
 
 + Naveen Kumar, Vinayakumar R and Soman Kp, "Protein family classification using Deep Learning" ICT-Express
 
@@ -68,11 +50,8 @@ Vulnerabilities" ICT-Express
 
 + Swapna G, Vinayakumar R and Soman Kp, "Diabetes detection using deep learning algorithms" ICT-Express
 
-+ Rahul Vigneswaran K, Vinayakumar R and Soman Kp, "A Detailed Survey on Neural Networks and Deep learning methods for Intrusion Detection System" ICT-Express
 
 + Vysakh S Mohan, Vinayakumar R and Sowmya V "Deep Rectified System for High-speed Tracking in Images" ISTA-2018
-
-
 
 + Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
 
@@ -98,7 +77,7 @@ Vulnerabilities" ICT-Express
   <tr>
     <td class="col-md-3">June 2011 - May 2014</td>
     <td>
-        <strong>Masters of Computer Application</strong>
+        <strong>Masters of Computer Application (MCA)</strong>
         <br>
       Amrita Vishwa Vidyapeetham, Mysore
     </td>
@@ -106,7 +85,7 @@ Vulnerabilities" ICT-Express
   <tr>
     <td class="col-md-3">June 2008 - May 2011</td>
     <td>
-        <strong>Bachelor of Computer Application</strong>
+        <strong>Bachelor of Computer Application (BCA)</strong>
         <br>
       JSS College, Mysore
     </td>
@@ -201,6 +180,8 @@ LibreOffice, Microsoft Office, and Latex
 
 + 2nd Social Media Mining for Health Applications Shared Task at AMIA 2017.
 
++ International Cybersecurity Data Mining Competition CDMC 2018.
+
 ## <i class="fa fa-chevron-right"></i> Co-organized the following events in the department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
 
 + Saturday, October 28, 2017 - <a href='http://nlp.amrita.edu/AISec2017/AISec2017.html' target='_blank'>AISec 2017</a>: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security.
@@ -213,7 +194,11 @@ LibreOffice, Microsoft Office, and Latex
 
 + November 25-27, 2017 - <a href='http://nlp.amrita.edu/MSP-2017/MSP-2017.html' target='_blank'> A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification</a>
 
++ MAy 21, June 4, 2018 - <a href='https://www.amrita.edu/event/summer-course-ai-date-science' target='_blank'>Summaer course on AI and Data science</a>
 
++ September 22-23, 2018 - <a href='https://www.amrita.edu/event/workshop-engineers' target='_blank'> A Workshop for Engineers</a>
+
++ October 14, 2017 - <a href='https://nlp.amrita.edu/AI%20and%20DATA%20SCIENCE%20WORKSHOP/' target='_blank'> Artificial Intelligence and Data science for Cyber security</a>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
 
@@ -265,6 +250,20 @@ LibreOffice, Microsoft Office, and Latex
 + Applying Deep Learning Approaches for Network Traffic Prediction
 + Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
 + Real-time Detection of Atrial Fibrillation from Short time single lead ECG traces using Recurrent neural networks
++ CT-Blocks Analyser: Analysing CT-Blocks Projects
++ Comparative Study of the Detection of Malicious URLs Using Shallow and Deep Networks
++ Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling
++ Fractal Geometry: Enhancing Computational Thinking with MIT Scratch
++ DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks
++ Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way
++ Alg-Design: Facilitates to Learn Algorithmic Thinking for Beginners
++ CT-Blocks: Learning Computational Thinking by Snapping Blocks
++ Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security
++ Building-Blocks: Generating 3D Design by Snapping Blocks
++ Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals
++ Automated detection of cardiac arrhythmia using deep learning techniques
++ Diabetes detection using deep learning algorithms
++ DeepMalNet: Evaluating shallow and deep networks for static PE malware detection
 
 ## <i class="fa fa-chevron-right"></i> Certificates acquired from participating in workshops
 
@@ -421,7 +420,6 @@ Journal of Cyber Security and Mobility<br>
 <td>
 <strong>Evaluating Shallow and Deep Networks for Secure Shell (SSH) Traffic Analysis</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125851&tag=1' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/1.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -431,7 +429,6 @@ IEEE Xplore<br>
 <td>
 <strong>Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126018' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/2.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -440,7 +437,6 @@ IEEE Xplore<br>
 <td>
 <strong>Deep Android Malware Detection and Classification</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126084' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -450,7 +446,6 @@ IEEE Xplore<br>
 <td>
 <strong>Long Short-Term Memory based Operation Log Anomaly Detection</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125846' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -459,7 +454,6 @@ IEEE Xplore<br>
 <td>
 <strong>Deep Encrypted Text Categorization</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125868' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/5.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -468,7 +462,6 @@ IEEE Xplore<br>
 <td>
 <strong>Applying Convolutional Neural Network for Network Intrusion Detection</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126009' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/6.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -477,7 +470,6 @@ IEEE Xplore<br>
 <td>
 <strong>Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and Deep networks</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126143' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/7.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -486,7 +478,6 @@ IEEE Xplore<br>
 <td>
 <strong>Applying Deep Learning Approaches for Network Traffic Prediction</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126198' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/8.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -495,7 +486,6 @@ IEEE Xplore<br>
 <td>
 <strong>Evaluating Shallow and Deep Networks for Ransomware Detection and Classification</strong><br>
 <strong>Vinayakumar R</strong>, Soman KP, K.K.Senthil Velan and Shaunak Ganorkar<br>
-IEEE Xplore<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125850' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/9.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -504,7 +494,6 @@ IEEE Xplore<br>
 <td>
 <strong>Instantaneous Heart Rate as a Robust Feature for Sleep Apnea Severity Detection using Deep Learning</strong><br>
 Rahul K. Pathinarupothi, <strong>Vinaykumar R</strong>, Ekanath Rangan, Gopalakrishnan E., and Soman K. P.<br>
-IEEE Xplore <br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7897263' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -513,7 +502,6 @@ IEEE Xplore <br>
 <td>
 <strong>Single Sensor Techniques for Sleep Apnea Diagnosis using Deep Learning</strong><br>
 Rahul K. Pathinarupothi, Dhara Prathap J., Ekanath Rangan, Gopalakrishnan E., <strong>Vinaykumar R</strong>, and Soman K. P.<br>
-IEEE Xplore <br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8031206' target='_blank'>paper</a>] <br>
 </td>
 </tr>
@@ -540,7 +528,6 @@ Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
 <td>
 <strong>Deep models for Phonocardiography (PCG) classification</strong><br>
 Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
-IEEE Xplore <br>
 [<a href='' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -550,7 +537,6 @@ IEEE Xplore <br>
 <strong>Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model</strong><br>
 Sreelekshmy Selvin., <strong>Vinayakumar R</strong>, Gopalakrishnan E., Vijay Krishna Menon., Soman K.P.,<br>
 6th International Conference on Advances in Computing, Communications and Informatics (ICACCI2017)<br>
-IEEE Xplore <br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126078' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
 </td>
 </tr>
@@ -579,7 +565,6 @@ Indian Journal of Science and Technology (IJST) <br>
 <td>
 <strong>Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification</strong> <br>
 Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
-TAP Energy 2017. <br>
 [<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -588,7 +573,6 @@ TAP Energy 2017. <br>
 <td>
 <strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
 Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
-BioSTAR 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -597,7 +581,6 @@ BioSTAR 2018. <br>
 <td>
 <strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
 Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
-ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -607,7 +590,6 @@ ICCIDS 2018. <br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
-ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -616,7 +598,6 @@ ICCIDS 2018. <br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R</strong><br>
-ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -626,7 +607,6 @@ ICCIDS 2018. <br>
 <td>
 <strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
 Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
-ICCIDS 2018. <br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -636,7 +616,6 @@ ICCIDS 2018. <br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -646,7 +625,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
 Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -656,7 +634,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -666,7 +643,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -677,7 +653,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -687,7 +662,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -707,7 +681,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -717,7 +690,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -727,7 +699,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Building-Blocks: Generating 3D Design by Snapping Blocks</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
 [<a href='https://ieeexplore.ieee.org/document/8494036' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -736,7 +707,6 @@ ICCCNT 2018. <br>
 <td>
 <strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
 Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar
-ICCCNT 2018. <br>
 [<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
 </td>
 </tr>
