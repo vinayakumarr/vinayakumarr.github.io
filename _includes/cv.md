@@ -519,7 +519,7 @@ BioSTAR 2018. <br>
 <tr>
 <td>
 <strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
-Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
 ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]
 </td>
@@ -529,7 +529,7 @@ ICCIDS 2018. <br>
 <tr>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
-Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
 ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]
 </td>
@@ -538,7 +538,7 @@ ICCIDS 2018. <br>
 <tr>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
-Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R<strong><br>
+Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R</strong><br>
 ICCIDS 2018. <br>
 [<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]
 </td>
@@ -548,7 +548,7 @@ ICCIDS 2018. <br>
 <tr>
 <td>
 <strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
-Aswin S, Geetha P and <strong>Vinayakumar R <strong><br>
+Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
 ICCIDS 2018. <br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]
 </td>
@@ -658,7 +658,7 @@ ICCCNT 2018. <br>
 <tr>
 <td>
 <strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
-Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R<strong>, Lakshmi Nambiar
+Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar
 ICCCNT 2018. <br>
 [<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
 </td>
