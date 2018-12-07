@@ -878,7 +878,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
   
 
 [Deep-Net: Deep Neural Network for Cyber Security Use Cases](https://www.researchgate.net/publication/327572979_Deep-Net_Deep_Neural_Network_for_Cyber_Security_Use_Cases) <br>
-<li>[RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases](https://www.researchgate.net/publication/327574511_RNNSecureNet_Recurrent_neural_networks_for_Cybersecurity_use-cases) <br>
+[RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases](https://www.researchgate.net/publication/327574511_RNNSecureNet_Recurrent_neural_networks_for_Cybersecurity_use-cases) <br>
 [DeepImageSpam: Deep Learning based Image Spam Detection](https://www.researchgate.net/publication/328189401_DeepImageSpam_Deep_Learning_based_Image_Spam_Detection)<br>
 [A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities](https://www.researchgate.net/publication/328189443_A_Brief_Survey_on_Autonomous_Vehicle_Possible_Attacks_Exploits_and_Vulnerabilities)<br>
 [Enhancing Computational Thinking with MIT Scratch and L-System](https://www.researchgate.net/publication/328631393_Enhancing_Computational_Thinking_with_MIT_Scratch_and_L-System)<br>
