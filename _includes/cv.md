@@ -371,7 +371,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a>[br]
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a><br>
 </td>
 </tr>
 
@@ -524,7 +524,7 @@ Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
 <td>
 <strong>Deep models for Phonocardiography (PCG) classification</strong><br>
 Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
-[<a href='' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
+[<a href='' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -533,7 +533,7 @@ Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
 <strong>Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model</strong><br>
 Sreelekshmy Selvin., <strong>Vinayakumar R</strong>, Gopalakrishnan E., Vijay Krishna Menon., Soman K.P.,<br>
 6th International Conference on Advances in Computing, Communications and Informatics (ICACCI2017)<br>
-[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126078' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126078' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -542,7 +542,7 @@ Sreelekshmy Selvin., <strong>Vinayakumar R</strong>, Gopalakrishnan E., Vijay Kr
 <strong>AMRITA-CEN@SAIL2015: Sentiment analysis in Indian languages</strong><br>
 Shriya Se, <strong>Vinayakumar</strong>, R., Anand Kumar M., and Soman K.P. <br>
 MIKE 2015 Proceedings of the Third International Conference on Mining Intelligence and Knowledge Exploration, Springer <br>
-[<a href='https://rd.springer.com/chapter/10.1007/978-3-319-26832-3_67' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
+[<a href='https://rd.springer.com/chapter/10.1007/978-3-319-26832-3_67' target='_blank'>paper</a>]<br>
 
 </td>
 </tr>
@@ -553,7 +553,7 @@ MIKE 2015 Proceedings of the Third International Conference on Mining Intelligen
 <strong>Predicting the Sentimental Reviews in Tamil Movie using Machine Learning Algorithms</strong> <br>
 Shriya Se, <strong>Vinayakumar R</strong>, Anand Kumar M., and Soman K.P. <br>
 Indian Journal of Science and Technology (IJST) <br>
-[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]
+[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -561,7 +561,7 @@ Indian Journal of Science and Technology (IJST) <br>
 <td>
 <strong>Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification</strong> <br>
 Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
-[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]
+[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -569,7 +569,7 @@ Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
 <td>
 <strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
 Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
-[<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -577,7 +577,7 @@ Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornach
 <td>
 <strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
 Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -586,7 +586,7 @@ Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -594,7 +594,7 @@ Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R</strong><br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -603,7 +603,7 @@ Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R</strong><br>
 <td>
 <strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
 Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
-[<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -612,7 +612,7 @@ Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
 <td>
 <strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
 Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
-[<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -621,7 +621,7 @@ Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
 <td>
 <strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
 Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran
-[<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -630,7 +630,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <td>
 <strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -639,7 +639,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <td>
 <strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -649,7 +649,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <td>
 <strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -658,7 +658,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <td>
 <strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -669,7 +669,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <strong>DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
 ICCCNT 2018. <br>
-[<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -677,7 +677,7 @@ ICCCNT 2018. <br>
 <td>
 <strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -686,7 +686,7 @@ ICCCNT 2018. <br>
 <td>
 <strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
 <strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-[<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]
+[<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -703,7 +703,7 @@ ICCCNT 2018. <br>
 <td>
 <strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
 Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar
-[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
+[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
