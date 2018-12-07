@@ -880,54 +880,54 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/327572979_Deep-Net_Deep_Neural_Network_for_Cyber_Security_Use_Cases' target='_blank'>Deep-Net: Deep Neural Network for Cyber Security Use Cases</a> <br>
+<a href='https://www.researchgate.net/publication/327572979_Deep-Net_Deep_Neural_Network_for_Cyber_Security_Use_Cases' target='_blank'>Deep-Net: Deep Neural Network for Cyber Security Use Cases</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/327574511_RNNSecureNet_Recurrent_neural_networks_for_Cybersecurity_use-cases' target='_blank'>RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases</a> <br>
+<a href='https://www.researchgate.net/publication/327574511_RNNSecureNet_Recurrent_neural_networks_for_Cybersecurity_use-cases' target='_blank'>RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/328189401_DeepImageSpam_Deep_Learning_based_Image_Spam_Detection' target='_blank'>DeepImageSpam: Deep Learning based Image Spam Detection</a><br>
+<a href='https://www.researchgate.net/publication/328189401_DeepImageSpam_Deep_Learning_based_Image_Spam_Detection' target='_blank'>DeepImageSpam: Deep Learning based Image Spam Detection</a>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/328189443_A_Brief_Survey_on_Autonomous_Vehicle_Possible_Attacks_Exploits_and_Vulnerabilities' target='_blank'>A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities</a><br>
+<a href='https://www.researchgate.net/publication/328189443_A_Brief_Survey_on_Autonomous_Vehicle_Possible_Attacks_Exploits_and_Vulnerabilities' target='_blank'>A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/328631393_Enhancing_Computational_Thinking_with_MIT_Scratch_and_L-System' target='_blank'>Enhancing Computational Thinking with MIT Scratch and L-System</a><br>
+<a href='https://www.researchgate.net/publication/328631393_Enhancing_Computational_Thinking_with_MIT_Scratch_and_L-System' target='_blank'>Enhancing Computational Thinking with MIT Scratch and L-System</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/328631590_Using_MIT_Scratch_to_Teach_Recursion_for_Novices' target='_blank'>Using MIT Scratch to Teach Recursion for Novices</a><br>
+<a href='https://www.researchgate.net/publication/328631590_Using_MIT_Scratch_to_Teach_Recursion_for_Novices' target='_blank'>Using MIT Scratch to Teach Recursion for Novices</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/328631593_Enhancing_Computational_Thinking_with_MIT_Scratch_and_Recursion' target='_blank'>Enhancing Computational Thinking with MIT Scratch and Recursion</a><br>
+<a href='https://www.researchgate.net/publication/328631593_Enhancing_Computational_Thinking_with_MIT_Scratch_and_Recursion' target='_blank'>Enhancing Computational Thinking with MIT Scratch and Recursion</a>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<a href='https://www.researchgate.net/publication/327599970_Protein_Family_Classification_using_Deep_Learning' target='_blank'>Protein Family Classification using Deep Learning</a>(<br>
+<a href='https://www.researchgate.net/publication/327599970_Protein_Family_Classification_using_Deep_Learning' target='_blank'>Protein Family Classification using Deep Learning</a>
 </td>
 </tr>
 
