@@ -874,7 +874,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 ### arxiv
 
-<table class="table table-hover">
+
   
   <ol>
 <li>Deep-Net: Deep Neural Network for Cyber Security Use Cases </li>
@@ -885,13 +885,11 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 <li>Using MIT Scratch to Teach Recursion for Novices</li>
 <li>Enhancing Computational Thinking with MIT Scratch and Recursion</li>
 <li>DeepProteomics: Protein family classification using Shallow and Deep Networks </li>
-<li> </li>
 <li> Protein Family Classification using Deep Learning</li>
 <li> Protein Family Classification using Deep Learning</li>
 
 </ol>
   
-  
-</table>
+
 
 
