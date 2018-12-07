@@ -507,44 +507,167 @@ TAP Energy 2017. <br>
 </td>
 </tr>
 
-
-<tr>
 <td>
-<strong>CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection</strong> <br>
-Harikrishnan Nb, <strong>Vinayakumar R </strong> and Soman KP <br>
-IWSPA-AP 2018. <br>
-[<a href='http://ceur-ws.org/Vol-2124/paper_7.pdf' target='_blank'>paper</a>]
+<strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
+Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
+BioSTAR 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]
 </td>
 </tr>
 
 <tr>
 <td>
-<strong>DeepAnti-PhishNet: Applying Deep Neural Networks for Phishing Email Detection</strong> <br>
-<strong>Vinayakumar R</strong>, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman KP <br>
-IWSPA-AP 2018. <br>
-[<a href='http://ceur-ws.org/Vol-2124/paper_9.pdf' target='_blank'>paper</a>]
-</td>
-</tr>
-
-
-<tr>
-<td>
-<strong>Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018</strong> <br>
-Barathi Ganesh Hb, Vinayakumar R, Anand Kumar M and Soman KP <br>
-IWSPA-AP 2018. <br>
-[<a href='http://ceur-ws.org/Vol-2124/paper_10.pdf' target='_blank'>paper</a>]
+<strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]
 </td>
 </tr>
 
 
 <tr>
 <td>
-<strong>Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018</strong> <br>
-Anu Vazhayil, Harikrishnan NB, Vinayakumar R and Soman KP <br>
-IWSPA-AP 2018. <br>
-[<a href='http://ceur-ws.org/Vol-2124/paper_11.pdf' target='_blank'>paper</a>]
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]
 </td>
 </tr>
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R<strong><br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
+Aswin S, Geetha P and <strong>Vinayakumar R <strong><br>
+ICCIDS 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
+Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Building-Blocks: Generating 3D Design by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8494036' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
+Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R<strong>, Lakshmi Nambiar
+ICCCNT 2018. <br>
+[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+
+
+
 
 
 
