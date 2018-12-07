@@ -884,7 +884,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 [Enhancing Computational Thinking with MIT Scratch and L-System](https://www.researchgate.net/publication/328631393_Enhancing_Computational_Thinking_with_MIT_Scratch_and_L-System)<br>
 [Using MIT Scratch to Teach Recursion for Novices](https://www.researchgate.net/publication/328631590_Using_MIT_Scratch_to_Teach_Recursion_for_Novices)<br>
 [Enhancing Computational Thinking with MIT Scratch and Recursion](https://www.researchgate.net/publication/328631593_Enhancing_Computational_Thinking_with_MIT_Scratch_and_Recursion)<br>
-[DeepProteomics: Protein family classification using Shallow and Deep Networks] (https://www.researchgate.net/publication/327621216_DeepProteomics_Protein_family_classification_using_Shallow_and_Deep_Networks)<br>
+[DeepProteomics: Protein family classification using Shallow and Deep Networks] (https://arxiv.org/abs/1809.04461)<br>
 [Protein Family Classification using Deep Learning](https://www.researchgate.net/publication/327599970_Protein_Family_Classification_using_Deep_Learning)
 
 
