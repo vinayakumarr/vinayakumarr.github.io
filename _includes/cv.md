@@ -34,30 +34,17 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 </table>
 
-## <i class="fa fa-chevron-right"></i> Accepted
+## <i class="fa fa-chevron-right"></i> Recent Accepted publications
 
-+ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection" Deep Learning Applications for Cyber Security, Springer
++ Vinayakumar R, Soman kp and Prabaharan poornachandran, "DeepSpamPhishNet (DSPN): Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis", Springer-Bookchapter
 
-+ Naveen Kumar, Vinayakumar R and Soman Kp, "Protein family classification using Deep Learning" ICT-Express
++ Vinayakumar R, Soman kp and Prabaharan poornachandran, "Application of Deep Learning Architectures for Cyber security", Springer-Bookchapter
 
-+ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "DeepImageSpam: Deep Learning based Image Spam Detection" ICT-Express
++ Vinayakumar R, Soman kp and Prabaharan poornachandran, "I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms", Springer-Bookchapter
 
-+ Amara Dinesh Kumar, Vinayakumar R and Soman Kp, "A Brief Survey on Autonomous Vehicle Possible Attacks,Exploits and
-Vulnerabilities" ICT-Express
++ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection", Springer-Bookchapter
 
-+ Swapna G, Vinayakumar R and Soman Kp, "Diabetes detection using deep learning algorithms" ICT-Express
-
-+ Vysakh S Mohan, Vinayakumar R and Sowmya V "Deep Rectified System for High-speed Tracking in Images" ISTA-2018
-
-+ Anson Simon, Vinayakumar R, Sowmya V and Soman K P, "Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Mohammed Harun Babu R, Sai Bhanuja B, Vinayakumar R,  Sowmya V, "DEEP NEURAL NETWORK FOR PHONOCARDIOGRAM SIGNAL CLASSIFICATION", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Naren Babu R, Saiprasath G, Arunpriyan J, Vinayakumar R, Sowmya V and Soman K P, "PERFORMANCE COMPARISON OF MACHINE LEARNING ALGORITHMS FOR MALARIA DETECTION USING MICROSCOPIC IMAGES", <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Swapna G, Vinayakumar R and Soman Kp, "Automated detection of Atrial Fibrillation using deep learning techniques",, <a href='http://www.nrcdds.com/' target='_blank'> RCDDS 2018</a>
-
-+ Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images"
++ Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP and Gopalakrishnan EA, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images", Elsevier-Bookchapter
 
 ## <i class="fa fa-chevron-right"></i> Education
 
@@ -394,6 +381,16 @@ ICT Express<br>
 </td>
 </tr>
 
+<tr>
+<td>
+    <strong>Diabetes detection using deep learning algorithms</strong><br> 
+Swapna G, <strong>R Vinayakumar</strong>, KP Soman<br>
+ICT Express<br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304624' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
 
 <tr>
 <td>
@@ -403,6 +400,9 @@ Journal of Cyber Security and Mobility<br>
 [<a href='https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/2/3' target='_blank'>paper</a>]<br>
 </td>
 </tr>
+
+
+
 
 </table>
 
@@ -592,15 +592,6 @@ Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
 
 <tr>
 <td>
-<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
-Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R</strong><br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]<br>
-</td>
-</tr>
-
-
-<tr>
-<td>
 <strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
 Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]<br>
@@ -608,13 +599,7 @@ Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
 </tr>
 
 
-<tr>
-<td>
-<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
-Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
-[<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]<br>
-</td>
-</tr>
+
 
 
 <tr>
