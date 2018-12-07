@@ -297,7 +297,7 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 
 <tr>
 <td>
-    <strong>Machine Learning Based Cyber Security</strong><br> 
+    <strong>Deep-Segregation of Plastic (DSP): Segregation of plastic and non-plastic using deep learning</strong><br> 
 Sreelakshmi K, <strong>Vinayakumar R</strong> and Soman KP<br>
 Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 <strong> In Press </strong> <br>
