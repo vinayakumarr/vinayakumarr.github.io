@@ -620,7 +620,7 @@ Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
 <tr>
 <td>
 <strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
-Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran
+Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -629,7 +629,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <tr>
 <td>
 <strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -638,7 +638,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <tr>
 <td>
 <strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -648,7 +648,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <tr>
 <td>
 <strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -657,7 +657,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <tr>
 <td>
 <strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -667,8 +667,7 @@ Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poorna
 <tr>
 <td>
 <strong>DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
-ICCCNT 2018. <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -676,7 +675,7 @@ ICCCNT 2018. <br>
 <tr>
 <td>
 <strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -685,7 +684,7 @@ ICCCNT 2018. <br>
 <tr>
 <td>
 <strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]<br>
 </td>
 </tr>
@@ -694,7 +693,7 @@ ICCCNT 2018. <br>
 <tr>
 <td>
 <strong>Building-Blocks: Generating 3D Design by Snapping Blocks</strong> <br>
-<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
 [<a href='https://ieeexplore.ieee.org/document/8494036' target='_blank'>paper</a>]
 </td>
 </tr>
@@ -702,7 +701,7 @@ ICCCNT 2018. <br>
 <tr>
 <td>
 <strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
-Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar
+Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar<br>
 [<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]<br>
 </td>
 </tr>
