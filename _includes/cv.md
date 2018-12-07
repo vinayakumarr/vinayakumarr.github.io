@@ -289,9 +289,53 @@ LibreOffice, Microsoft Office, and Latex
     <strong>Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis</strong><br> 
 <strong>Vinayakumar R</strong>, Prabaharan Poornachandran and Soman KP<br>
 Big data in Engineering Applications Springer<br>
-[<a href='' target='_blank'>under print</a>]  [<a href=''>code</a>] <br>
+[<a href='https://link.springer.com/chapter/10.1007/978-981-10-8476-8_6' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
+
+<tr>
+<td>
+    <strong>A deep-dive on Machine learning for Cybersecurity use cases</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Pradeep Menon<br>
+Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Practices, CRC Press<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs)</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, Sabu M. Thampi, Jyothsna P V and Amara Dinesh Kumar<br>
+Big Data Recommender Systems: Recent Trends and Advances, IET<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Machine Learning Based Cyber Security</strong><br> 
+Sreelakshmi K, <strong>Vinayakumar R</strong> and Soman KP<br>
+Big Data Recommender Systems: Recent Trends and Advances, IET<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Machine Learning Based Cyber Security</strong><br> 
+Harikrishnan NB, <strong>Vinayakumar R</strong>, Soman KP, Annappa B, and Mamoun Alazab<br>
+Big Data Recommender Systems: Recent Trends and Advances, IET<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+
+
+
 </table>
 
 
