@@ -879,8 +879,8 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
   <ol>
 <li>Deep-Net: Deep Neural Network for Cyber Security Use Cases </li>
 <li>RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases </li>
-<li>DeepImageSpam: Deep Learning based Image Spam Detection<li>
-<li>A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities<li>
+<li>DeepImageSpam: Deep Learning based Image Spam Detection</li>
+<li>A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities</li>
 <li>Enhancing Computational Thinking with MIT Scratch and L-System</li>
 <li>Using MIT Scratch to Teach Recursion for Novices</li>
 <li>Enhancing Computational Thinking with MIT Scratch and Recursion</li>
