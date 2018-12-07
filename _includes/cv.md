@@ -247,6 +247,7 @@ LibreOffice, Microsoft Office, and Latex
 + Automated detection of cardiac arrhythmia using deep learning techniques
 + Diabetes detection using deep learning algorithms
 + DeepMalNet: Evaluating shallow and deep networks for static PE malware detection
++ Diabetes detection using HRV and Microscopy image processing
 
 ## <i class="fa fa-chevron-right"></i> Certificates acquired from participating in workshops
 
