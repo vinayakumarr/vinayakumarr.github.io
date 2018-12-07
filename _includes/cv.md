@@ -664,10 +664,6 @@ ICCCNT 2018. <br>
 </td>
 </tr>
 
-
-
-
-
 </table>
 
 
