@@ -726,7 +726,13 @@ Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya
 </td>
 </tr>
 
-
+<tr>
+<td>
+<strong>Deep Rectified System for High-speed Tracking in Images</strong> <br>
+Vysakh S Mohan,, <strong>Vinayakumar R</strong>, Sowmya V<br>
+<strong>In Press</strong><br>
+</td>
+</tr>
 
 
 
