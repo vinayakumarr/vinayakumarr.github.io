@@ -739,3 +739,65 @@ Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
 </table>
 
 
+### Shared task working note
+
+<table class="table table-hover">
+  
+ <tr>
+<td>
+<strong>Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics</strong> <br>
+Barathi Ganesh HB, <strong>Vinayakumar R</strong>, Anand Kumar M, Soman KP<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_10.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>DeepAnti-PhishNet: Applying Deep Neural Networks for Phishing Email Detection</strong> <br>
+<strong>Vinayakumar R</strong>, Barathi Ganesh HB, Anand Kumar M, Soman KP, Prabaharan Poornachandran<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_9.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>ARES: Automatic Rogue Email Spotter</strong> <br>
+Vysakh S Mohan, JR Naveen, <strong>R Vinayakumar</strong>, KP Soman<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_13.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>PED-ML: Phishing Email Detection Using Classical Machine Learning Techniques</strong> <br>
+Anu Vazhayil, NB Harikrishnan, <strong>R Vinayakumar</strong>, KP Soman<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_11.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>A Machine Learning approach towards Phishing Email Detection</strong> <br>
+NB Harikrishnan, <strong>R Vinayakumar<strong>, KP Soman<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_7.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Deep Learning Based Phishing E-mail Detection</strong> <br>
+M Hiransha, Nidhin A Unnithan, <strong>R Vinayakumar</strong>, KP Soman<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_16.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+</table>
+
+
