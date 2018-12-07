@@ -348,7 +348,7 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
     <strong>Detecting Android Malware using Long Short-term Memory-LSTM</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-  [<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169424' target='_blank'>paper</a>]br<>
+  [<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169424' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
