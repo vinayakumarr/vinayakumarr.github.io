@@ -900,7 +900,8 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 <tr>
 <td>
 <a href='https://www.researchgate.net/publication/328189401_DeepImageSpam_Deep_Learning_based_Image_Spam_Detection' target='_blank'>DeepImageSpam: Deep Learning based Image Spam Detection</a>
-
+</td>
+</tr>
 
 <tr>
 <td>
