@@ -877,16 +877,15 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
   
   <ol>
-<li>Deep-Net: Deep Neural Network for Cyber Security Use Cases </li>
-<li>RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases </li>
-<li>DeepImageSpam: Deep Learning based Image Spam Detection</li>
-<li>A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities</li>
-<li>Enhancing Computational Thinking with MIT Scratch and L-System</li>
-<li>Using MIT Scratch to Teach Recursion for Novices</li>
-<li>Enhancing Computational Thinking with MIT Scratch and Recursion</li>
-<li>DeepProteomics: Protein family classification using Shallow and Deep Networks </li>
-<li> Protein Family Classification using Deep Learning</li>
-<li> Protein Family Classification using Deep Learning</li>
+<li>[Deep-Net: Deep Neural Network for Cyber Security Use Cases](https://www.researchgate.net/publication/327572979_Deep-Net_Deep_Neural_Network_for_Cyber_Security_Use_Cases) </li>
+<li>[RNNSecureNet: Recurrent neural networks for Cybersecurity use-cases](https://www.researchgate.net/publication/327574511_RNNSecureNet_Recurrent_neural_networks_for_Cybersecurity_use-cases) </li>
+<li>[DeepImageSpam: Deep Learning based Image Spam Detection](https://www.researchgate.net/publication/328189401_DeepImageSpam_Deep_Learning_based_Image_Spam_Detection)</li>
+<li>[A Brief Survey on Autonomous Vehicle Possible Attacks, Exploits and Vulnerabilities](https://www.researchgate.net/publication/328189443_A_Brief_Survey_on_Autonomous_Vehicle_Possible_Attacks_Exploits_and_Vulnerabilities)</li>
+<li>[Enhancing Computational Thinking with MIT Scratch and L-System](https://www.researchgate.net/publication/328631393_Enhancing_Computational_Thinking_with_MIT_Scratch_and_L-System)</li>
+<li>[Using MIT Scratch to Teach Recursion for Novices](https://www.researchgate.net/publication/328631590_Using_MIT_Scratch_to_Teach_Recursion_for_Novices)</li>
+<li>[Enhancing Computational Thinking with MIT Scratch and Recursion](https://www.researchgate.net/publication/328631593_Enhancing_Computational_Thinking_with_MIT_Scratch_and_Recursion)</li>
+<li>[DeepProteomics: Protein family classification using Shallow and Deep Networks] (https://www.researchgate.net/publication/327621216_DeepProteomics_Protein_family_classification_using_Shallow_and_Deep_Networks)</li>
+<li> [Protein Family Classification using Deep Learning](https://www.researchgate.net/publication/327599970_Protein_Family_Classification_using_Deep_Learning)</li>
 
 </ol>
   
