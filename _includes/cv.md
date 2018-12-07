@@ -374,12 +374,14 @@ International Journal of Information System Modeling and Design (IJISMD)<br>
 
 <tr>
 <td>
-    <strong>DeepMalNet: Evaluating shallow and deep networks for static PE malware detection</strong><br> 
-<strong>R Vinayakumar</strong>, KP Soman<br>
-ICT Express<br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304636' target='_blank'>paper</a>]<br>
+    <strong>A Comparative Analysis of Deep learning Approaches for Network Intrusion Detection Systems (N-IDSs)</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
+International Journal of Digital Crime and Forensics (IJDCF)<br>
+<strong> In Press </strong><br>
 </td>
 </tr>
+
+
 
 <tr>
 <td>
@@ -401,7 +403,14 @@ Journal of Cyber Security and Mobility<br>
 </td>
 </tr>
 
-
+<tr>
+<td>
+    <strong>DeepMalNet: Evaluating shallow and deep networks for static PE malware detection</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman<br>
+ICT Express<br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304636' target='_blank'>paper</a>]<br>
+</td>
+</tr>
 
 
 </table>
