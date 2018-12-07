@@ -706,6 +706,36 @@ Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Laks
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images</strong> <br>
+Anson Simon, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
+<strong>In Press</strong><br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Deep neural network for phonocardiogram signal classification</strong> <br>
+Mohammed Harun Babu R, Sai Bhanuja B, <strong>Vinayakumar R</strong>, Sowmya V<br>
+<strong>In Press</strong><br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Performance comparision of machine learning algorithms for malaria detection using micrscopic images </strong> <br>
+Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
+<strong>In Press</strong><br>
+</td>
+</tr>
+
+
+
+
+
 </table>
 
 
