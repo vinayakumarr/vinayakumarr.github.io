@@ -332,7 +332,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a>][br]
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a>[br]
 </td>
 </tr>
 
@@ -341,7 +341,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Evaluation of Recurrent Neural Network and its Variants for Intrusion Detection System (IDS)</strong><br> 
 <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
 International Journal of Information System Modeling and Design (IJISMD)<br>
-[<a href='https://www.igi-global.com/article/evaluation-of-recurrent-neural-network-and-its-variants-for-intrusion-detection-system-ids/204371' target='_blank'>paper</a>][br]
+[<a href='https://www.igi-global.com/article/evaluation-of-recurrent-neural-network-and-its-variants-for-intrusion-detection-system-ids/204371' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -351,7 +351,7 @@ International Journal of Information System Modeling and Design (IJISMD)<br>
     <strong>DeepMalNet: Evaluating shallow and deep networks for static PE malware detection</strong><br> 
 <strong>R Vinayakumar</strong>, KP Soman<br>
 ICT Express<br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304636' target='_blank'>paper</a>][br]
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304636' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -361,7 +361,7 @@ ICT Express<br>
     <strong>ScaleNet: Scalable and Hybrid Framework for Cyber Threat Situational Awareness Based on DNS, URL, and Email Data Analysis</strong><br> 
 <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran, Vysakh S Mohan, Amara Dinesh Kumar<br>
 Journal of Cyber Security and Mobility<br>
-[<a href='https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/2/3' target='_blank'>paper</a>][br]
+[<a href='https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/2/3' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
