@@ -507,7 +507,71 @@ TAP Energy 2017. <br>
 </td>
 </tr>
 
+<td>
+<strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
+Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
+BioSTAR 2018. <br>
+[<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]
+</td>
+</tr>
 
+<tr>
+<td>
+<strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R<strong> <br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Athira V, Geetha P, Soman Kp and <strong>Vinayakumar R<strong><br>
+ICCIDS 2018. <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918308007' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
+Aswin S, Geetha P and <strong>Vinayakumar R <strong><br>
+ICCIDS 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Anu Vazhayil, <strong>R Vinayakumar</strong>, KP Soman <br>
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494159' target='_blank'>paper</a>]
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
+Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran
+ICCCNT 2018. <br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]
+</td>
+</tr>
 
 
 
