@@ -124,7 +124,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <tr>
   <td class='col-md-2'>Reviewer</td>
   <td markdown="1">
-ICACCI 2018, DMD 2018, IWSPA-AP 2018, ICIT 2019
+<a href='http://icacci-conference.org/2018/' target='_blank'>ICACCI 2018</a>, <a href='https://nlp.amrita.edu/DMD2018/' target='_blank'>DMD 2018</a>, <a href='https://dasavisha.github.io/IWSPA-sharedtask/' target='_blank'>IWSPA-AP 2018</a>, <a href='http://www.ieee-icit2019.org/' target='_blank'>ICIT 2019</a>
   </td>
 </tr>
   
