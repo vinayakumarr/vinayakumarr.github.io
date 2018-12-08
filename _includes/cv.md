@@ -46,6 +46,20 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 + Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP and Gopalakrishnan EA, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images", Elsevier-Bookchapter
 
+## <i class="fa fa-chevron-right"></i> Research interests
+
++ Application of Data mining, Machine learning (including Deep learning), Natural language processing and Image processing for Cyber Security
+
++ Big Security Data Analytics
+
++ Cyber Threat Situational Awareness Data Analysis- DNS logs, URLs, Spam, Social media security related data
+
++ Malware. Intrusion, Anamoly and Fraud Detection
+
++ Internet Traffic Analysis
+
++ Adversarial Machine Learning for Cyber Security
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
