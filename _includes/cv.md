@@ -119,6 +119,21 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Service
+<table class="table table-hover">
+<tr>
+  <td class='col-md-2'>Reviewer</td>
+  <td markdown="1">
+ICACCI 2018, DMD 2018, IWSPA-AP 2018, ICIT 2019
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Admissions</td>
+  <td markdown="1">
+CEN, 2016
+  </td>
+</tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i> PhD Coursework
