@@ -108,6 +108,12 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
     Block-based programming development for Indian K-12 Schools
   </td>
 </tr>
+  <tr>
+  <td class='col-md-3'>Feb 2017</td>
+  <td>
+    <strong>Visiting Research Intern</strong>, Lakhshya Cyber Security Labs
+  </td>
+</tr>
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
