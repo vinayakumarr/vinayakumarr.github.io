@@ -94,6 +94,33 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 </table>
 
+## <i class="fa fa-chevron-right"></i> Teaching Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-1'>CN733</td>
+  <td><strong>Neural Network and Deep Learning</strong>, (May 2017 - Nov 2017), TA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>16CN701 </td>
+  <td><strong>Computational Methods for Cryptography</strong>, (May 2017 - Nov 2017), TA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>16CN703</td>
+  <td><strong>Deep learning for visual recognition</strong>, (Dec 2017 - May 2018), TA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>16CN701 </td>
+  <td><strong>Computational Methods for Cryptography</strong>, (May 2018 - Nov 2018), TA</td>
+</tr>
+ <tr>
+  <td class='col-md-1'>16CN703</td>
+  <td><strong>Deep learning for visual recognition</strong>, (Dec 2018 - Apr 2019), TA</td>
+</tr>
+</table>
+
+
+
+
 ## <i class="fa fa-chevron-right"></i> PhD Coursework
 + MA607 - Linear Algebra
 + CN613 - Computational optimization theory- linear and non-linear methods
@@ -177,7 +204,7 @@ LibreOffice, Microsoft Office, and Latex
 
 + November 25-27, 2017 - <a href='http://nlp.amrita.edu/MSP-2017/MSP-2017.html' target='_blank'> A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification</a>
 
-+ MAy 21, June 4, 2018 - <a href='https://www.amrita.edu/event/summer-course-ai-date-science' target='_blank'>Summaer course on AI and Data science</a>
++ May 21, June 4, 2018 - <a href='https://www.amrita.edu/event/summer-course-ai-date-science' target='_blank'>Summaer course on AI and Data science</a>
 
 + September 22-23, 2018 - <a href='https://www.amrita.edu/event/workshop-engineers' target='_blank'> A Workshop for Engineers</a>
 
