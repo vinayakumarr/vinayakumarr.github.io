@@ -10,7 +10,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov 2018</td>
-  <td>Paper accepted in <a href="http://iccscs.org/home", target='_blank'>ICCSCS2018</a>, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
+  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
 </tr>
 
 <tr>
@@ -36,11 +36,11 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 ## <i class="fa fa-chevron-right"></i> Recent Accepted publications
 
-+ Vinayakumar R, Soman kp and Prabaharan poornachandran, "DeepSpamPhishNet (DSPN): Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis", Springer-Bookchapter
++ Vinayakumar R, Soman kp, Prabaharan poornachandran and Mohamed Elhoseny, "DeepSpamPhishNet (DSPN): Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis", Springer-Bookchapter
 
 + Vinayakumar R, Soman kp and Prabaharan poornachandran, "Application of Deep Learning Architectures for Cyber security", Springer-Bookchapter
 
-+ Vinayakumar R, Soman kp and Prabaharan poornachandran, "I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms", Springer-Bookchapter
++ Vinayakumar R, Soman kp, Prabaharan poornachandran and Mohamed Elhoseny, "I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms", Springer-Bookchapter
 
 + Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection", Springer-Bookchapter
 
