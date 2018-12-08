@@ -1014,6 +1014,13 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 </table>
 
+## <i class="fa fa-chevron-right"></i> Collaborative Research with PhD students
++ Barathi Ganesh H. B. - Application of NLP for Health Data Analysis
++ Sachin Kumar S - Application of machine learning with NLP approaches for Social media data analysis
++ Premjith B - Application of machine learning with NLP approaches for Social media data analysis and Sanskrit Sandhi splitting
++ Neethu Mohan - Deep learning architectures for power quality disturbances classification
++ Rahul K Pathinarupothi - Deep learning for Sleep Apnea Detection
+
 ## <i class="fa fa-chevron-right"></i> Tentative Thesis Committee
 
 + Prof <a href='https://nlp.amrita.edu/somankp/' target='_blank'>Soman KP</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
@@ -1041,8 +1048,8 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Sriram S, 2018 Nov-2019 May, Adverserial machine learning for Cyber Security
 + Sreelakshmi S, 2018 Jan-2018May, Deep learning and Image processing for Plastic and Non-plastic seggregation
 + Shashank Anivilla and Anupama, 2018 Jan-2019 May - Malware Analysis
-
-
++ Rahul vigneshwaran, 2018 May-2018 Oct - Deep neural networks for Intrusion detection
++ Vidya Prasad, 2018 Nov - MAy 2019 - Deep learning based Sanskrit Sandhi splitting
 
 
 
