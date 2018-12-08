@@ -60,6 +60,8 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 + Adversarial Machine Learning for Cyber Security
 
++ Application of ata mining, Machine learning (including Deep learning), Natural language processing and Image processing for Program Analysis
+
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
