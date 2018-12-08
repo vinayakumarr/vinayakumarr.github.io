@@ -1022,8 +1022,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 ## <i class="fa fa-chevron-right"></i> Collaborative Research with PhD students
 + Barathi Ganesh H. B. - Application of NLP for Health Data Analysis
-+ Sachin Kumar S - Application of machine learning with NLP approaches for Social media data analysis
-+ Premjith B - Application of machine learning with NLP approaches for Social media data analysis and Sanskrit Sandhi splitting
++ Sachin Kumar S and Premjith B - Application of machine learning with NLP approaches for Social media data analysis
 + Neethu Mohan - Deep learning architectures for power quality disturbances classification
 + Rahul K Pathinarupothi - Deep learning for Sleep Apnea Detection
 
