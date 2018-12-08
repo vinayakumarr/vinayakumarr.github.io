@@ -127,6 +127,15 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 ICACCI 2018, DMD 2018, IWSPA-AP 2018, ICIT 2019
   </td>
 </tr>
+  
+<tr>
+  <td class='col-md-2'>Program Chair</td>
+  <td markdown="1">
+DMD, 2018
+  </td>
+</tr>
+
+
 <tr>
   <td class='col-md-2'>Admissions</td>
   <td markdown="1">
