@@ -1016,10 +1016,10 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 ## <i class="fa fa-chevron-right"></i> Tentative Thesis Committee
 
-+ Prof <a href='https://nlp.amrita.edu/somankp/' target='_blank'>Soman KP<>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
-+ Prof <a href='https://www.amrita.edu/faculty/ki-ram' target='_blank'>Ramachandran KI<>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
-+ Prof <a href='https://scholar.google.co.in/citations?user=N1kUymQAAAAJ&hl=en' target='_blank'>Anand Kumar M<>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
-+ Prof <a href='https://www.amrita.edu/faculty/d-govind' target='_blank'>Govind D<>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
++ Prof <a href='https://nlp.amrita.edu/somankp/' target='_blank'>Soman KP</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
++ Prof <a href='https://www.amrita.edu/faculty/ki-ram' target='_blank'>Ramachandran KI</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
++ Prof <a href='https://scholar.google.co.in/citations?user=N1kUymQAAAAJ&hl=en' target='_blank'>Anand Kumar M</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
++ Prof <a href='https://www.amrita.edu/faculty/d-govind' target='_blank'>Govind D</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
   
 
 
