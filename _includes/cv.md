@@ -1021,6 +1021,26 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Prof <a href='https://scholar.google.co.in/citations?user=N1kUymQAAAAJ&hl=en' target='_blank'>Anand Kumar M</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
 + Prof <a href='https://www.amrita.edu/faculty/d-govind' target='_blank'>Govind D</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
   
+## <i class="fa fa-chevron-right"></i> Master Students working with me
++ Harikrishnan NB, 2016 June-2018 May - Machine learning based Cyber Security. 
++ Akarsh S, 2017 June-2019 May - Application of Machine learning and Image processing for Malware Analysis.
++ Amara Dinesh Kumar, 2018 June-2019 May - Application of machine learning for DGA, URL and Spam analysis, Image spam detection, Vehicular security.
++ Anu Vazhayil, 2017 Dec-2018 Oct -  Deep learning for URL and Phishing Email Analysis, Application of machine learning and deep learning for protomics and Genomics.
++ Vysakh S Mohan, 2017 Nov-2018 May - Deep learning for DGA, URL and Phishing Email Analysis. 
++ Naveen JR, 2018 Jan-May - Application of NLP and Deep learning for Phishing Email Analysis. 
++ Hirnsha M, 2018 Jan-May - Application of Convolutional neural network for Phishing Email Analysis. 
++ Nidhin A Unnithan, 2018 Jan-May - Application of Classicla machine learning algorithms and Deep learning architectures for Phishing Email Analysis. 
++ Sreelekshmy Selvin, 2017 Nov-2018 May - Application of LSTM, RNN and CNN-sliding window model for Stock price prediction.
++ S Aswin, 2018 Jan-May - Deep Learning Models for the Prediction of Rainfall.
++ V Athira, 2018 Jan-May - Application of Deep learning architectures for Air Quality Prediction.
++ Anson Simon, 2018 Jan-May - Application of Deep learning for Microsscopy Image Analysis.
++ Naveen Kumar KS, 2017 June-2019 May - Application of Deep learning for Protein Sequence Analysis, Emotion detection in Social media data.
++ Mohammad Harun Babu, 2017 June-2019 May - Application of Deep learning for Cyber Security.
++ Sai prasad, Naren Babu and Arun Kumar, 2018 Jan-May - Machine learning for Microscopy image analysis.
++ Shriya Se, 2015 June-Dec 2016, Sentiment analysis in Indian languages.
++ Sriram S, 2018 Nov-2019 May, Adverserial machine learning for Cyber Security
++ Sreelakshmi S, 2018 Jan-2018May, Deep learning and Image processing for Plastic and Non-plastic seggregation
++ Shashank Anivilla and Anupama, 2018 Jan-2019 May - Malware Analysis
 
 
 
