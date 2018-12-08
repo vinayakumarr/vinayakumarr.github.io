@@ -131,7 +131,7 @@ ICACCI 2018, DMD 2018, IWSPA-AP 2018, ICIT 2019
 <tr>
   <td class='col-md-2'>Program Chair</td>
   <td markdown="1">
-DMD, 2018
+<a href='https://nlp.amrita.edu/DMD2018/' target='_blank'> DMD 2018 </a>
   </td>
 </tr>
 
