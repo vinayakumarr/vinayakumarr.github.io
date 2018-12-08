@@ -111,7 +111,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   <tr>
   <td class='col-md-3'>Feb 2017</td>
   <td>
-    <strong>Visiting Research Intern</strong>, Lakhshya Cyber Security Labs
+    Visiting Research Intern, <strong>Lakhshya Cyber Security Labs</strong>
   </td>
 </tr>
 </table>
