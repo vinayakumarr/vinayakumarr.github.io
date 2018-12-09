@@ -1054,7 +1054,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Sreelakshmi S, 2018 Jan-2018May, Deep learning and Image processing for Plastic and Non-plastic seggregation
 + Shashank Anivilla and Anupama, 2018 Jan-2019 May - Malware Analysis
 + Rahul vigneshwaran, 2018 May-2018 Oct - Deep neural networks for Intrusion detection
-+ Vidya Prasad, 2018 Nov - MAy 2019 - Deep learning based Sanskrit Sandhi splitting
++ Vidya Prasad, 2018 Nov - May 2019 - Deep learning based Sanskrit Sandhi splitting
 
 
 
