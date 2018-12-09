@@ -15,7 +15,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei</a></td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei</td>
 </tr>
 <tr>
   <td class='col-md-3'>Dec 2018</td>
