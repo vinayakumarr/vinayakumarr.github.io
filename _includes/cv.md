@@ -28,7 +28,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 
 <tr>
-  <td class='col-md-3'>Dec 2018</td>
+  <td class='col-md-3'>Jan 2019</td>
   <td>Handling a workshop on AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </a> </td>
 </tr>
 
