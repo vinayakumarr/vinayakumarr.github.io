@@ -254,7 +254,7 @@ LibreOffice, Microsoft Office, and Latex
 
 + September 22-23, 2018 - <a href='https://www.amrita.edu/event/workshop-engineers' target='_blank'> A Workshop for Engineers</a>
 
-+ October 14, 2017 - <a href='https://nlp.amrita.edu/AI%20and%20DATA%20SCIENCE%20WORKSHOP/' target='_blank'> Artificial Intelligence and Data science for Cyber security</a>
++ October 14, 2018 - <a href='https://nlp.amrita.edu/AI%20and%20DATA%20SCIENCE%20WORKSHOP/' target='_blank'> Artificial Intelligence and Data science for Cyber security</a>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
 
