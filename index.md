@@ -22,17 +22,21 @@ title: Vinayakumar R
 <h4><a href="/blog">View all</a></h4>
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
-+ <a href="http://nlp.amrita.edu/Alg-Design/" target="_blank"> Alg-Design</a>: facilitates to learn Algorithmic thinking for beginners
++ <a href="https://nlp.amrita.edu/edu/Alg-Design/" target="_blank"> Alg-Design</a>: facilitates to learn Algorithmic thinking for beginners
 
-+ <a href="http://nlp.amrita.edu/Building-Blocks/" target="_blank"> Building-Blocks</a>: Generating 3D design by snapping blocks
++ <a href="https://nlp.amrita.edu/edu/Building-Blocks/" target="_blank"> Building-Blocks</a>: Generating 3D design by snapping blocks
 
-+ <a href="http://nlp.amrita.edu/CT-Blocks/" target="_blank"> CT-Blocks</a>: Learning Computational thinking by snapping blocks
++ <a href="https://nlp.amrita.edu/edu/CT-Blocks/" target="_blank"> CT-Blocks</a>: Learning Computational thinking by snapping blocks
 
-+ <a href="http://nlp.amrita.edu/CT-Blocks/" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
++ <a href="https://nlp.amrita.edu/edu/CT-Blocks-Analyser/" target="_blank"> CT-Blocks Analyser</a>: Analysing CT-Blocks projects
 
-+ <a href="http://nlp.amrita.edu/DB-Learn/" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
++ <a href="https://nlp.amrita.edu/edu/DB-Learn/" target="_blank"> DB-Learn</a>: Studying Relational Algebra concepts by Snapping Blocks
 
-+ <a href="http://nlp.amrita.edu/Digital-storytelling/" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
++ <a href="https://nlp.amrita.edu/edu/Digital-storytelling/" target="_blank"> Digital story telling using Scratch: Engaging children towards digital story telling</a>
+
++ <a href="https://nlp.amrita.edu/edu/Scratch-docs/" target="_blank"> Computational thinking via learning fractals with Scratch</a>
+
++ <a href="https://nlp.amrita.edu/edu/Map-Blocks/" target="_blank"> Computational thinking via Online data analysis</a>
 
 ---
 
