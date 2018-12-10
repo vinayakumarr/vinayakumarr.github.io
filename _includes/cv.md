@@ -250,7 +250,7 @@ LibreOffice, Microsoft Office, and Latex
 
 + November 25-27, 2017 - <a href='http://nlp.amrita.edu/MSP-2017/MSP-2017.html' target='_blank'> A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification</a>
 
-+ May 21, June 4, 2018 - <a href='https://www.amrita.edu/event/summer-course-ai-date-science' target='_blank'>Summaer course on AI and Data science</a>
++ May 21, June 4, 2018 - <a href='https://www.amrita.edu/event/summer-course-ai-date-science' target='_blank'>Summer course on AI and Data science</a>
 
 + September 22-23, 2018 - <a href='https://www.amrita.edu/event/workshop-engineers' target='_blank'> A Workshop for Engineers</a>
 
