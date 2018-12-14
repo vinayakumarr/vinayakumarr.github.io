@@ -264,7 +264,7 @@ LibreOffice, Microsoft Office, and Latex
 
 + Title: Deep Learning for Bio-medical Applications in TEQUIP sponsored Faculty Development Program (FDP) at TKM College of Engineering, Kollam, 14 December 2017. [<a href='https://github.com/vinayakumarr/TEQUIP-FDP-TKM-2017' target='_blank'> Tutorial</a>]
 
-+ Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17. [<a href='' target='_blank'> Tutorial</a>]
++ Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17.
 
 + Title: Deep Learning for Chemistry in DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, December 22-24, 2017. [<a href='https://github.com/vinayakumarr/DeepChem-2017' target='_blank'> Tutorial</a>]
 
@@ -432,7 +432,7 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
     <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a><br>
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -599,7 +599,7 @@ Intelligent Systems Technologies and Applications (ISTA'17), Springer<br>
 <strong>Anomaly detection in Phonocardiogram employing Deep learning</strong><br>
 Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
 4th International Conference on Computational Intelligence in Data Mining (ICCIDM-2017), Springer <br>
-[<a href='' target='_blank'>paper</a>] <br>
+[<a href='https://link.springer.com/chapter/10.1007/978-981-10-8055-5_47' target='_blank'>paper</a>] <br>
 </td>
 </tr>
 
@@ -607,7 +607,7 @@ Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
 <td>
 <strong>Deep models for Phonocardiography (PCG) classification</strong><br>
 Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
-[<a href='' target='_blank'>paper</a>]<br>
+[<a href='https://ieeexplore.ieee.org/document/8324047' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -644,7 +644,7 @@ Indian Journal of Science and Technology (IJST) <br>
 <td>
 <strong>Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification</strong> <br>
 Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
-[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]<br>
+[<a href='https://ieeexplore.ieee.org/document/8397249' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
