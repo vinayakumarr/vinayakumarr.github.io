@@ -279,15 +279,15 @@ LibreOffice, Microsoft Office, and Latex
 + Demo on LSTM based Android Malware classification in TEQIP II sponsored research workshop on deep learning, PSG Tech, Coimbatore. [<a href='https://github.com/vinayakumarr/TEQIP-II---PSG' target='_blank'> Tutorial</a>]
 
 ## <i class="fa fa-chevron-right"></i> Certifications acquired from Online Coursework
-+ Neural Networks and Deep Learning, Coursera, Aug. 2017 [certificate]
-+ Deep Learning with Tensorflow, Big Data University, Dec. 2016 [certificate]
-+ Deep Learning Prerequisites: The Numpy Stack in Python [certificate]
-+ Big Data, Big Data University, Jul. 2016 [certificate]
-+ Big Data Foundations, IBM, Jul. 2016[certificate]
-+ Functional Programming Principles in Scala, Coursera,  Jul. 2016 [certificate]
-+ Hadoop, Big Data University, Jul. 2016 [certificate]
-+ Spark Fundamentals, Big Data University, Jul. 2016 [certificate]
-+ HTML and CSS, Udemy, Jan. 2015 [certificate]
++ Neural Networks and Deep Learning, Coursera, Aug. 2017 [certificate](https://www.coursera.org/account/accomplishments/certificate/Y5Y59MYENWYQ)
++ Deep Learning with Tensorflow, Big Data University, Dec. 2016 [certificate](https://courses.cognitiveclass.ai/certificates/d629521572c745e3a9a301405e8815b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCKsU4C6CQgqsO%2FHUsywmHg%3D%3D)
++ Deep Learning Prerequisites: The Numpy Stack in Python [certificate](https://www.udemy.com/certificate/UC-PDLCO72P/)
++ Big Data, Big Data University, Jul. 2016 [certificate](https://courses.cognitiveclass.ai/certificates/8816358e7ede44c799b4512b13a9f7a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCKsU4C6CQgqsO%2FHUsywmHg%3D%3D)
++ Big Data Foundations, IBM, Jul. 2016[certificate](https://www.youracclaim.com/badges/164e6e92-1df7-4c46-b365-abba9703cce3/linked_in_profile?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCKsU4C6CQgqsO%2FHUsywmHg%3D%3D)
++ Functional Programming Principles in Scala, Coursera,  Jul. 2016 [certificate](https://www.coursera.org/account/accomplishments/certificate/PC7CLBPXQ2FD)
++ Hadoop, Big Data University, Jul. 2016 [certificate](https://courses.cognitiveclass.ai/certificates/6ed03342ee754b83806d8c9128ec81ca?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCKsU4C6CQgqsO%2FHUsywmHg%3D%3D)
++ Spark Fundamentals, Big Data University, Jul. 2016 [certificate]()
++ HTML and CSS, Udemy, Jan. 2015 [certificate](https://www.udemy.com/certificate/UC-FMSJGIYT/)
 
 
 ## <i class="fa fa-chevron-right"></i> Certificates acquired from paper presentation in conference
