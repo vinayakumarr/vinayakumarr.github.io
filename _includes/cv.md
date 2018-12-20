@@ -1018,6 +1018,13 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 </td>
 </tr>
 
+<tr>
+<td>
+<a href='https://arxiv.org/abs/1812.06292' target='_blank'>A short review on Applications of Deep learning for Cyber security</a>
+</td>
+</tr>
+
+
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Collaborative Research with PhD students
