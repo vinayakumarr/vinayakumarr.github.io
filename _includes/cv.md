@@ -2,7 +2,7 @@ I am a fourth-year Ph.D. student at the Amrita Vishwa Vidyapeetham in Computatio
 
 I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/).<br><br>
 
-I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/)
+I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/).
 
 
 
