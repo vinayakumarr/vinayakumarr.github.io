@@ -256,6 +256,8 @@ LibreOffice, Microsoft Office, and Latex
 
 + October 14, 2018 - <a href='https://nlp.amrita.edu/AI%20and%20DATA%20SCIENCE%20WORKSHOP/' target='_blank'> Artificial Intelligence and Data science for Cyber security</a>
 
++ December 23, 2018 - <a href='https://nlp.amrita.edu/mda-dl18/' target='_blank'>Malware data analytics with Deep learning </a>
+
 ## <i class="fa fa-chevron-right"></i> Invited Talks
 
 + Title: Deep Learning in IEEE (3451) at Kalasalingam Academy of Research and Education, Virudhunagar, Saturday, 3 February 2018. [<a href='https://github.com/vinayakumarr/Kalasalingam' target='_blank'> Tutorial</a>]
