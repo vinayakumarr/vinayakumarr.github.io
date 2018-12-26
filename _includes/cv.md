@@ -356,7 +356,7 @@ Big data in Engineering Applications Springer<br>
     <strong>A deep-dive on Machine learning for Cybersecurity use cases</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Pradeep Menon<br>
 Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Practices, CRC Press<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.crcpress.com/Machine-Learning-for-Computer-and-Cyber-Security-Principle-Algorithms/Gupta-Sheng/p/book/9781138587304' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
