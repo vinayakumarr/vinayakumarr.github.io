@@ -4,6 +4,8 @@ I strongly believe in open science and reproducible research and actively publis
 
 I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/).
 
+[AmritaDGA](https://vinayakumarr.github.io/AmritaDGA/) data set is publically avilable for research purpose in the domain of cyber security mainly detecting malicious domain names, bot net detection, detecting DGA algorithms
+
 
 
 ## <i class="fa fa-chevron-right"></i> News
