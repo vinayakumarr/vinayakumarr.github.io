@@ -15,16 +15,16 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov 2018</td>
-  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study</td>
+  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study.</td>
 </tr>
 
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei</td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei.</td>
 </tr>
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Using Convolutional and Recurrent Neural Network to Detect Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman</td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Using Convolutional and Recurrent Neural Network to Detect Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman.</td>
 </tr>
 
 <tr>
