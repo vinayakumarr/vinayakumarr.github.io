@@ -464,19 +464,6 @@ International Journal of Digital Crime and Forensics (IJDCF)<br>
 </td>
 </tr>
 
-
-
-<tr>
-<td>
-    <strong>Diabetes detection using deep learning algorithms</strong><br> 
-Swapna G, <strong>R Vinayakumar</strong>, KP Soman<br>
-ICT Express<br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304624' target='_blank'>paper</a>]<br>
-</td>
-</tr>
-
-
-
 <tr>
 <td>
     <strong>ScaleNet: Scalable and Hybrid Framework for Cyber Threat Situational Awareness Based on DNS, URL, and Email Data Analysis</strong><br> 
@@ -495,6 +482,14 @@ ICT Express<br>
 </td>
 </tr>
 
+<tr>
+<td>
+    <strong>Diabetes detection using deep learning algorithms</strong><br> 
+Swapna G, <strong>R Vinayakumar</strong>, KP Soman<br>
+ICT Express<br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304624' target='_blank'>paper</a>]<br>
+</td>
+</tr>
 
 </table>
 
@@ -826,15 +821,6 @@ Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
 
 <table class="table table-hover">
   
- <tr>
-<td>
-<strong>Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics</strong> <br>
-Barathi Ganesh HB, <strong>Vinayakumar R</strong>, Anand Kumar M, Soman KP<br>
-[<a href='http://ceur-ws.org/Vol-2124/paper_10.pdf' target='_blank'>paper</a>]<br>
-</td>
-</tr>
-
-
 <tr>
 <td>
 <strong>DeepAnti-PhishNet: Applying Deep Neural Networks for Phishing Email Detection</strong> <br>
@@ -852,6 +838,13 @@ Vysakh S Mohan, JR Naveen, <strong>R Vinayakumar</strong>, KP Soman<br>
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics</strong> <br>
+Barathi Ganesh HB, <strong>Vinayakumar R</strong>, Anand Kumar M, Soman KP<br>
+[<a href='http://ceur-ws.org/Vol-2124/paper_10.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
 
 <tr>
 <td>
