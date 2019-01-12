@@ -37,10 +37,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   <td>Handling a workshop on AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </a> </td>
 </tr>
 
-<tr>
-  <td class='col-md-3'>Jan 2019</td>
-  <td>Handling two days workshop on Application of Deep learning for Cyber security. More details avilable <a href='http://chennai.vit.ac.in/events/eventView/TWO%20DAYS%20WORKSHOP%20ON%20DEEP%20LEARNING%20FOR%20CYBER%20SECURITY' target='_blank'> Deep learning for Cyber security </a> </td>
-</tr>
+
 
 </table>
 
