@@ -1026,6 +1026,19 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 </td>
 </tr>
 
+<tr>
+<td>
+<a href='https://arxiv.org/abs/1901.00297' target='_blank'>A Deep Learning Approach for Similar Languages, Varieties and Dialects</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<a href='https://arxiv.org/abs/1901.03141' target='_blank'>Emotion Detection using Data Driven Models</a>
+</td>
+</tr>
+
 
 </table>
 
