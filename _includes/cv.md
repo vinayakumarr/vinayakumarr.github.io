@@ -9,7 +9,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 [AmritaDGA](https://vinayakumarr.github.io/AmritaDGA/) data set is publically avilable for research purpose in the domain of cyber security mainly detecting malicious domain names, bot net detection, detecting DGA algorithms.
 
-
+Current working on Adversarial Machine Learning for Cyber Security particularly Intrusion detection, malware detection, Domain generation algorithm ananlysis, IOT botnet detection
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
