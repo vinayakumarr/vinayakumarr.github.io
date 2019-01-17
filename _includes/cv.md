@@ -24,7 +24,8 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
 </tr>
 <tr>
   <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Using Convolutional and Recurrent Neural Network to Detect Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman.</td>
+  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Using Various Deep Neural Networks to Detect
+Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman.</td>
 </tr>
 
 <tr>
