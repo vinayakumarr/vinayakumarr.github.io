@@ -371,7 +371,7 @@ Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Pra
 <tr>
 <td>
     <strong>AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs)</strong><br> 
-<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, Sabu M. Thampi, Jyothsna P V and Amara Dinesh Kumar<br>
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, Sabu M. Thampi<br>
 Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 <strong> In Press </strong> <br>
 </td>
