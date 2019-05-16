@@ -26,15 +26,7 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
   <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Enhanced Domain Generating Algorithm Detection based on Deep neural networks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman.</td>
 </tr>
 
-<tr>
-  <td class='col-md-3'>Dec 2018</td>
-  <td>Handling a workshop on Application of machine learning for cyber security. More details avilable <a href='http://www.iiitmk.ac.in/mlc18/' target='_blank'> MLC18</a></td>
-</tr>
 
-<tr>
-  <td class='col-md-3'>Jan 2019</td>
-  <td>Handling a workshop on AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </a> </td>
-</tr>
 
 
 
@@ -260,6 +252,10 @@ LibreOffice, Microsoft Office, and Latex
 + December 23, 2018 - <a href='https://nlp.amrita.edu/mda-dl18/' target='_blank'>Malware data analytics with Deep learning </a>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
+
++ Title: A workshop on Application of machine learning for cyber security. More details avilable <a href='http://www.iiitmk.ac.in/mlc18/' target='_blank'> MLC18</a>
+
++ Title: A workshop on AI in CS - Modern Artificial Intelligence Techniques for Cyber Security. More details avilable <a href='http://www.jit.ac.in/announcement/FDP_Brochure.pdf' target='_blank'> AI in CS </a> 
 
 + Title: Deep Learning in IEEE (3451) at Kalasalingam Academy of Research and Education, Virudhunagar, Saturday, 3 February 2018. [<a href='https://github.com/vinayakumarr/Kalasalingam' target='_blank'> Tutorial</a>]
 
