@@ -153,7 +153,7 @@ Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakum
 <tr>
   <td class='col-md-2'>Reviewer</td>
   <td markdown="1">
-<a href='http://icacci-conference.org/2018/' target='_blank'>ICACCI 2018</a>, <a href='https://nlp.amrita.edu/DMD2018/' target='_blank'>DMD 2018</a>, <a href='https://dasavisha.github.io/IWSPA-sharedtask/' target='_blank'>IWSPA-AP 2018</a>, <a href='http://www.ieee-icit2019.org/' target='_blank'>ICIT 2019</a>
+<a href='http://icacci-conference.org/2018/' target='_blank'>ICACCI 2018</a>, <a href='https://nlp.amrita.edu/DMD2018/' target='_blank'>DMD 2018</a>, <a href='https://dasavisha.github.io/IWSPA-sharedtask/' target='_blank'>IWSPA-AP 2018</a>, <a href='http://www.ieee-icit2019.org/' target='_blank'>ICIT 2019</a> 
   </td>
 </tr>
   
@@ -161,6 +161,13 @@ Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakum
   <td class='col-md-2'>Program Chair</td>
   <td markdown="1">
 <a href='https://nlp.amrita.edu/DMD2018/' target='_blank'> DMD 2018 </a>
+  </td>
+</tr>
+
+<tr>
+  <td class='col-md-2'>Editorial Board Member</td>
+  <td markdown="1">
+<a href='https://iecscience.org/journals/JIEC/editorialBoard' target='_blank'> JIEC </a>
   </td>
 </tr>
 
