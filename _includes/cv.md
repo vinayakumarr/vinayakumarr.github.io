@@ -40,18 +40,6 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
 
 </table>
 
-## <i class="fa fa-chevron-right"></i> Recent Accepted publications
-
-+ Vinayakumar R, Soman kp, Prabaharan poornachandran and Mohamed Elhoseny, "DeepSpamPhishNet (DSPN): Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis", Springer-Bookchapter
-
-+ Vinayakumar R, Soman kp and Prabaharan poornachandran, "Application of Deep Learning Architectures for Cyber security", Springer-Bookchapter
-
-+ Vinayakumar R, Soman kp, Prabaharan poornachandran and Mohamed Elhoseny, "I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms", Springer-Bookchapter
-
-+ Harikrishnan NB, Vinayakumar R, and Soman Kp, "Time Split based pre-processing for Malicious URL Detection", Springer-Bookchapter
-
-+ Anson simon, Mr Vinayakumar R, Sowmya V, Soman KP and Gopalakrishnan EA, "A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images", Elsevier-Bookchapter
-
 ## <i class="fa fa-chevron-right"></i> Research interests
 
 + Application of Data mining, Machine learning (including Deep learning), Natural language processing and Image processing for Cyber Security
@@ -382,6 +370,78 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 <strong> In Press </strong> <br>
 </td>
 </tr>
+
+<tr>
+<td>
+    <strong>Detecting Domain Generation Algorithms Using Deep Learning</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei<br>
+Deep Learning Applications for Cyber Security, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Enhanced Domain Generating Algorithm Detection based on Deep neural networks</strong><br> 
+Amara Kumar, Harish Thodupunoori, <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman<br>
+Deep Learning Applications for Cyber Security, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+    <strong>Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis</strong><br> 
+Vinayakumar R, Soman kp, Prabaharan poornachandran, Akarsh S, and Mohamed Elhoseny<br>
+Cybersecurity and Secure Information Systems, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+    <strong>Application of Deep Learning Architectures for Cyber security</strong><br> 
+Vinayakumar R, Soman kp, Prabaharan poornachandran, and Akarsh S<br>
+Cybersecurity and Secure Information Systems, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms</strong><br> 
+Vinayakumar R, Soman kp, Prabaharan poornachandran, Akarsh S, and Mohamed Elhoseny<br>
+Cybersecurity and Secure Information Systems, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Time Split based pre-processing for Malicious URL Detection</strong><br> 
+Harikrishnan NB, <strong>Vinayakumar R</strong>, and Soman Kp<br>
+Cybersecurity and Secure Information Systems, Springer<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Time Split based pre-processing for Malicious URL Detection</strong><br> 
+Anson simon, <strong>Vinayakumar R</strong>, Sowmya V, Soman KP and Gopalakrishnan EA<br>
+Elsevier<br>
+<strong> In Press </strong> <br>
+</td>
+</tr>
+
 
 
 <tr>
