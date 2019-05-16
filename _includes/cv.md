@@ -894,7 +894,31 @@ Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Cost-Sensitive Long Short-term Memory for Imbalanced DGA Family Categorization </strong> <br>
+Mohammed Harun Babu, <strong> Vinayakumar R</strong> and Soman K P<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
 
+
+<tr>
+<td>
+<strong>Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes </strong> <br>
+Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning</strong> <br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman K P P<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
 
 
 
