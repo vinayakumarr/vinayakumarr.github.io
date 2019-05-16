@@ -215,7 +215,7 @@ MIT Scratch, Snap Berkley, BYOB, Scribble, Beetle Blocks
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop, Apache Spark, Weka and Matlab, Tetrad, Pcalg
+Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop, Apache Spark, Weka and Matlab, Tetrad, Pcalg, NumPy, Pandas, SciPy
   </td>
 </tr>
 <tr>
