@@ -182,15 +182,15 @@ CEN, 2016
 
 
 ## <i class="fa fa-chevron-right"></i> PhD Coursework
-+ MA607 - Linear Algebra
-+ CN613 - Computational optimization theory- linear and non-linear methods
-+ CY603 - Pattern Recognition and Machine Learning
-+ CN624 - Scientific Computing
-+ CN703 - Computational Methods for Cryptography
-+ CN733 - Neural network & Deep learning
-+ CY800 - Research Methodology
-+ Foundation Mathematics
-+ Computational Thinking
++ MA607 - Linear Algebra, Soman KP
++ CN613 - Computational optimization theory- linear and non-linear methods, Soman KP
++ CY603 - Pattern Recognition and Machine Learning, Gireeshkumar T
++ CN624 - Scientific Computing, Soman KP and E. A. Gopalakrishnan
++ CN703 - Computational Methods for Cryptography, Soman KP
++ CN733 - Neural network & Deep learning, Soman KP
++ CY800 - Research Methodology, Govind D
++ Foundation Mathematics, K. Somasundaram
++ Computational Thinking, Soman KP
 
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
