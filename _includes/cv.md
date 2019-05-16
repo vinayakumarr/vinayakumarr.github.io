@@ -915,7 +915,7 @@ Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
 <tr>
 <td>
 <strong>Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning</strong> <br>
-Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman K P P<br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
 <strong> In Press</strong><br>
 </td>
 </tr>
