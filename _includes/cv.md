@@ -435,7 +435,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
 
 <tr>
 <td>
-    <strong>Time Split based pre-processing for Malicious URL Detection</strong><br> 
+    <strong>A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images</strong><br> 
 Anson simon, <strong>Vinayakumar R</strong>, Sowmya V, Soman KP and Gopalakrishnan EA<br>
 Elsevier<br>
 <strong> In Press </strong> <br>
