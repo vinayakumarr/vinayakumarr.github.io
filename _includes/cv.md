@@ -167,7 +167,7 @@ Domain Generation Algorithm Attacks, Amara Kumar, Harish Thodupunoori, Vinayakum
 <tr>
   <td class='col-md-2'>Editorial Board Member</td>
   <td markdown="1">
-<a href='https://iecscience.org/journals/JIEC/editorialBoard' target='_blank'> JIEC </a>
+<a href='https://iecscience.org/journals/JIEC/editorialBoard' target='_blank'> JIEC </a>, May 2019 - present
   </td>
 </tr>
 
