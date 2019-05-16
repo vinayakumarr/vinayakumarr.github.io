@@ -460,7 +460,7 @@ International Journal of Information System Modeling and Design (IJISMD)<br>
     <strong>A Comparative Analysis of Deep learning Approaches for Network Intrusion Detection Systems (N-IDSs)</strong><br> 
 <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
 International Journal of Digital Crime and Forensics (IJDCF)<br>
-<strong> In Press </strong><br>
+[<a href='https://www.igi-global.com/article/a-comparative-analysis-of-deep-learning-approaches-for-network-intrusion-detection-systems-n-idss/227640' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -502,7 +502,7 @@ ICT Express<br>
 <tr>
 <td>
 <strong>Evaluating Shallow and Deep Networks for Secure Shell (SSH) Traffic Analysis</strong><br>
-<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
 [<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125851&tag=1' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/1.pdf' target='_blank'>slides</a>] <br>
 </td>
 </tr>
