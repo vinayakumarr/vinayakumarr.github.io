@@ -913,10 +913,21 @@ Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
 </tr>
 
 
+
+
+
 <tr>
 <td>
 <strong>Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning</strong> <br>
 Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Ranosmware Triage Using Deep Learning: Twitter as a Case Study</strong> <br>
+<strong>Vinayakumar R</strong>, Mamoun Alazab, Alireza Jolfaei, Soman KP, and Prabaharan Poornachandran<br>
 <strong> In Press</strong><br>
 </td>
 </tr>
