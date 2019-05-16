@@ -548,6 +548,7 @@ ICT Express<br>
 </td>
 </tr>
 
+<tr>
 <td>
     <strong>Robust Intelligent Malware Detection Using Deep Learning</strong><br> 
 <strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Sitalakshmi Venkatraman<br>
@@ -556,7 +557,7 @@ IEEE Access<br>
 </td>
 </tr>
 
-
+<tr>
 <td>
     <strong>Deep Learning Approach for Intelligent Intrusion Detection System</strong><br> 
 <strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Ameer Al-Nemrat, Sitalakshmi Venkatraman<br>
