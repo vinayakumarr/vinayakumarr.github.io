@@ -499,6 +499,14 @@ Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images</strong> <br>
+Anson Simon, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
+[<a href='https://www.ijrte.org/wp-content/uploads/papers/v7i6s3/F1012376S19.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
 </table>
 
 
@@ -786,13 +794,7 @@ Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Laks
 </td>
 </tr>
 
-<tr>
-<td>
-<strong>Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images</strong> <br>
-Anson Simon, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
-<strong>In Press</strong><br>
-</td>
-</tr>
+
 
 
 <tr>
