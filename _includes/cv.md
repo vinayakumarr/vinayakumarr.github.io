@@ -907,6 +907,7 @@ Mohammed Harun Babu, <strong> Vinayakumar R</strong> and Soman K P<br>
 <td>
 <strong>Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes </strong> <br>
 Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
+###Best paper award in 2019 International Conference on Advanced Computing & Communication Systems (ICACCS)<br>
 <strong> In Press</strong><br>
 </td>
 </tr>
