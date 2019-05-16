@@ -824,7 +824,7 @@ Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Laks
 <td>
 <strong>Deep neural network for phonocardiogram signal classification</strong> <br>
 Mohammed Harun Babu R, Sai Bhanuja B, <strong>Vinayakumar R</strong>, Sowmya V<br>
-<strong>In Press</strong><br>
+[<a href='http://ijrar.org/papers/IJRAR19SP019.pdf' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
@@ -833,7 +833,7 @@ Mohammed Harun Babu R, Sai Bhanuja B, <strong>Vinayakumar R</strong>, Sowmya V<b
 <td>
 <strong>Performance comparision of machine learning algorithms for malaria detection using micrscopic images </strong> <br>
 Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
-<strong>In Press</strong><br>
+[<a href='http://ijrar.org/papers/IJRAR19SP014.pdf' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
