@@ -488,6 +488,23 @@ ICT Express<br>
 </td>
 </tr>
 
+<td>
+    <strong>Robust Intelligent Malware Detection Using Deep Learning</strong><br> 
+<strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Sitalakshmi Venkatraman<br>
+IEEE Access<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8681127/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<td>
+    <strong>Deep Learning Approach for Intelligent Intrusion Detection System</strong><br> 
+<strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Ameer Al-Nemrat, Sitalakshmi Venkatraman<br>
+ICT Express<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8681044/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
 <tr>
 <td>
     <strong>Diabetes detection using deep learning algorithms</strong><br> 
