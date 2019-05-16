@@ -491,6 +491,14 @@ ICT Express<br>
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Deep Rectified System for High-speed Tracking in Images</strong> <br>
+Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169907' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
 </table>
 
 
@@ -804,13 +812,7 @@ Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya
 </td>
 </tr>
 
-<tr>
-<td>
-<strong>Deep Rectified System for High-speed Tracking in Images</strong> <br>
-Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
-<strong>In Press</strong><br>
-</td>
-</tr>
+
 
 
 
