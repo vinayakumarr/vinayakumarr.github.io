@@ -1026,13 +1026,7 @@ Barathi Ganesh Hullathy Balakrishnan, Anand Kumar Madasamy <strong>Vinayakumar</
 </tr>
 
 
-<tr>
-<td>
-<strong>NLP CEN AMRITA@ SMM4H: Health Care Text Classification through Class Embeddings</strong> <br>
-Barathi Ganesh Hullathy Balakrishnan, Anand Kumar Madasamy <strong>Vinayakumar</strong>, Soman Kotti Padannayil<br>
-[<a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'>paper</a>]<br>
-</td>
-</tr>
+
 
 
 <tr>
