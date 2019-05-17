@@ -12,19 +12,22 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+
 <tr>
-  <td class='col-md-3'>Nov 2018</td>
-  <td>Paper accepted in ICCSCS2018, 10‐12 December 2018 in Melbourne, Australia - Ranosmware Triage Using Deep Learning: Twitter as a Case Study.</td>
+  <td class='col-md-3'>Mar 2019</td>
+  <td>Submitted a paper titled ”Deep Learning Based Two-Level Framework for Domain Name Systems Data Analysis. IEEE Transactions on Information Forensics and Security.” (under-review). (IF: 5.824).</td>
 </tr>
 
 <tr>
-  <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Detecting Domain Generation Algorithms Using Deep Learning, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei.</td>
+  <td class='col-md-3'>Apr 2019</td>
+  <td>Paper accepted in FGCS Journal - Deep Learning and Visualization for Botnet Detection in the Internet of Things of Smart Cities.</td>
 </tr>
+
 <tr>
-  <td class='col-md-3'>Dec 2018</td>
-  <td>Book chapter accepted in "Deep Learning Applications for Cyber Security" - Enhanced Domain Generating Algorithm Detection based on Deep neural networks, Amara Kumar, Harish Thodupunoori, Vinayakumar R, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman.</td>
+  <td class='col-md-3'>Apr 2019</td>
+  <td>My application has been accepted at the [MLSS](https://sites.google.com/view/mlss-2019/) in London. </td>
 </tr>
+
 
 
 
