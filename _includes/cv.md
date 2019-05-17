@@ -25,7 +25,7 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
 
 <tr>
   <td class='col-md-3'>Apr 2019</td>
-  <td>My application has been accepted at the [MLSS](https://sites.google.com/view/mlss-2019/) in London. </td>
+  <td>My application has been accepted at the <a href='https://sites.google.com/view/mlss-2019/' target='_blank'>MLSS</a> in London. </td>
 </tr>
 
 
