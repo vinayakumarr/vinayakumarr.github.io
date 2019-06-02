@@ -14,8 +14,8 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
 <table class="table table-hover">
 
 <tr>
-  <td class='col-md-3'>Mar 2019</td>
-  <td>Attended [hands-on workshop](https://www.linkedin.com/feed/update/urn:li:activity:6540903824457064448/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6540896534781882368%2C6540903732576645120)) on Microbiome screening and pathogen identification by nanopore sequencing.</td>
+  <td class='col-md-3'>June 2019</td>
+  <td>Attended hands-on workshop on Microbiome screening and pathogen identification by nanopore sequencing.</td>
 </tr>
 
 <tr>
