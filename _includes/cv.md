@@ -18,10 +18,7 @@ Currently working on Adversarial Machine Learning for Cyber Security particularl
   <td>Attended hands-on workshop on Microbiome screening and pathogen identification by nanopore sequencing.</td>
 </tr>
 
-<tr>
-  <td class='col-md-3'>Mar 2019</td>
-  <td>Submitted a paper titled ”Deep Learning Based Two-Level Framework for Domain Name Systems Data Analysis. IEEE Transactions on Information Forensics and Security.” (under-review). (IF: 5.824).</td>
-</tr>
+
 
 <tr>
   <td class='col-md-3'>Apr 2019</td>
