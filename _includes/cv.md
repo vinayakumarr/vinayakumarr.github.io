@@ -560,6 +560,17 @@ ICT Express<br>
 
 <tr>
 <td>
+  
+  <tr>
+<td>
+    <strong>A hybrid deep learning image-based analysis for effective malware detection</strong><br> 
+Sitalakshmi Venkatraman, Mamoun Alazab, <strong>R Vinayakumar</strong><br>
+Journal of Information Security and Applications - Elsevier<br>
+  [<a href='https://www.sciencedirect.com/science/article/abs/pii/S2214212618304563' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+  
+  
     <strong>Diabetes detection using deep learning algorithms</strong><br> 
 Swapna G, <strong>R Vinayakumar</strong>, KP Soman<br>
 ICT Express<br>
