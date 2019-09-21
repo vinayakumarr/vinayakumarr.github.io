@@ -73,8 +73,15 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
     Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
   </td>
 </tr>
-<tr>
 
+
+<tr>
+  <td class='col-md-3'>Aug 2015 - Aug 2019</td>
+  <td>
+    <strong>Research Associate</strong>, <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a><br>
+    Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
+  </td>
+</tr>
 <tr>
   <td class='col-md-3'>Jun 2014 - Jul 2015</td>
   <td>
