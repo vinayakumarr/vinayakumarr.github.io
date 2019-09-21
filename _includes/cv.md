@@ -66,7 +66,14 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 ## <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
-  
+ <tr>
+  <td class='col-md-3'>Sep 2019 - present</td>
+  <td>
+    <strong>Postdoctoral research fellow</strong>, <a href='https://anil.cchmc.org/' target='_blank'> Jegga Research lab </a><br>
+    Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
+  </td>
+</tr>
+<tr>
 <tr>
   <td class='col-md-3'>Aug 2015 - Aug 2019</td>
   <td>
@@ -89,7 +96,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience: vin
+## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>CN733</td>
