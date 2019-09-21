@@ -89,7 +89,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience
+## <i class="fa fa-chevron-right"></i> Teaching Experience: vin
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>CN733</td>
