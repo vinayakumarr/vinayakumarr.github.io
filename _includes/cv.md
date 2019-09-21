@@ -4,40 +4,23 @@ I am a Postdoctoral research fellow in <a href='https://www.cincinnatichildrens.
 
 I have a Ph.D. from <a href="https://www.amrita.edu/" target="_blank">Amrita Vishwa Vidyapeetham </a> and was advised by Professor, <a href="https://www.amrita.edu/faculty/kp-soman" target="_blank">Soman KP</a>. My thesis is on DEEP LEARNING APPROACHES TO DETECT ADVANCED CYBER ATTACKS, Artificial intelligence and most specifically, Machine Learning, Data mining, Deep learning, Big Data Analytics, Natural language processing, Signal and Image processing and Causal inference for Cyber Security. My publications are available on my <a href="https://scholar.google.co.in/citations?hl=en&user=oIYw0LQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> page and my open source contributions can be found on my <a href="https://github.com/vinayakumarr" target="_blank">Github</a> profile. During the Ph.D. work, I have worked on various Cyber Security problems such as intrusion detection, malware detection, ransomware detection, botnet detection, spam and phishing detection in email and URL, image spam detection, and spoofing detection.
 
-I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/). We have made the [data set](https://github.com/vinayakumarr/AmritaDGA) and [baseline system](https://github.com/vinayakumarr/DMD2018) publically avilable for further research. I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/). This lead me to involve in developing
-
-[AmritaDGA](https://vinayakumarr.github.io/AmritaDGA/) data set for botnet detection, [deep learning based engine for plastic and non-plastic seggregation](https://vinayakumarr.github.io/DSP/) and data sets for sentimental ananlysis [Amrita-CEN-SentiDB](https://vinayakumarr.github.io/Amrita-CEN-SentiDB/), [Amrita-CEN-SentiDB1](https://vinayakumarr.github.io/Amrita-CEN-SentiDB1/)<br>
+I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/). We have made the [data set](https://github.com/vinayakumarr/AmritaDGA) and [baseline system](https://github.com/vinayakumarr/DMD2018) publically avilable for further research. I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/). This lead me to involve in developing [AmritaDGA](https://vinayakumarr.github.io/AmritaDGA/) data set for botnet detection, [deep learning based engine for plastic and non-plastic seggregation](https://vinayakumarr.github.io/DSP/) and data sets for sentimental ananlysis [Amrita-CEN-SentiDB](https://vinayakumarr.github.io/Amrita-CEN-SentiDB/), [Amrita-CEN-SentiDB1](https://vinayakumarr.github.io/Amrita-CEN-SentiDB1/)<br>
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 
 <tr>
-  <td class='col-md-3'>June 2019</td>
-  <td>Attended hands-on workshop on Microbiome screening and pathogen identification by nanopore sequencing.</td>
+  <td class='col-md-3'>Sep 2019</td>
+  <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab, Cincinnati Children's Hospital Medical Center.</td>
 </tr>
-
-
-
-<tr>
-  <td class='col-md-3'>Apr 2019</td>
-  <td>Paper accepted in FGCS Journal - Deep Learning and Visualization for Botnet Detection in the Internet of Things of Smart Cities.</td>
-</tr>
-
-<tr>
-  <td class='col-md-3'>Apr 2019</td>
-  <td>My application has been accepted at the <a href='https://sites.google.com/view/mlss-2019/' target='_blank'>MLSS</a> in London. </td>
-</tr>
-
-
-
-
-
 
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Research interests
 
 + Application of Data mining, Machine learning (including Deep learning), Natural language processing and Image processing for Cyber Security
+
++ Drug discovery and Drug repositioning
 
 + Big Security Data Analytics
 
@@ -55,7 +38,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2015 - Present</td>
+    <td class="col-md-3">Aug 2015 - June 2019</td>
     <td>
         <strong>Ph.D. in Computer Science</strong>
         <br>
@@ -83,8 +66,16 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 ## <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
+  <tr>
+  <td class='col-md-3'>Sep 2019 - present</td>
+  <td>
+    <strong>Postdoctoral research fellow</strong>, <a href='https://anil.cchmc.org/' target='_blank'> Jegga Research lab </a><br>
+    Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
+  </td>
+</tr>
 <tr>
-  <td class='col-md-3'>Aug 2015 - Present</td>
+<tr>
+  <td class='col-md-3'>Aug 2015 - Aug 2019</td>
   <td>
     <strong>Research Associate</strong>, <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a><br>
     Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
