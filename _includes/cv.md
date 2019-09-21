@@ -339,7 +339,7 @@ LibreOffice, Microsoft Office, and Latex
     <strong>Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis</strong><br> 
 <strong>Vinayakumar R</strong>, Prabaharan Poornachandran and Soman KP<br>
 Big data in Engineering Applications Springer<br>
-[<a href='https://link.springer.com/chapter/10.1007/978-981-10-8476-8_6' target='_blank'>chapter</a>] <br>
+[<a href='https://www.researchgate.net/publication/324906611_Scalable_Framework_for_Cyber_Threat_Situational_Awareness_Based_on_Domain_Name_Systems_Data_Analysis' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -348,7 +348,7 @@ Big data in Engineering Applications Springer<br>
     <strong>A deep-dive on Machine learning for Cybersecurity use cases</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Pradeep Menon<br>
 Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Practices, CRC Press<br>
-[<a href='https://www.crcpress.com/Machine-Learning-for-Computer-and-Cyber-Security-Principle-Algorithms/Gupta-Sheng/p/book/9781138587304' target='_blank'>chapter</a>] <br>
+[<a href='https://www.researchgate.net/publication/331188558_A_Deep-dive_on_Machine_Learning_for_Cyber_Security_Use_Cases_Principles_Algorithms_and_Practices' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -358,16 +358,17 @@ Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Pra
     <strong>AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs)</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, Sabu M. Thampi<br>
 Big Data Recommender Systems: Recent Trends and Advances, IET<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/334570954_AmritaDGA_a_comprehensive_data_set_for_domain_generation_algorithms_DGAs_based_domain_name_detection_systems_and_application_of_deep_learning' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
 <tr>
 <td>
-    <strong>Detecting Domain Generation Algorithms Using Deep Learning</strong><br> 
+    <strong>
+DBD: Deep Learning DGA-Based Botnet Detection</strong><br> 
 <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Alireza Jolfaei<br>
 Deep Learning Applications for Cyber Security, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/335184303_DBD_Deep_Learning_DGA-Based_Botnet_Detection' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -377,7 +378,7 @@ Deep Learning Applications for Cyber Security, Springer<br>
     <strong>Enhanced Domain Generating Algorithm Detection based on Deep neural networks</strong><br> 
 Amara Kumar, Harish Thodupunoori, <strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran, Mamoun Alazab and Sitalakshmi Venkatraman<br>
 Deep Learning Applications for Cyber Security, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/335184795_Enhanced_Domain_Generating_Algorithm_Detection_Based_on_Deep_Neural_Networks' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -388,7 +389,7 @@ Deep Learning Applications for Cyber Security, Springer<br>
     <strong>Deep learning Framework for Cyber Threat Situational Awareness based on Email and URL Data Analysis</strong><br> 
 Vinayakumar R, Soman kp, Prabaharan poornachandran, Akarsh S, and Mohamed Elhoseny<br>
 Cybersecurity and Secure Information Systems, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/333882695_Deep_Learning_Framework_for_Cyber_Threat_Situational_Awareness_Based_on_Email_and_URL_Data_Analysis' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -399,7 +400,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
     <strong>Application of Deep Learning Architectures for Cyber security</strong><br> 
 Vinayakumar R, Soman kp, Prabaharan poornachandran, and Akarsh S<br>
 Cybersecurity and Secure Information Systems, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/333886877_Application_of_Deep_Learning_Architectures_for_Cyber_Security' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -409,7 +410,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
     <strong>I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms</strong><br> 
 Vinayakumar R, Soman kp, Prabaharan poornachandran, Akarsh S, and Mohamed Elhoseny<br>
 Cybersecurity and Secure Information Systems, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/333883166_Improved_DGA_Domain_Names_Detection_and_Categorization_Using_Deep_Learning_Architectures_with_Classical_Machine_Learning_Algorithms' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -419,7 +420,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
     <strong>Time Split based pre-processing for Malicious URL Detection</strong><br> 
 Harikrishnan NB, <strong>Vinayakumar R</strong>, and Soman Kp<br>
 Cybersecurity and Secure Information Systems, Springer<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/333887019_Time_Split_Based_Pre-processing_with_a_Data-Driven_Approach_for_Malicious_URL_Detection' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -429,7 +430,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
     <strong>A Deep Learning Approach for Patch Based Disease Diagnosis from Microscopic Images</strong><br> 
 Anson simon, <strong>Vinayakumar R</strong>, Sowmya V, Soman KP and Gopalakrishnan EA<br>
 Elsevier<br>
-<strong> In Press </strong> <br>
+[<a href='https://books.google.com/books?hl=en&lr=&id=F5emDwAAQBAJ&oi=fnd&pg=PA109&dq=info:cxG-58hIQN8J:scholar.google.com&ots=3d7pUjgFmL&sig=qSA5Todvp69L3sS_ouzZ8eK588w#v=onepage&q&f=false' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -440,7 +441,7 @@ Elsevier<br>
     <strong>Deep Segregation of Plastic (DSP): Segregation of Plastic and Nonplastic Using Deep Learning</strong><br> 
 Sreelakshmi K, <strong>Vinayakumar R</strong> and Soman KP<br>
 Big Data Recommender Systems: Recent Trends and Advances, IET<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/334570937_Deep_segregation_of_plastic_DSP_segregation_of_plastic_and_nonplastic_using_deep_learning' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
@@ -450,7 +451,7 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
     <strong>Deep learning architecture for big data analytics in detecting intrusions and malicious URL</strong><br> 
 Harikrishnan NB, <strong>Vinayakumar R</strong>, Soman KP, Annappa B, and Mamoun Alazab<br>
 Big Data Recommender Systems: Recent Trends and Advances, IET<br>
-<strong> In Press </strong> <br>
+[<a href='https://www.researchgate.net/publication/334570954_AmritaDGA_a_comprehensive_data_set_for_domain_generation_algorithms_DGAs_based_domain_name_detection_systems_and_application_of_deep_learning' target='_blank'>chapter</a>] <br>
 </td>
 </tr>
 
