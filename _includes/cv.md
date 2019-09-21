@@ -11,7 +11,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 <tr>
   <td class='col-md-3'>Sep 2019</td>
-  <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab, Cincinnati Children's Hospital Medical Center.</td>
+  <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab Cincinnati Children's Hospital Medical Center.</td>
 </tr>
 
 </table>
