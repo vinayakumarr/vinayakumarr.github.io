@@ -11,7 +11,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 <tr>
   <td class='col-md-3'>Sep 2019</td>
-  <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab Cincinnati Children's Hospital Medical Center.</td>
+  <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab, Cincinnati Children's Hospital Medical Center.</td>
 </tr>
 
 </table>
@@ -74,13 +74,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   </td>
 </tr>
 <tr>
-<tr>
-  <td class='col-md-3'>Aug 2015 - Aug 2019</td>
-  <td>
-    <strong>Research Associate</strong>, <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a><br>
-    Data mining, Machine learning, Deep learning, Cyber Security, Natural language processing
-  </td>
-</tr>
+
 <tr>
   <td class='col-md-3'>Jun 2014 - Jul 2015</td>
   <td>
