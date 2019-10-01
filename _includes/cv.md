@@ -1175,7 +1175,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Neethu Mohan - Deep learning architectures for power quality disturbances classification
 + Rahul K Pathinarupothi - Deep learning for Sleep Apnea Detection
 
-## <i class="fa fa-chevron-right"></i> Tentative Thesis Committee
+## <i class="fa fa-chevron-right"></i> PhD Thesis Committee
 
 + Prof <a href='https://nlp.amrita.edu/somankp/' target='_blank'>Soman KP</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
 + Prof <a href='https://www.amrita.edu/faculty/ki-ram' target='_blank'>Ramachandran KI</a>, Computational Engineering and Networking, Amrita Vishwa Vidyapeetham
