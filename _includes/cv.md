@@ -145,6 +145,12 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   </td>
 </tr>
 
+<tr>
+  <td class='col-md-2'>Technical Program Committee</td>
+  <td markdown="1">
+<a href='http://www.iccsce.cn/news/view/70' target='_blank'> ICCSCT 2020 </a>
+  </td>
+</tr>
 
 <tr>
   <td class='col-md-2'>Admissions</td>
