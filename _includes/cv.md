@@ -2,7 +2,9 @@
 <hr>
 I am a Postdoctoral research fellow in <a href='https://www.cincinnatichildrens.org/' target='_blank'> Cincinnati Children's Hospital Medical Center</a>, at <a href="https://www.uc.edu/" target='_blank'>University of Cincinnati</a>. I am with the <a href="https://anil.cchmc.org/" target="_blank"> Jegga Research Lab</a> in <a href="https://www.cincinnatichildrens.org/research/divisions/b/bmi" target="blank">Biomedical Informatics</a>, working in the area of Artificial intelligence, machine learning, deep learning, and natural language processing for drug discovery and drug repositioning. My work includes researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining.
 
-I have a Ph.D. from <a href="https://www.amrita.edu/" target="_blank">Amrita Vishwa Vidyapeetham </a> and was advised by Professor, <a href="https://www.amrita.edu/faculty/kp-soman" target="_blank">Soman KP</a>. My thesis is on DEEP LEARNING APPROACHES TO DETECT ADVANCED CYBER ATTACKS, Artificial intelligence and most specifically, Machine Learning, Data mining, Deep learning, Big Data Analytics, Natural language processing, Signal and Image processing and Causal inference for Cyber Security. My publications are available on my <a href="https://scholar.google.co.in/citations?hl=en&user=oIYw0LQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> page and my open source contributions can be found on my <a href="https://github.com/vinayakumarr" target="_blank">Github</a> profile. During the Ph.D. work, I have worked on various Cyber Security problems such as intrusion detection, malware detection, ransomware detection, botnet detection, spam and phishing detection in email and URL, image spam detection, and spoofing detection.
+I have a Ph.D. from <a href="https://www.amrita.edu/" target="_blank">Amrita Vishwa Vidyapeetham </a> and was advised by Professor, <a href="https://www.amrita.edu/faculty/kp-soman" target="_blank">Soman KP</a>. My thesis is on DEEP LEARNING APPROACHES TO DETECT ADVANCED CYBER ATTACKS, Artificial intelligence and most specifically, Machine Learning, Data mining, Deep learning, Big Data Analytics, Natural language processing, Signal and Image processing and Causal inference for Cyber Security. My publications are available on my <a href="https://scholar.google.co.in/citations?hl=en&user=oIYw0LQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> page and my open source contributions can be found on my <a href="https://github.com/vinayakumarr" target="_blank">Github</a> profile. During the Ph.D. work, I have worked on various Cyber Security problems such as intrusion detection, malware detection, ransomware detection, DGA analysis, network traffic analysis, botnet detection, spam and phishing detection in email and URL, image spam detection, and spoofing detection.
+
+Computational thinking is an essential skill-set for everyone in 21st century. There are many attempts made by K-12 researcher to impart computational thinking into K-12 education. Block-based programming approach is a successfull method and I have worked on developing cloud-based block-based programming languages for Indian schools as well as development of tutorials with documentation in Indian local languages. I have done open source contribution to the scratch community.
 
 I have organized a shared task on "Detecting Malicious Domain names" in Cyber security domain. More details avilable at [DMD2018](https://nlp.amrita.edu/DMD2018/). We have made the [data set](https://github.com/vinayakumarr/AmritaDGA) and [baseline system](https://github.com/vinayakumarr/DMD2018) publically avilable for further research. I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/vinayakumarr/). This lead me to involve in developing [AmritaDGA](https://vinayakumarr.github.io/AmritaDGA/) data set for botnet detection, [deep learning based engine for plastic and non-plastic seggregation](https://vinayakumarr.github.io/DSP/) and data sets for sentimental ananlysis [Amrita-CEN-SentiDB](https://vinayakumarr.github.io/Amrita-CEN-SentiDB/), [Amrita-CEN-SentiDB1](https://vinayakumarr.github.io/Amrita-CEN-SentiDB1/)<br>
 
@@ -92,7 +94,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   <tr>
   <td class='col-md-3'>Feb 2017</td>
   <td>
-    Visiting Research Intern, <strong>Lakhshya Cyber Security Labs</strong>
+    Visiting Research Intern, <a href='https://www.lakhshyalabs.com/' target='_blank'> Lakhshya Cyber Security Labs</a>
   </td>
 </tr>
 </table>
@@ -195,7 +197,7 @@ MIT Scratch, Snap Berkley, BYOB, Scribble, Beetle Blocks
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, Torch, Basics of Caffe, DeepChem, DragoNN, Hadoop, Apache Spark, Weka and Matlab, Tetrad, Pcalg, NumPy, Pandas, SciPy
+Spark Mllib, Apache Mahout, XG-boost, Scikit-learn, Dato, Hpelm, Gurls, LibSVM, TensorFlow, Theano, Keras, Deeplearning4j, PyTorch, Basics of Caffe, DeepChem, DragoNN, Hadoop, Apache Spark, Weka and Matlab, Tetrad, Pcalg, NumPy, Pandas, SciPy, spaCy
   </td>
 </tr>
 <tr>
@@ -253,6 +255,8 @@ LibreOffice, Microsoft Office, and Latex
 + December 23, 2018 - <a href='https://nlp.amrita.edu/mda-dl18/' target='_blank'>Malware data analytics with Deep learning </a>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
+
++ Title Two day Workshop on Machine Learning – Hands on with Python/Matlab, Knowledge Resource Centre(KRC) ,C-DAC Centre @ Thiruvananthapuram. More details avilable <a href='http://krc-t.in/index.php/ml-workshop' target='_blank'> Workshop on Machine Learning</a>
 
 + Title: A workshop on Application of machine learning for cyber security. More details avilable <a href='http://www.iiitmk.ac.in/mlc18/' target='_blank'> MLC18</a>
 
@@ -1112,6 +1116,12 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 </td>
 </tr>
 
+<tr>
+<td>
+<a href='https://arxiv.org/abs/1910.01114' target='_blank'>Intrusion detection systems using classical machine learning techniques versus integrated unsupervised feature learning and deep neural network</a>
+</td>
+</tr>
+
 
 <tr>
 <td>
@@ -1199,7 +1209,8 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Mohammad Harun Babu, 2017 June-2019 May - Application of Deep learning for Cyber Security.
 + Sai prasad, Naren Babu and Arun Kumar, 2018 Jan-May - Machine learning for Microscopy image analysis.
 + Shriya Se, 2015 June-Dec 2016, Sentiment analysis in Indian languages.
-+ Sriram S, 2018 Nov-2019 May, Adverserial machine learning for Cyber Security
++ Sriram S, 2018 Nov-2019 May, Machine learning for Cyber Security
++ Simran K, 2018 Nov-2019 May, Machine learning, Deep learning and Natural language processing for Cyber Security, Deep learning applications in Smart city.
 + Sreelakshmi S, 2018 Jan-2018May, Deep learning and Image processing for Plastic and Non-plastic seggregation
 + Shashank Anivilla and Anupama, 2018 Jan-2019 May - Malware Analysis
 + Rahul vigneshwaran, 2018 May-2018 Oct - Deep neural networks for Intrusion detection
