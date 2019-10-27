@@ -917,25 +917,28 @@ Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya
 
 <tr>
 <td>
+<strong>Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes </strong> <br>
+Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
+Best paper award in 2019 International Conference on Advanced Computing & Communication Systems (ICACCS)<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8728405' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Ranosmware Triage Using Deep Learning: Twitter as a Case Study</strong> <br>
+<strong>Vinayakumar R</strong>, Mamoun Alazab, Alireza Jolfaei, Soman KP, and Prabaharan Poornachandran<br>
+[<a href='https://www.researchgate.net/publication/331391395_Ransomware_Triage_Using_Deep_Learning_Twitter_as_a_Case_Study' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
 <strong>Cost-Sensitive Long Short-term Memory for Imbalanced DGA Family Categorization </strong> <br>
 Mohammed Harun Babu, <strong> Vinayakumar R</strong> and Soman K P<br>
 <strong> In Press</strong><br>
 </td>
 </tr>
-
-
-<tr>
-<td>
-<strong>Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes </strong> <br>
-Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
-###Best paper award in 2019 International Conference on Advanced Computing & Communication Systems (ICACCS)<br>
-<strong> In Press</strong><br>
-</td>
-</tr>
-
-
-
-
 
 <tr>
 <td>
@@ -947,13 +950,27 @@ Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
 
 <tr>
 <td>
-<strong>Ranosmware Triage Using Deep Learning: Twitter as a Case Study</strong> <br>
-<strong>Vinayakumar R</strong>, Mamoun Alazab, Alireza Jolfaei, Soman KP, and Prabaharan Poornachandran<br>
+<strong>Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep learning</strong> <br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
 <strong> In Press</strong><br>
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep learning</strong> <br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
 
+<tr>
+<td>
+<strong>Convolutional Neural Networks for Fingerprint Liveness Detection System</strong> <br>
+Arun Kumar T K, <strong>Vinayakumar R</strong>, Sajith Variyar V V, Sowmya V and Soman K P<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
 
 </table>
 
