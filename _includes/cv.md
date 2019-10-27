@@ -417,7 +417,7 @@ Cybersecurity and Secure Information Systems, Springer<br>
 
 <tr>
 <td>
-    <strong>I-DGA-DC-Net: Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms</strong><br> 
+    <strong>Improved DGA Domain Detection and Categorization using Deep learning Architectures with Classical Machine learning Algorithms</strong><br> 
 Vinayakumar R, Soman kp, Prabaharan poornachandran, Akarsh S, and Mohamed Elhoseny<br>
 Cybersecurity and Secure Information Systems, Springer<br>
 [<a href='https://www.researchgate.net/publication/333883166_Improved_DGA_Domain_Names_Detection_and_Categorization_Using_Deep_Learning_Architectures_with_Classical_Machine_Learning_Algorithms' target='_blank'>chapter</a>] <br>
@@ -476,14 +476,7 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 
 <table class="table table-hover">
 
-<tr>
-<td>
-    <strong>Detecting Android Malware using Long Short-term Memory-LSTM</strong><br> 
-<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
-Journal of Intelligent and Fuzzy Systems - IOS Press<br>
-  [<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169424' target='_blank'>paper</a>]<br>
-</td>
-</tr>
+
 
 <tr>
 <td>
