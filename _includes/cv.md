@@ -569,8 +569,7 @@ IEEE Access<br>
 </td>
 </tr>
 
-<tr>
-<td>
+
   
   <tr>
 <td>
@@ -610,6 +609,359 @@ Anson Simon, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
 
 
 
+### Conference Papers 
+
+<table class="table table-hover">
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Networks for Secure Shell (SSH) Traffic Analysis</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125851&tag=1' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/1.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126018' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/2.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Android Malware Detection and Classification</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126084' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Long Short-Term Memory based Operation Log Anomaly Detection</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125846' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/3.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Encrypted Text Categorization</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125868' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/5.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Applying Convolutional Neural Network for Network Intrusion Detection</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126009' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/6.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and Deep networks</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126143' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/7.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Applying Deep Learning Approaches for Network Traffic Prediction</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126198' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/8.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Networks for Ransomware Detection and Classification</strong><br>
+<strong>Vinayakumar R</strong>, Soman KP, K.K.Senthil Velan and Shaunak Ganorkar<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125850' target='_blank'>paper</a>] [<a href='https://github.com/vinayakumarr/Conference-PPT/blob/master/9.pdf' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Instantaneous Heart Rate as a Robust Feature for Sleep Apnea Severity Detection using Deep Learning</strong><br>
+Rahul K. Pathinarupothi, <strong>Vinaykumar R</strong>, Ekanath Rangan, Gopalakrishnan E., and Soman K. P.<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7897263' target='_blank'>paper</a>] [<a href='' target='_blank'>slides</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Single Sensor Techniques for Sleep Apnea Diagnosis using Deep Learning</strong><br>
+Rahul K. Pathinarupothi, Dhara Prathap J., Ekanath Rangan, Gopalakrishnan E., <strong>Vinaykumar R</strong>, and Soman K. P.<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8031206' target='_blank'>paper</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Real-time Detection of Atrial Fibrillation from Short time single lead ECG traces using Recurrent neural networks</strong><br>
+Sujadevi VG., Soman KP., and <strong>Vinayakumar R</strong><br>
+Intelligent Systems Technologies and Applications (ISTA'17), Springer<br>
+[<a href='https://link.springer.com/chapter/10.1007/978-3-319-68385-0_18' target='_blank'>paper</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Anomaly detection in Phonocardiogram employing Deep learning</strong><br>
+Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
+4th International Conference on Computational Intelligence in Data Mining (ICCIDM-2017), Springer <br>
+[<a href='https://link.springer.com/chapter/10.1007/978-981-10-8055-5_47' target='_blank'>paper</a>] <br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep models for Phonocardiography (PCG) classification</strong><br>
+Sujadevi VG., Soman KP., <strong>Vinayakumar R</strong> and Prem Sankar AU.<br>
+[<a href='https://ieeexplore.ieee.org/document/8324047' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model</strong><br>
+Sreelekshmy Selvin., <strong>Vinayakumar R</strong>, Gopalakrishnan E., Vijay Krishna Menon., Soman K.P.,<br>
+6th International Conference on Advances in Computing, Communications and Informatics (ICACCI2017)<br>
+[<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126078' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>AMRITA-CEN@SAIL2015: Sentiment analysis in Indian languages</strong><br>
+Shriya Se, <strong>Vinayakumar</strong>, R., Anand Kumar M., and Soman K.P. <br>
+MIKE 2015 Proceedings of the Third International Conference on Mining Intelligence and Knowledge Exploration, Springer <br>
+[<a href='https://rd.springer.com/chapter/10.1007/978-3-319-26832-3_67' target='_blank'>paper</a>]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Predicting the Sentimental Reviews in Tamil Movie using Machine Learning Algorithms</strong> <br>
+Shriya Se, <strong>Vinayakumar R</strong>, Anand Kumar M., and Soman K.P. <br>
+Indian Journal of Science and Technology (IJST) <br>
+[<a href='http://www.indjst.org/index.php/indjst/article/view/106482' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification</strong> <br>
+Neethu Mohan, Soman K.P, and <strong>Vinayakumar R</strong> <br>
+[<a href='https://ieeexplore.ieee.org/document/8397249' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors</strong> <br>
+Vysakh S Mohan, <strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran <br>
+[<a href='https://ieeexplore.ieee.org/document/8424657' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Automated detection of cardiac arrhythmia using deep learning techniques</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S187705091830766X' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Diabetes: Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals</strong> <br>
+Swapna G, Soman KP and <strong>Vinayakumar R</strong> <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S1877050918307737' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Learning Models for the Prediction of Rainfall</strong> <br>
+Aswin S, Geetha P and <strong>Vinayakumar R </strong><br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8523829/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td>
+<strong>Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security</strong> <br>
+Vigneswaran K Rahul, <strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8494096' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Alg-Design: facilitates to learn Algorithmic thinking for beginners</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8493952' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>CT-Blocks Analyser: Analysing CT-Blocks Projects</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8493970/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>Digital Storytelling Using Scratch: Engaging Children Towards Digital Storytelling</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8493941' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Fractal Geometry: Enhancing Computational Thinking with MIT Scratch</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8494172' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<strong>DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8494181' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8493700' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>CT-Blocks: Learning Computational Thinking by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8493669' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Building-Blocks: Generating 3D Design by Snapping Blocks</strong> <br>
+<strong>Vinayakumar R</strong>, Soman KP and Pradeep Menon<br>
+[<a href='https://ieeexplore.ieee.org/document/8494036' target='_blank'>paper</a>]
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Predicting Market Prices Using Deep Learning Techniques</strong> <br>
+Dileep G Menon Nishanth C P, Dr. V K Gopal, <strong>Vinayakumar R</strong>, Lakshmi Nambiar<br>
+[<a href='https://acadpubl.eu/hub/2018-118-21/articles/21a/28.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<strong>Deep neural network for phonocardiogram signal classification</strong> <br>
+Mohammed Harun Babu R, Sai Bhanuja B, <strong>Vinayakumar R</strong>, Sowmya V<br>
+[<a href='http://ijrar.org/papers/IJRAR19SP019.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<strong>Performance comparision of machine learning algorithms for malaria detection using micrscopic images </strong> <br>
+Naren Babu R, Saiprasath G, Arunpriyan J, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
+[<a href='http://ijrar.org/papers/IJRAR19SP014.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes </strong> <br>
+Sreelakshmi K, Akarsh S, <strong>Vinayakumar R</strong> and Soman KP<br>
+Best paper award in 2019 International Conference on Advanced Computing & Communication Systems (ICACCS)<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8728405' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Ranosmware Triage Using Deep Learning: Twitter as a Case Study</strong> <br>
+<strong>Vinayakumar R</strong>, Mamoun Alazab, Alireza Jolfaei, Soman KP, and Prabaharan Poornachandran<br>
+[<a href='https://www.researchgate.net/publication/331391395_Ransomware_Triage_Using_Deep_Learning_Twitter_as_a_Case_Study' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Cost-Sensitive Long Short-term Memory for Imbalanced DGA Family Categorization </strong> <br>
+Mohammed Harun Babu, <strong> Vinayakumar R</strong> and Soman K P<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning</strong> <br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep learning</strong> <br>
+Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Convolutional Neural Networks for Fingerprint Liveness Detection System</strong> <br>
+Arun Kumar T K, <strong>Vinayakumar R</strong>, Sajith Variyar V V, Sowmya V and Soman K P<br>
+<strong> In Press</strong><br>
+</td>
+</tr>
+
+</table>
 
 
 
