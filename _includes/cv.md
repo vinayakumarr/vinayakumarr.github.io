@@ -486,8 +486,129 @@ Journal of Intelligent and Fuzzy Systems - IOS Press<br>
 </td>
 </tr>
 
+<tr>
+<td>
+    <strong>Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP, Prabaharan Poornachandran and Sachin Kumar S<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+  [<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169423' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+  [<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169429' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Detecting Malicious Domain Names using Deep Learning Approaches at Scale</strong><br> 
+<strong>Vinayakumar R</strong>, Soman KP and Prabaharan Poornachandran<br>
+Journal of Intelligent and Fuzzy Systems - IOS Press<br>
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169431' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Evaluation of Recurrent Neural Network and its Variants for Intrusion Detection System (IDS)</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
+International Journal of Information System Modeling and Design (IJISMD)<br>
+[<a href='https://www.igi-global.com/article/evaluation-of-recurrent-neural-network-and-its-variants-for-intrusion-detection-system-ids/204371' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+    <strong>A Comparative Analysis of Deep learning Approaches for Network Intrusion Detection Systems (N-IDSs)</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran<br>
+International Journal of Digital Crime and Forensics (IJDCF)<br>
+[<a href='https://www.igi-global.com/article/a-comparative-analysis-of-deep-learning-approaches-for-network-intrusion-detection-systems-n-idss/227640' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>ScaleNet: Scalable and Hybrid Framework for Cyber Threat Situational Awareness Based on DNS, URL, and Email Data Analysis</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman, Prabaharan Poornachandran, Vysakh S Mohan, Amara Dinesh Kumar<br>
+Journal of Cyber Security and Mobility<br>
+[<a href='https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/2/3' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>DeepMalNet: Evaluating shallow and deep networks for static PE malware detection</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman<br>
+ICT Express<br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304636' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Robust Intelligent Malware Detection Using Deep Learning</strong><br> 
+<strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Sitalakshmi Venkatraman<br>
+IEEE Access<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8681127/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Deep Learning Approach for Intelligent Intrusion Detection System</strong><br> 
+<strong>R Vinayakumar</strong>, Mamoun Alazab, KP Soman, Prabaharan Poornachandran, Ameer Al-Nemrat, Sitalakshmi Venkatraman<br>
+IEEE Access<br>
+[<a href='https://ieeexplore.ieee.org/abstract/document/8681044/' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+  
+  <tr>
+<td>
+    <strong>A hybrid deep learning image-based analysis for effective malware detection</strong><br> 
+Sitalakshmi Venkatraman, Mamoun Alazab, <strong>R Vinayakumar</strong><br>
+Journal of Information Security and Applications - Elsevier<br>
+  [<a href='https://www.sciencedirect.com/science/article/abs/pii/S2214212618304563' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+  
+<tr>
+  <td>
+    <strong>Diabetes detection using deep learning algorithms</strong><br> 
+Swapna G, <strong>R Vinayakumar</strong>, KP Soman<br>
+ICT Express<br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S2405959518304624' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Deep Rectified System for High-speed Tracking in Images</strong> <br>
+Vysakh S Mohan, <strong>Vinayakumar R</strong>, Sowmya V<br>
+[<a href='https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169907' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Shallow CNN with LSTM Layer for Tuberculosis Detection in Microscopic Images</strong> <br>
+Anson Simon, <strong>Vinayakumar R</strong>, Sowmya V and Soman K P<br>
+[<a href='https://www.ijrte.org/wp-content/uploads/papers/v7i6s3/F1012376S19.pdf' target='_blank'>paper</a>]<br>
+</td>
+</tr>
 
 </table>
+
+
 
 
 
