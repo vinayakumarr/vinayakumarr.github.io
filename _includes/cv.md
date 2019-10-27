@@ -958,14 +958,6 @@ Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
 
 <tr>
 <td>
-<strong>Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep learning</strong> <br>
-Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
-<strong> In Press</strong><br>
-</td>
-</tr>
-
-<tr>
-<td>
 <strong>Convolutional Neural Networks for Fingerprint Liveness Detection System</strong> <br>
 Arun Kumar T K, <strong>Vinayakumar R</strong>, Sajith Variyar V V, Sowmya V and Soman K P<br>
 <strong> In Press</strong><br>
