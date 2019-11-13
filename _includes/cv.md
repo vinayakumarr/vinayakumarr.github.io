@@ -150,7 +150,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <tr>
   <td class='col-md-2'>Technical Program Committee</td>
   <td markdown="1">
-<a href='http://www.iccsce.cn/news/view/70' target='_blank'> ICCSCT 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Conf=40&Track=418' target='_blank'> GC-NetCom 2020 </a>
+<a href='http://www.iccsce.cn/news/view/70' target='_blank'> ICCSCT 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Multimedia2020&Div=Committee&Conf=40' target='_blank'> MIC-Multimedia 2020 </a> <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Finance2020&Div=Committee&Conf=69' target='_blank'>MIC-Finance 2020 </a> <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Security2020&Div=Committee&Conf=45' target='_blank'>MIC-Security 2020 </a> <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Cognitive2020&Div=Committee&Conf=77' target='_blank'> MIC-Cognitive 2020 </a>
   </td>
 </tr>
 
