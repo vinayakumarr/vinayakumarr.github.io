@@ -1231,7 +1231,7 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Sriram S, 2018 Nov-2019 May, Machine learning for Cyber Security
 + Simran K, 2018 Nov-2019 May, Machine learning, Deep learning and Natural language processing for Cyber Security, Deep learning applications in Smart city.
 + Sreelakshmi S, 2018 Jan-2018May, Deep learning and Image processing for Plastic and Non-plastic seggregation
-+ Shashank Anivilla and Anupama, 2018 Jan-2019 May - Malware Analysis
++ Shashank Anivilla and Sai Aparna, 2018 Jan-2019 May - Malware Analysis, Image spam and Webpage spam detection
 + Rahul vigneshwaran, 2018 May-2018 Oct - Deep neural networks for Intrusion detection
 + Vidya Prasad, 2018 Nov - May 2019 - Deep learning based Sanskrit Sandhi splitting
 
