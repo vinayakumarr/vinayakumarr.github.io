@@ -28,6 +28,8 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 + Natural Language Processing and Text Analytics
 
++ Computational Thinking and Block based Programming
+
 + Cyber Threat Situational Awareness Data Analysis- DNS logs, Spam and Phishing URL and Email, Social media security related data
 
 + Malware, Intrusion, Anamoly and Fraud Detection
