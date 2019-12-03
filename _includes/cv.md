@@ -334,6 +334,22 @@ LibreOffice, Microsoft Office, and Latex
 + Data mining for Healthcare
 + Software Testing
 
+## <i class="fa fa-chevron-right"></i> Research work done with Influential researchers
+
++ Professor, [Mamoun Alazab](https://sites.google.com/view/alazabm)
++ Professor, [Alireza Jolfaei](http://jolfaei.info/)
++ Professor, [Sitalakshmi Venkatraman](https://scholar.google.co.in/citations?user=0k0FQqEAAAAJ&hl=en)
++ Professor, [Ameer Al-Nemrat](https://www.uel.ac.uk/staff/a/ameer-al-nemrat)
++ Professor, [Mohamed Elhoseny](http://www.mohamedelhoseny.com/)
++ Professor, [Annappa B](https://cse.nitk.ac.in/faculty/annappa)
++ Professor, [SABU M THAMPI](http://sabumthampi.in/)
++ Professor, [Pradeep Menon](https://scholar.google.co.in/citations?user=lmm2ZjkAAAAJ&hl=en)
++ Professor, [Anand Kumar M](https://infotech.nitk.ac.in/faculty/anand-kumar-m)
++ Professor, [Sowmya V](https://www.amrita.edu/faculty/v-sowmya)
++ Professor, [E. A. Gopalakrishnan](https://www.amrita.edu/faculty/ea-gopalakrishnan)
++ Professor, [Lakshmi Nambiar](https://www.researchgate.net/profile/Lakshmi_Nambiar)
+
+
 ## <i class="fa fa-chevron-right"></i> All Publications
 
 <a href="https://scholar.google.com/citations?user=oIYw0LQAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
