@@ -72,7 +72,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   <td class='col-md-3'>Sep 2019 - present</td>
   <td>
     <strong>Postdoctoral research fellow</strong>, <a href='https://anil.cchmc.org/' target='_blank'> Jegga Research lab </a><br>
-    Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
+    Disease Gene Discovery/Prioritization, Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
   </td>
 </tr>
 
