@@ -466,7 +466,14 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 </tr>
 
 
-
+<tr>
+<td>
+    <strong>Diabetes Detection Using ECG Signals: An Overview</strong><br> 
+G Swapna, Soman KP, and <strong>Vinayakumar R</strong><br>
+Deep Learning Techniques for Biomedical and Health Informatics, Springer<br>
+[<a href='https://www.researchgate.net/publication/337288041_Diabetes_Detection_Using_ECG_Signals_An_Overview' target='_blank'>chapter</a>] <br>
+</td>
+</tr>
 
 
 </table>
