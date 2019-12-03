@@ -22,7 +22,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 
 + Application of Data mining, Machine learning (including Deep learning), Natural language processing and Image processing for Cyber Security
 
-+ Drug discovery and Drug repositioning
++ Disease Gene Discovery/Prioritization, Drug discovery and Drug repositioning
 
 + Big Security Data Analytics
 
