@@ -1143,7 +1143,18 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 
 
 <table class="table table-hover">
-
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/A_Comprehensive_Tutorial_and_Survey_of_Applications_of_Deep_Learning_for_Cyber_Security/11473377' target='_blank'>A Comprehensive Tutorial and Survey of Applications of Deep Learning for Cyber Security</a>
+</td>
+</tr>
+  
+  
+ <tr>
+<td>
+<a href='https://www.techrxiv.org/articles/Malicious_URL_Detection_using_Deep_Learning/11492622' target='_blank'>Malicious URL Detection using Deep Learning</a>
+</td>
+</tr>
 
 <tr>
 <td>
