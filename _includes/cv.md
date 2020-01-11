@@ -485,6 +485,14 @@ Big Data Recommender Systems: Recent Trends and Advances, IET<br>
 </td>
 </tr>
 
+<tr>
+<td>
+    <strong>DeepDGA-MINet: Cost-Sensitive Deep Learning Based Framework for Handling Multiclass Imbalanced DGA Detection</strong><br> 
+<strong>R Vinayakumar</strong>, KP Soman, P Poornachandran<br>
+Handbook of Computer Networks and Cyber Security, Springer<br>
+[<a href='https://link.springer.com/chapter/10.1007/978-3-030-22277-2_37' target='_blank'>chapter</a>] <br>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -976,7 +984,15 @@ Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
 <td>
 <strong>Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep learning</strong> <br>
 Naveenkumar K S, <strong>Vinayakumar R</strong>, Soman KP<br>
-<strong> In Press</strong><br>
+[<a href='https://www.researchgate.net/publication/338369724_Amrita-CEN-SentiDB_1_Improved_Twitter_Dataset_for_Sentimental_Analysis_and_Application_of_Deep_learning' target='_blank'>paper</a>]<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Capsule Network for Plant Disease and Plant Species Classification</strong> <br>
+Vimal Kurup, MA Anupama, <strong>R Vinayakumar</strong>, V Sowmya, KP Soman <br>
+[<a href='https://www.researchgate.net/publication/338414469_Capsule_Network_for_Plant_Disease_and_Plant_Species_Classification' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
