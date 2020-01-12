@@ -79,6 +79,14 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
     Disease Gene Discovery/Prioritization, Drug discovery and Drug repositioning: researching, developing and implementing novel computational and machine learning algorithms and applications for big data integration and data mining
   </td>
 </tr>
+  
+<tr>
+  <td class='col-md-3'>July 19, 2019 - July 26, 2019</td>
+  <td>
+    <strong>Machine learning Summer School (MLSS) participant</strong>, <a href='https://sites.google.com/view/mlss-2019' target='_blank'> MLSS 2019, London </a><br>
+    Lectures and Tutorials on Deep Learning, Optimization, Variational Inference, Reinforcement Learning, Interpretability, Gaussian Processes, Kernels, Markov chain Monte Carlo, AI for Good, Approximate Bayesian Computation, Fairness and Ethics in AI, Speech Processing, Learning Theory, Machine Learning in Computational Biology, and Submodularity
+  </td>
+</tr>
 
 
 <tr>
