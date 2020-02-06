@@ -14,6 +14,12 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <tr>
   <td class='col-md-3'>Sep 2019</td>
   <td>Joined as Postdoctoral Research Fellow in Jegga Research Lab, Cincinnati Children's Hospital Medical Center.</td>
+  
+</tr>
+<tr>
+  <td class='col-md-3'>02 Feb 2019</td>
+  <td>Our work on A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities has been accepted by [IEEE IAS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28). The preprint and the code will be available soon.</td>
+  
 </tr>
 
 </table>
