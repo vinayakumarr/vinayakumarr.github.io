@@ -18,7 +18,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 <tr>
   <td class='col-md-3'>02 Feb 2019</td>
-  <td>Our work on <a href="https://ieeexplore.ieee.org/document/8985278" target="_blank"> A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities has been accepted by IEEE Transactions on Industry Applications. The preprint and the code will be available soon.</td>
+  <td>Our work on <a href="https://ieeexplore.ieee.org/document/8985278" target="_blank"> A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities</a> has been accepted by IEEE Transactions on Industry Applications. The preprint and the code will be available soon.</td>
   
 </tr>
 
