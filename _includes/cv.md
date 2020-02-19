@@ -22,6 +22,18 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   
 </tr>
 
+<tr>
+  <td class='col-md-3'>17 Feb 2019</td>
+  <td>Our paper Multi-scale Learning based Malware Variant Detection using Spatial Pyramid Pooling Network </a> has been accepted by INFOCOM 2020 WKSHPS BigSecurity. The preprint and the code will be available soon.</td>
+  
+</tr>
+
+<tr>
+  <td class='col-md-3'>19 Feb 2019</td>
+  <td>Our paper A Deep learning Approach for Botnet Detection in the Internet of Things Networks of Smart Cities </a> has been accepted by INFOCOM 2020 DDINS. The preprint and the code will be available soon.</td>
+  
+</tr>
+
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Research interests
