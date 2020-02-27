@@ -29,10 +29,26 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 </tr>
 
 <tr>
+  <td class='col-md-3'>18 Feb 2019</td>
+  <td>Program committee member for Track 3: Privacy Track, IEEE TrustCom, 2020</td>
+  
+</tr>
+
+
+<tr>
+  <td class='col-md-3'>18 Feb 2019</td>
+  <td>program co-chair for IEEE SmartData-2020</td>
+  
+</tr>
+
+
+<tr>
   <td class='col-md-3'>19 Feb 2019</td>
   <td>Our paper A Deep learning Approach for Botnet Detection in the Internet of Things Networks of Smart Cities has been accepted by INFOCOM 2020 DDINS. The preprint and the code will be available soon.</td>
   
 </tr>
+
+
 
 </table>
 
@@ -168,6 +184,10 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   <td markdown="1">
 <a href='https://nlp.amrita.edu/DMD2018/' target='_blank'> DMD 2018 </a>
   </td>
+    <td markdown="1">
+<a href='https://conferences.computer.org/smartdataservices/2020/' target='_blank'> IEEE SmartData-2020 </a>
+  </td>
+
 </tr>
 
 <tr>
@@ -180,7 +200,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <tr>
   <td class='col-md-2'>Technical Program Committee</td>
   <td markdown="1">
-<a href='http://www.iccsce.cn/news/view/70' target='_blank'> ICCSCT 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Multimedia2020&Div=Committee&Conf=40' target='_blank'> MIC-Multimedia 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Finance2020&Div=Committee&Conf=69' target='_blank'>MIC-Finance 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Security2020&Div=Committee&Conf=45' target='_blank'>MIC-Security 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Cognitive2020&Div=Committee&Conf=77' target='_blank'> MIC-Cognitive 2020 </a>, <a href="http://csi-india.org/csi2020/" target="_blank"> CSI2020 </a>, <a href="https://sites.google.com/view/iot-smart-env/home?authuser=0" target="_blank"> Book: Internet of Things and Secure Smart Environments: Success and Pitfalls, CRC Press </a> ,  <a href="http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-InfoTech2020&Div=Committee&Conf=49" target="_blank"> MIC-InfoTech 2020 </a>
+<a href='http://www.iccsce.cn/news/view/70' target='_blank'> ICCSCT 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Multimedia2020&Div=Committee&Conf=40' target='_blank'> MIC-Multimedia 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Finance2020&Div=Committee&Conf=69' target='_blank'>MIC-Finance 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Security2020&Div=Committee&Conf=45' target='_blank'>MIC-Security 2020 </a>, <a href='http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-Cognitive2020&Div=Committee&Conf=77' target='_blank'> MIC-Cognitive 2020 </a>, <a href="http://csi-india.org/csi2020/" target="_blank"> CSI2020 </a>, <a href="https://sites.google.com/view/iot-smart-env/home?authuser=0" target="_blank"> Book: Internet of Things and Secure Smart Environments: Success and Pitfalls, CRC Press </a> ,  <a href="http://mosharaka.net/?Area=Conferences&Page=CongSite&Sec=MIC-InfoTech2020&Div=Committee&Conf=49" target="_blank"> MIC-InfoTech 2020 </a>, <a href='http://ieee-trustcom.org/TrustCom2020/' target="_blank"> IEEE TrustCom, 2020 </a>
   </td>
 </tr>
 
