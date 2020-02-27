@@ -182,9 +182,7 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
 <tr>
   <td class='col-md-2'>Program Chair</td>
   <td markdown="1">
-<a href='https://nlp.amrita.edu/DMD2018/' target='_blank'> DMD 2018 </a>
-  </td>
-    <td markdown="2">
+<a href='https://nlp.amrita.edu/DMD2018/' target='_blank'> DMD 2018 </a>, 
 <a href='https://conferences.computer.org/smartdataservices/2020/' target='_blank'> IEEE SmartData-2020 </a>
   </td>
 
