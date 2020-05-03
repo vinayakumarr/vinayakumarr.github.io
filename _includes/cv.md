@@ -48,6 +48,17 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   
 </tr>
 
+<tr>
+  <td class='col-md-3'>19 Feb 2019</td>
+  <td>Submitted a paper Deep Learning Based Two-Level (DLTL) integrated Data Analysis Framework for validating DNS spoofing and mitigating homoglyphs attacks into IEEE Transaction on Engineering Management</td>
+  
+</tr>
+
+<tr>
+  <td class='col-md-3'>19 Feb 2019</td>
+  <td>Submitted a paper Deep Learning for Cyber Security Applications: A Comprehensive Survey into IEEE Communications Surveys and Tutorials</td>
+  
+</tr>
 
 
 </table>
