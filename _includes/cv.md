@@ -17,45 +17,45 @@ I have organized a shared task on "Detecting Malicious Domain names" in Cyber se
   
 </tr>
 <tr>
-  <td class='col-md-3'>02 Feb 2019</td>
+  <td class='col-md-3'>02 Feb 2020</td>
   <td>Our work on <a href="https://ieeexplore.ieee.org/document/8985278" target="_blank"> A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities </a> has been accepted by IEEE Transactions on Industry Applications. The preprint and the code will be available soon.</td>
   
 </tr>
 
 <tr>
-  <td class='col-md-3'>17 Feb 2019</td>
+  <td class='col-md-3'>17 Feb 2020</td>
   <td>Our paper Multi-scale Learning based Malware Variant Detection using Spatial Pyramid Pooling Network has been accepted by INFOCOM 2020 WKSHPS BigSecurity. The preprint and the code will be available soon.</td>
   
 </tr>
 
 <tr>
-  <td class='col-md-3'>18 Feb 2019</td>
+  <td class='col-md-3'>18 Feb 2020</td>
   <td>Program committee member for Track 3: Privacy Track, IEEE TrustCom, 2020</td>
   
 </tr>
 
 
 <tr>
-  <td class='col-md-3'>18 Feb 2019</td>
+  <td class='col-md-3'>18 Feb 2020</td>
   <td>program co-chair for IEEE SmartData-2020</td>
   
 </tr>
 
 
 <tr>
-  <td class='col-md-3'>19 Feb 2019</td>
+  <td class='col-md-3'>19 Feb 2020</td>
   <td>Our paper A Deep learning Approach for Botnet Detection in the Internet of Things Networks of Smart Cities has been accepted by INFOCOM 2020 DDINS. The preprint and the code will be available soon.</td>
   
 </tr>
 
 <tr>
-  <td class='col-md-3'>19 Feb 2019</td>
+  <td class='col-md-3'>19 Feb 2020</td>
   <td>Submitted a paper Deep Learning Based Two-Level (DLTL) integrated Data Analysis Framework for validating DNS spoofing and mitigating homoglyphs attacks into IEEE Transaction on Engineering Management</td>
   
 </tr>
 
 <tr>
-  <td class='col-md-3'>19 Feb 2019</td>
+  <td class='col-md-3'>22 Apr 2020</td>
   <td>Submitted a paper Deep Learning for Cyber Security Applications: A Comprehensive Survey into IEEE Communications Surveys and Tutorials</td>
   
 </tr>
