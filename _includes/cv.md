@@ -1203,7 +1203,39 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 <a href='https://www.techrxiv.org/articles/A_Comprehensive_Tutorial_and_Survey_of_Applications_of_Deep_Learning_for_Cyber_Security/11473377' target='_blank'>A Comprehensive Tutorial and Survey of Applications of Deep Learning for Cyber Security</a>
 </td>
 </tr>
-  
+
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/preprint/Robust_Malware_Detection_using_Residual_Attention_Network/13385291' target='_blank'>Robust Malware Detection using Residual Attention Network</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/preprint/DCNN-IDS_Deep_Convolutional_Neural_Network_based_Intrusion_Detection_System/12151734' target='_blank'>DCNN-IDS : Deep Convolutional Neural Network based Intrusion Detection System</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/preprint/Deep_convolutional_neural_network_based_image_spam_classification/11999736' target='_blank'>Deep convolutional neural network based image spam classification</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/preprint/Towards_Evaluating_the_Robustness_of_Deep_Intrusion_Detection_Models_in_Adversarial_Environment/12151749' target='_blank'>Towards Evaluating the Robustness of Deep Intrusion Detection Models in Adversarial Environment</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href='https://www.techrxiv.org/articles/preprint/Amrita-CEN-Senti-DB_Twitter_Dataset_for_Sentimental_Analysis_and_Application_of_Classical_Machine_Learning_and_Deep_Learning/12058968' target='_blank'>Amrita-CEN-Senti-DB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning</a>
+</td>
+</tr>
+
+
   
  <tr>
 <td>
@@ -1336,7 +1368,8 @@ HB Barathi Ganesh, N Abinaya, M Anand Kumar, <strong>R Vinayakumar</strong>, KP 
 + Shashank Anivilla and Sai Aparna, 2018 Jan-2019 May - Malware Analysis, Image spam and Webpage spam detection
 + Rahul vigneshwaran, 2018 May-2018 Oct - Deep neural networks for Intrusion detection
 + Vidya Prasad, 2018 Nov - May 2019 - Deep learning based Sanskrit Sandhi splitting
-
++ Shamika Ganesan, Feb 17, 2020, Dec, 08, 2020 - Residual attention methods for Image based malware classification.
++ Harini Narasimhan, Nov, 2020 - present - Biomedical informatics and Healthcare applications.
 
 
 
