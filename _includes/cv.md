@@ -1055,7 +1055,7 @@ Vimal Kurup, MA Anupama, <strong>R Vinayakumar</strong>, V Sowmya, KP Soman <br>
 <td>
 <strong>Convolutional Neural Networks for Fingerprint Liveness Detection System</strong> <br>
 Arun Kumar T K, <strong>Vinayakumar R</strong>, Sajith Variyar V V, Sowmya V and Soman K P<br>
-<strong> In Press</strong><br>
+[<a href='https://www.researchgate.net/publication/340690902_Convolutional_Neural_Networks_for_Fingerprint_Liveness_Detection_System' target='_blank'>paper</a>]<br>
 </td>
 </tr>
 
